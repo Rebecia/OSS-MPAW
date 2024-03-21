@@ -1,0 +1,67 @@
+{
+    "nodes": [
+        {
+            "edge_name": [
+                178
+            ],
+            "edge_coexisting": [
+                178,
+                244,
+                595,
+                989
+            ],
+            "package_id": 1060,
+            "OSS": "RubyGems",
+            "Source": "Snyk.io",
+            "Status": "untracked",
+            "filepath": "https://security.snyk.io/vuln/",
+            "package_name": "active-search",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "17 Apr 2020",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": "['https://thenewstack.io/understanding-golang-packages/']",
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "id": 1060
+        },
+        {
+            "package_id": 178,
+            "OSS": "RubyGems",
+            "Source": "Backstabber-Knife",
+            "Status": "untracked",
+            "filepath": "https://dasfreak.github.io/Backstabbers-Knife-Collection/",
+            "package_name": "active-search",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "2020-05-19T",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": "['https://thenewstack.io/understanding-golang-packages/']",
+            "edge_name": [
+                1060,
+                1060
+            ],
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [
+                244,
+                595,
+                989,
+                1060,
+                244,
+                595,
+                989,
+                1060
+            ],
+            "id": 178
+        }
+    ]
+}

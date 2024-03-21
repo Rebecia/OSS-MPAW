@@ -1,0 +1,62 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "edge_name": [
+                69
+            ],
+            "package_id": 860,
+            "OSS": "RubyGems",
+            "Source": "Snyk.io",
+            "Status": "untracked",
+            "filepath": "https://security.snyk.io/vuln/",
+            "package_name": "abstract-api_wrapper",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "17 Apr 2020",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 860
+        },
+        {
+            "package_id": 69,
+            "OSS": "RubyGems",
+            "Source": "Backstabber-Knife",
+            "Status": "untracked",
+            "filepath": "https://dasfreak.github.io/Backstabbers-Knife-Collection/",
+            "package_name": "abstract-api_wrapper",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "2020-05-19T",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_name": [
+                860,
+                860
+            ],
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 69
+        }
+    ],
+    "links": [
+        {
+            "source": 860,
+            "target": 69
+        }
+    ]
+}

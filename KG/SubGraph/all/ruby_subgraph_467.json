@@ -1,0 +1,62 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 480,
+            "OSS": "RubyGems",
+            "Source": "Backstabber-Knife",
+            "Status": "untracked",
+            "filepath": "https://dasfreak.github.io/Backstabbers-Knife-Collection/",
+            "package_name": "aws-upload",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "2020-05-19T",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_name": [
+                979,
+                979
+            ],
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 480
+        },
+        {
+            "edge_name": [
+                480
+            ],
+            "package_id": 979,
+            "OSS": "RubyGems",
+            "Source": "Snyk.io",
+            "Status": "untracked",
+            "filepath": "https://security.snyk.io/vuln/",
+            "package_name": "aws-upload",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "17 Apr 2020",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 979
+        }
+    ],
+    "links": [
+        {
+            "source": 480,
+            "target": 979
+        }
+    ]
+}

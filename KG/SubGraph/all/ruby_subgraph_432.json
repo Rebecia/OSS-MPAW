@@ -1,0 +1,62 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 443,
+            "OSS": "RubyGems",
+            "Source": "Backstabber-Knife",
+            "Status": "untracked",
+            "filepath": "https://dasfreak.github.io/Backstabbers-Knife-Collection/",
+            "package_name": "asset-symlink",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "2020-05-19T",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_name": [
+                1183,
+                1183
+            ],
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 443
+        },
+        {
+            "edge_name": [
+                443
+            ],
+            "package_id": 1183,
+            "OSS": "RubyGems",
+            "Source": "Snyk.io",
+            "Status": "untracked",
+            "filepath": "https://security.snyk.io/vuln/",
+            "package_name": "asset-symlink",
+            "sourcecode_hash": null,
+            "dependency": null,
+            "source_publish": "17 Apr 2020",
+            "API_Use": null,
+            "Tokens_num": null,
+            "Embedding_vector": null,
+            "Cluster_type": null,
+            "Report": null,
+            "edge_codehash": [],
+            "edge_dependency": [],
+            "edge_similar": [],
+            "edge_coexisting": [],
+            "id": 1183
+        }
+    ],
+    "links": [
+        {
+            "source": 443,
+            "target": 1183
+        }
+    ]
+}
