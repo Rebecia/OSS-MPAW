@@ -1,4 +1,7 @@
 # OSS-MPAW
+## What can you get from OSS-MPAW:
+1. Dataset of malicious software packages that we have collected and processed(in Excels).
+2. The scripts of trying downloading packages, processing them, and establishing their knowledge graphs.
 
 ## Get_KG：Build Knowledge Graphs and Generate four kinds of Subgrah
 - **[Data]** - Our dataset
