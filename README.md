@@ -13,7 +13,7 @@ This project has built and curate the largest dataset of 23,425 malicious packag
 5. Dataset of dependency malware groups.
 6. Dataset of co-existing malware groups. 
 
-*You can obtain full raw data by email: <fake@example.com>*
+*You can obtain full raw data by email: 18810838337@163.com*
 
 
 ## Documentation
