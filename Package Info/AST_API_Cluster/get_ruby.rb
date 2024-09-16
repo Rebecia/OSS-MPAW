@@ -1,62 +1,69 @@
-require 'ripper'
+# 解析并提取函数调用的脚本
+require 'parser/current'
+require 'rubygems'
+require 'bundler/setup'
+$LOAD_PATH.unshift('/Users/zhouxiaoyan/.gem/ruby/2.6.0/gems/unparser-0.6.4/lib')
+require 'unparser'
 require 'json'
 
-def parse_rb_content(rb_content)
-  begin
-    ast = Ripper.sexp(rb_content)
+# 读取代码文件并解析为AST
+def extract_api_calls_from_file(file_path)
+  file_content = File.read(file_path)
+  buffer = Parser::Source::Buffer.new(file_path)
+  buffer.source = file_content
+  parser = Parser::CurrentRuby.new
+  ast = parser.parse(buffer)
 
-    api_names = []
+  # 函数调用节点类型
+  api_call_node_types = [:send, :csend]
 
-    process_node(ast, api_names)
+  # 遍历AST，找到所有的API调用
+  def find_api_calls(node, calls = [], api_call_node_types)
+    if api_call_node_types.include?(node.type)
+      calls << node
+    end
 
-    # Output to standard output
-    puts api_names.uniq.to_json
+    node.children.each do |child|
+      if child.is_a?(Parser::AST::Node)
+        find_api_calls(child, calls, api_call_node_types)
+      end
+    end
 
-    # Return the parsing result
-    return api_names.uniq
-  rescue NameError, SyntaxError => e
-    puts "Error while parsing Ruby content: #{e.message}"
-    return []  # Return an empty array or other appropriate value
+    calls
   end
-end
 
-def process_node(node, api_names)
-  case node[0]
-  when :def, :defs
-    method_name = node[1][1].to_s
-    api_names << method_name
-  when :command
-    method_name = node[1][1].to_s
-    api_names << method_name
-    process_command_arguments(node[2], api_names)
-  when :vcall
-    method_name = node[1][1].to_s
-    api_names << method_name
-  when :call
-    process_call_node(node, api_names)
-  else
-    node.each { |child| process_node(child, api_names) if child.is_a?(Array) }
-  end
-end
+  # 提取API调用的名称
+  def extract_api_name(node)
+    if node.type == :send || node.type == :csend
+      method_name = node.children[1]
+      receiver = node.children[0]
 
-def process_command_arguments(args, api_names)
-  args.each do |arg|
-    if arg.is_a?(Array)
-      process_command_arguments(arg, api_names)
-    elsif arg.is_a?(String)
-      api_names << arg
+      if receiver.nil?
+        method_name.to_s
+      else
+        "#{Unparser.unparse(receiver)}.#{method_name}"
+      end
     end
   end
+
+  # 获取所有的API调用节点
+  api_calls = find_api_calls(ast, [], api_call_node_types)
+
+  # 提取API调用的名称并返回
+  api_calls.map { |call| extract_api_name(call) }
 end
 
-def process_call_node(node, api_names)
-  method_name = node[2][1].to_s
-  api_names << method_name
-end
-
+# 命令行参数处理
 if ARGV.length == 1
-  rb_content = File.read(ARGV[0])
-  parse_rb_content(rb_content)
+  api_calls = extract_api_calls_from_file(ARGV[0])
+  puts api_calls.to_json # 直接输出 JSON 格式的数据
 else
   puts "Usage: ruby get_ruby.rb <path_to_rb_file>"
 end
+
+
+
+
+
+
+
