@@ -1,0 +1,99 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Maloss",
+            "id": "applescript-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/new713/applescript-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/new713/applescript-2020.7.1.tar_extracted",
+            "name": "applescript",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T05:20:00.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "run applescript",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "e9d80437276c3cfeabf38a9d9de3d5a0e1c3ec52e3729f36c3dbd8dc6153903b"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/itunes-2020.7.1.tar_extracted/itunes-2020.7.1.tar_sourcecode.py",
+            "Code": "st', 'kill', 'getpid', 'quit']\n\n\nimport os\nimport applescript\nimport itunes.playlists\nimport itunes.",
+            "id": "itunes-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/itunes-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/itunes-2020.7.1.tar_extracted",
+            "name": "itunes",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T06:11:09.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "iTunes.app (macOS)",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "d008f8d5aea3561c08ffb9ce1be76228719e8ec2b63bcfec2981c186fdc7b79a"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-youtube-2020.7.1.tar_extracted/mac-youtube-2020.7.1.tar_sourcecode.py",
+            "Code": "rls', 'isplaying', 'urls', 'id', 'info']\n\n\nimport applescript\nimport google_chrome\nimport youtube_dl",
+            "id": "mac-youtube-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-youtube-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-youtube-2020.7.1.tar_extracted",
+            "name": "mac-youtube",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T06:19:04.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "macOS youtube download, Google Chrome.app play/pause",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "88d7f1f54d6e94254da5fd417d7b794c6264f0b29517224a30782a3a7cb2de49"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-desktop-2020.7.2.tar_extracted/mac-desktop-2020.7.2.tar_sourcecode.py",
+            "Code": "__all__ = ['visibility', 'toggle']\n\n\nimport applescript\nimport os\nfrom PIL import Image\nfrom P",
+            "id": "mac-desktop-2020.7.2",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-desktop-2020.7.2.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-desktop-2020.7.2.tar_extracted",
+            "name": "mac-desktop",
+            "version": "2020.7.2",
+            "published_at": "2020-07-01T08:30:48.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "macOS desktop show/hide",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "f054df3647c0d3fa75ad455b8755efe79505a3f59f546991212e8535e24082e4"
+        }
+    ],
+    "links": [
+        {
+            "source": "mac-desktop-2020.7.2",
+            "target": "applescript-2020.7.1"
+        },
+        {
+            "source": "itunes-2020.7.1",
+            "target": "applescript-2020.7.1"
+        },
+        {
+            "source": "mac-youtube-2020.7.1",
+            "target": "applescript-2020.7.1"
+        }
+    ]
+}

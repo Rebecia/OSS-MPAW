@@ -1,0 +1,584 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-02-28T11:26:39.778Z",
+            "id": 1832,
+            "download_number": 0,
+            "version": "1.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-02-28T11:26:39.778Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-14T11:53:36.566Z",
+            "id": 1833,
+            "download_number": null,
+            "version": "1.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-14T11:53:36.566Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-14T13:35:22.611Z",
+            "id": 1834,
+            "download_number": 0,
+            "version": "1.0.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-14T13:35:22.611Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-14T13:42:47.407Z",
+            "id": 1835,
+            "download_number": 0,
+            "version": "1.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-14T13:42:47.407Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-14T14:05:24.729Z",
+            "id": 1836,
+            "download_number": 0,
+            "version": "1.0.4",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-14T14:05:24.729Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-17T06:04:14.782Z",
+            "id": 1837,
+            "download_number": 0,
+            "version": "1.0.5",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-17T06:04:14.782Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2019-05-20T11:14:03.543Z",
+            "id": 1838,
+            "download_number": 0,
+            "version": "1.0.6",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2019-05-20T11:14:03.543Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2020-04-27T09:11:48.008Z",
+            "id": 1839,
+            "download_number": 0,
+            "version": "1.0.7",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2020-04-27T09:11:48.008Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2020-04-28T08:27:00.347Z",
+            "id": 1840,
+            "download_number": 0,
+            "version": "1.0.8",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2020-04-28T08:27:00.347Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2020-12-02T08:18:38.402Z",
+            "id": 1842,
+            "download_number": 0,
+            "version": "1.1.0",
+            "SHA-256": "497e8dc89332ac54ad5cf021464c97c86c31e5e59b8af9f6dd126ca63bf5dab4",
+            "Filepath": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.0.tgz",
+            "path": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.0_extracted",
+            "published_at": "2020-12-02T08:18:38.402Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "private module to test some method",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "async, dirfile, node-windows"
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2020-12-24T05:43:45.861Z",
+            "id": 1843,
+            "download_number": 0,
+            "version": "1.1.1",
+            "SHA-256": "bcc9ec755c4e66e2101d518f53d1ab18b8d256618ac207785d31a8d62f396588",
+            "Filepath": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.1.tgz",
+            "path": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.1_extracted",
+            "published_at": "2020-12-24T05:43:45.861Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "private module to test some method",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "async, dirfile, node-windows"
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "2020-12-24T06:00:28.081Z",
+            "id": 1844,
+            "download_number": 0,
+            "version": "1.1.2",
+            "SHA-256": "cbe06705842b0c9ae1489887bcb1cfe33bee0033421b03989806f5999c6062cc",
+            "Filepath": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.2.tgz",
+            "path": "/Users/zhouxiaoyan/Documents/malware/npm/maloss/nodejs_net_server-1.1.2_extracted",
+            "published_at": "2020-12-24T06:00:28.081Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "private module to test some method",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "async, dirfile, node-windows"
+        },
+        {
+            "name": "nodejs_net_server",
+            "report": "https://tianwen.qianxin.com/blog/2021/08/06/npm-software-supply-chain-risks-analysis-nodejs-net-server/",
+            "Source": "Tianwen",
+            "status": "untraced",
+            "time": "Not available",
+            "id": 1841,
+            "download_number": 0,
+            "version": "1.0.9",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 1832,
+            "target": 1833
+        },
+        {
+            "source": 1832,
+            "target": 1834
+        },
+        {
+            "source": 1832,
+            "target": 1835
+        },
+        {
+            "source": 1832,
+            "target": 1836
+        },
+        {
+            "source": 1832,
+            "target": 1837
+        },
+        {
+            "source": 1832,
+            "target": 1838
+        },
+        {
+            "source": 1832,
+            "target": 1839
+        },
+        {
+            "source": 1832,
+            "target": 1840
+        },
+        {
+            "source": 1832,
+            "target": 1841
+        },
+        {
+            "source": 1832,
+            "target": 1842
+        },
+        {
+            "source": 1832,
+            "target": 1843
+        },
+        {
+            "source": 1832,
+            "target": 1844
+        },
+        {
+            "source": 1833,
+            "target": 1834
+        },
+        {
+            "source": 1833,
+            "target": 1835
+        },
+        {
+            "source": 1833,
+            "target": 1836
+        },
+        {
+            "source": 1833,
+            "target": 1837
+        },
+        {
+            "source": 1833,
+            "target": 1838
+        },
+        {
+            "source": 1833,
+            "target": 1839
+        },
+        {
+            "source": 1833,
+            "target": 1840
+        },
+        {
+            "source": 1833,
+            "target": 1841
+        },
+        {
+            "source": 1833,
+            "target": 1842
+        },
+        {
+            "source": 1833,
+            "target": 1843
+        },
+        {
+            "source": 1833,
+            "target": 1844
+        },
+        {
+            "source": 1834,
+            "target": 1835
+        },
+        {
+            "source": 1834,
+            "target": 1836
+        },
+        {
+            "source": 1834,
+            "target": 1837
+        },
+        {
+            "source": 1834,
+            "target": 1838
+        },
+        {
+            "source": 1834,
+            "target": 1839
+        },
+        {
+            "source": 1834,
+            "target": 1840
+        },
+        {
+            "source": 1834,
+            "target": 1841
+        },
+        {
+            "source": 1834,
+            "target": 1842
+        },
+        {
+            "source": 1834,
+            "target": 1843
+        },
+        {
+            "source": 1834,
+            "target": 1844
+        },
+        {
+            "source": 1835,
+            "target": 1836
+        },
+        {
+            "source": 1835,
+            "target": 1837
+        },
+        {
+            "source": 1835,
+            "target": 1838
+        },
+        {
+            "source": 1835,
+            "target": 1839
+        },
+        {
+            "source": 1835,
+            "target": 1840
+        },
+        {
+            "source": 1835,
+            "target": 1841
+        },
+        {
+            "source": 1835,
+            "target": 1842
+        },
+        {
+            "source": 1835,
+            "target": 1843
+        },
+        {
+            "source": 1835,
+            "target": 1844
+        },
+        {
+            "source": 1836,
+            "target": 1837
+        },
+        {
+            "source": 1836,
+            "target": 1838
+        },
+        {
+            "source": 1836,
+            "target": 1839
+        },
+        {
+            "source": 1836,
+            "target": 1840
+        },
+        {
+            "source": 1836,
+            "target": 1841
+        },
+        {
+            "source": 1836,
+            "target": 1842
+        },
+        {
+            "source": 1836,
+            "target": 1843
+        },
+        {
+            "source": 1836,
+            "target": 1844
+        },
+        {
+            "source": 1837,
+            "target": 1838
+        },
+        {
+            "source": 1837,
+            "target": 1839
+        },
+        {
+            "source": 1837,
+            "target": 1840
+        },
+        {
+            "source": 1837,
+            "target": 1841
+        },
+        {
+            "source": 1837,
+            "target": 1842
+        },
+        {
+            "source": 1837,
+            "target": 1843
+        },
+        {
+            "source": 1837,
+            "target": 1844
+        },
+        {
+            "source": 1838,
+            "target": 1839
+        },
+        {
+            "source": 1838,
+            "target": 1840
+        },
+        {
+            "source": 1838,
+            "target": 1841
+        },
+        {
+            "source": 1838,
+            "target": 1842
+        },
+        {
+            "source": 1838,
+            "target": 1843
+        },
+        {
+            "source": 1838,
+            "target": 1844
+        },
+        {
+            "source": 1839,
+            "target": 1840
+        },
+        {
+            "source": 1839,
+            "target": 1841
+        },
+        {
+            "source": 1839,
+            "target": 1842
+        },
+        {
+            "source": 1839,
+            "target": 1843
+        },
+        {
+            "source": 1839,
+            "target": 1844
+        },
+        {
+            "source": 1840,
+            "target": 1841
+        },
+        {
+            "source": 1840,
+            "target": 1842
+        },
+        {
+            "source": 1840,
+            "target": 1843
+        },
+        {
+            "source": 1840,
+            "target": 1844
+        },
+        {
+            "source": 1841,
+            "target": 1842
+        },
+        {
+            "source": 1841,
+            "target": 1843
+        },
+        {
+            "source": 1841,
+            "target": 1844
+        },
+        {
+            "source": 1842,
+            "target": 1843
+        },
+        {
+            "source": 1842,
+            "target": 1844
+        },
+        {
+            "source": 1843,
+            "target": 1844
+        }
+    ]
+}

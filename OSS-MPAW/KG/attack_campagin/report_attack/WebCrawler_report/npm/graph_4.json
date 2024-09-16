@@ -1,0 +1,52 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "GitHub Advisory",
+            "Filepath": NaN,
+            "name_version": "jquery.js",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "jquery.js",
+            "version": NaN,
+            "published_at": "Not available",
+            "id": 3612,
+            "url": "https://reversinglabs.com/blog/operation-brainleeches-malicious-npm-packages-fuel-supply-chain-and-phishing-attacks",
+            "download_number": 207,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Blogs",
+            "Filepath": NaN,
+            "name_version": "jquery.js-3.2.2",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "jquery.js",
+            "version": "3.2.2",
+            "published_at": "Not available",
+            "id": 3613,
+            "url": "https://reversinglabs.com/blog/operation-brainleeches-malicious-npm-packages-fuel-supply-chain-and-phishing-attacks",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://reversinglabs.com/blog/operation-brainleeches-malicious-npm-packages-fuel-supply-chain-and-phishing-attacks",
+            "source": 3612,
+            "target": 3613
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Tianwen",
+            "Filepath": NaN,
+            "name_version": "test-23234231-0.1",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "name": "test-23234231",
+            "version": "0.1",
+            "published_at": "2023-04-14T12:05:53.745Z",
+            "id": 9334,
+            "url": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-04-14-test-23234231-v0.1.zip",
+            "name_version": "test-23234231-v0.1",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "test-23234231",
+            "version": "0.1",
+            "published_at": "2023-04-14T12:05:53.745Z",
+            "id": 9337,
+            "url": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "download_number": null,
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-04-14-test-23234231-v0.1_extracted",
+            "description": "UNKNOWN",
+            "author": "WS",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Tianwen",
+            "Filepath": NaN,
+            "name_version": "test-23234231-0.9",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "name": "test-23234231",
+            "version": "0.9",
+            "published_at": "2023-04-14T12:13:00.369Z",
+            "id": 9335,
+            "url": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-04-14-test-23234231-v0.9.zip",
+            "name_version": "test-23234231-v0.9",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "test-23234231",
+            "version": "0.9",
+            "published_at": "2023-04-14T12:13:00.369Z",
+            "id": 9336,
+            "url": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "download_number": null,
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-04-14-test-23234231-v0.9_extracted",
+            "description": "UNKNOWN",
+            "author": "WS",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9334,
+            "target": 9335
+        },
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9334,
+            "target": 9336
+        },
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9334,
+            "target": 9337
+        },
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9335,
+            "target": 9336
+        },
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9335,
+            "target": 9337
+        },
+        {
+            "report": "https://jfrog.com/blog/new-malware-targets-python-developers-uses-tor-for-c2-communication/",
+            "source": 9336,
+            "target": 9337
+        }
+    ]
+}

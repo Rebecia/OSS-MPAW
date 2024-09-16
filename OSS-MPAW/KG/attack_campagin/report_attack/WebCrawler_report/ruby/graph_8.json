@@ -1,0 +1,117 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/atlas-client/0.0.2/atlas-client-0.0.2.gem",
+            "name_version": "atlas-client-0.0.2",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "atlas-client",
+            "version": "0.0.2",
+            "published_at": "2020-02-16T06:12:11.686Z",
+            "id": 861,
+            "url": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "download_number": null,
+            "SHA-256": "5f957b319a8569c69736729e6860306e3c227ec4b3d74b0e46aa55423f5ce647",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/atlas-client/0.0.2/atlas-client-0.0.2_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/maloss/ruby-bitcoin-0.0.20.gem",
+            "name_version": "ruby-bitcoin-0.0.20",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "ruby-bitcoin",
+            "version": "0.0.20",
+            "published_at": "2020-12-07T20:57:14.560Z",
+            "id": 1229,
+            "url": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "download_number": null,
+            "SHA-256": "2506307e4787fbd92289ca97e7c1e7d72b371cf850865dbb4f018682589745dd",
+            "path": "/Users/xxxx/Documents/malware/rubygems/maloss/ruby-bitcoin-0.0.20_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "ffi, scrypt, eventmachine"
+        },
+        {
+            "Source": "Snyk.io",
+            "Filepath": NaN,
+            "name_version": "atlas-client",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "name": "atlas-client",
+            "version": NaN,
+            "published_at": "Not available",
+            "id": 396,
+            "url": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Snyk.io",
+            "Filepath": NaN,
+            "name_version": "ruby-bitcoin",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "name": "ruby-bitcoin",
+            "version": NaN,
+            "published_at": "Not available",
+            "id": 3,
+            "url": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 3,
+            "target": 1229
+        },
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 3,
+            "target": 396
+        },
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 3,
+            "target": 861
+        },
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 1229,
+            "target": 396
+        },
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 1229,
+            "target": 861
+        },
+        {
+            "report": "https://thenewstack.io/is-npm-a-hotbed-of-malware/",
+            "source": 396,
+            "target": 861
+        }
+    ]
+}

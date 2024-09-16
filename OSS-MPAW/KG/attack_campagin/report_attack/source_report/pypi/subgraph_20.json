@@ -1,0 +1,1713 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "hello-world-example",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T16:26:09.489Z",
+            "id": 6776,
+            "download_number": 26,
+            "version": null
+        },
+        {
+            "name": "hello-world-exampl",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T17:03:56.398Z",
+            "id": 6775,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "rqeuests",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T17:18:57.291Z",
+            "id": 6975,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "cloorama",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T19:18:34.097Z",
+            "id": 6642,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "baeutifulsoup4",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T21:08:54.002Z",
+            "id": 591,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "tkniter",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T22:45:06.582Z",
+            "id": 7104,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "cryptograpyh",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T22:52:10.097Z",
+            "id": 6700,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "pytorhc",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T23:02:14.668Z",
+            "id": 6950,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "pyyalm",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-06T23:52:03.224Z",
+            "id": 6952,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "sqlachemy",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T00:37:20.493Z",
+            "id": 7020,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "sqlalcemy",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T00:57:09.020Z",
+            "id": 7024,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "notebok",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T01:33:35.923Z",
+            "id": 6877,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "mysql-connector-pyhton",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T02:36:34.509Z",
+            "id": 6876,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "ipyhton",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T02:43:37.326Z",
+            "id": 6781,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "pygaem",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T10:42:26.850Z",
+            "id": 6918,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "pyautogiu",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T10:57:13.268Z",
+            "id": 6914,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "python-dateuti",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T12:38:55.497Z",
+            "id": 6947,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "beautifulsup4",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T13:02:08.236Z",
+            "id": 6601,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "urlllib",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T13:47:52.368Z",
+            "id": 7107,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "djangoo",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T14:08:54.428Z",
+            "id": 6727,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "crpytography",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T14:56:04.215Z",
+            "id": 6662,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "mail-validator",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T16:08:07.750Z",
+            "id": 6812,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "pillwo",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T16:33:06.098Z",
+            "id": 6909,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "mariabd",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-11-07T16:33:57.873Z",
+            "id": 6814,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "python-flask",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6948,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-07-python-flask.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-07-python-flask_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "UNKNOWN",
+            "author": "UNKNOWN",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "name": "python3-flask",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6946,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-07-python3-flask.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-07-python3-flask_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "UNKNOWN",
+            "author": "UNKNOWN",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "name": "slenium",
+            "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 7176,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 6914,
+            "target": 591
+        },
+        {
+            "source": 6914,
+            "target": 6601
+        },
+        {
+            "source": 6914,
+            "target": 6642
+        },
+        {
+            "source": 6914,
+            "target": 6662
+        },
+        {
+            "source": 6914,
+            "target": 6700
+        },
+        {
+            "source": 6914,
+            "target": 6727
+        },
+        {
+            "source": 6914,
+            "target": 6775
+        },
+        {
+            "source": 6914,
+            "target": 6776
+        },
+        {
+            "source": 6914,
+            "target": 6781
+        },
+        {
+            "source": 6914,
+            "target": 6812
+        },
+        {
+            "source": 6914,
+            "target": 6814
+        },
+        {
+            "source": 6914,
+            "target": 6876
+        },
+        {
+            "source": 6914,
+            "target": 6877
+        },
+        {
+            "source": 6914,
+            "target": 6909
+        },
+        {
+            "source": 6914,
+            "target": 6918
+        },
+        {
+            "source": 6914,
+            "target": 6946
+        },
+        {
+            "source": 6914,
+            "target": 6947
+        },
+        {
+            "source": 6914,
+            "target": 6948
+        },
+        {
+            "source": 6914,
+            "target": 6950
+        },
+        {
+            "source": 6914,
+            "target": 6952
+        },
+        {
+            "source": 6914,
+            "target": 6975
+        },
+        {
+            "source": 6914,
+            "target": 7020
+        },
+        {
+            "source": 6914,
+            "target": 7024
+        },
+        {
+            "source": 6914,
+            "target": 7104
+        },
+        {
+            "source": 6914,
+            "target": 7107
+        },
+        {
+            "source": 6914,
+            "target": 7176
+        },
+        {
+            "source": 6918,
+            "target": 591
+        },
+        {
+            "source": 6918,
+            "target": 6601
+        },
+        {
+            "source": 6918,
+            "target": 6642
+        },
+        {
+            "source": 6918,
+            "target": 6662
+        },
+        {
+            "source": 6918,
+            "target": 6700
+        },
+        {
+            "source": 6918,
+            "target": 6727
+        },
+        {
+            "source": 6918,
+            "target": 6775
+        },
+        {
+            "source": 6918,
+            "target": 6776
+        },
+        {
+            "source": 6918,
+            "target": 6781
+        },
+        {
+            "source": 6918,
+            "target": 6812
+        },
+        {
+            "source": 6918,
+            "target": 6814
+        },
+        {
+            "source": 6918,
+            "target": 6876
+        },
+        {
+            "source": 6918,
+            "target": 6877
+        },
+        {
+            "source": 6918,
+            "target": 6909
+        },
+        {
+            "source": 6918,
+            "target": 6946
+        },
+        {
+            "source": 6918,
+            "target": 6947
+        },
+        {
+            "source": 6918,
+            "target": 6948
+        },
+        {
+            "source": 6918,
+            "target": 6950
+        },
+        {
+            "source": 6918,
+            "target": 6952
+        },
+        {
+            "source": 6918,
+            "target": 6975
+        },
+        {
+            "source": 6918,
+            "target": 7020
+        },
+        {
+            "source": 6918,
+            "target": 7024
+        },
+        {
+            "source": 6918,
+            "target": 7104
+        },
+        {
+            "source": 6918,
+            "target": 7107
+        },
+        {
+            "source": 6918,
+            "target": 7176
+        },
+        {
+            "source": 6662,
+            "target": 591
+        },
+        {
+            "source": 6662,
+            "target": 6601
+        },
+        {
+            "source": 6662,
+            "target": 6642
+        },
+        {
+            "source": 6662,
+            "target": 6700
+        },
+        {
+            "source": 6662,
+            "target": 6727
+        },
+        {
+            "source": 6662,
+            "target": 6775
+        },
+        {
+            "source": 6662,
+            "target": 6776
+        },
+        {
+            "source": 6662,
+            "target": 6781
+        },
+        {
+            "source": 6662,
+            "target": 6812
+        },
+        {
+            "source": 6662,
+            "target": 6814
+        },
+        {
+            "source": 6662,
+            "target": 6876
+        },
+        {
+            "source": 6662,
+            "target": 6877
+        },
+        {
+            "source": 6662,
+            "target": 6909
+        },
+        {
+            "source": 6662,
+            "target": 6946
+        },
+        {
+            "source": 6662,
+            "target": 6947
+        },
+        {
+            "source": 6662,
+            "target": 6948
+        },
+        {
+            "source": 6662,
+            "target": 6950
+        },
+        {
+            "source": 6662,
+            "target": 6952
+        },
+        {
+            "source": 6662,
+            "target": 6975
+        },
+        {
+            "source": 6662,
+            "target": 7020
+        },
+        {
+            "source": 6662,
+            "target": 7024
+        },
+        {
+            "source": 6662,
+            "target": 7104
+        },
+        {
+            "source": 6662,
+            "target": 7107
+        },
+        {
+            "source": 6662,
+            "target": 7176
+        },
+        {
+            "source": 7176,
+            "target": 591
+        },
+        {
+            "source": 7176,
+            "target": 6601
+        },
+        {
+            "source": 7176,
+            "target": 6642
+        },
+        {
+            "source": 7176,
+            "target": 6700
+        },
+        {
+            "source": 7176,
+            "target": 6727
+        },
+        {
+            "source": 7176,
+            "target": 6775
+        },
+        {
+            "source": 7176,
+            "target": 6776
+        },
+        {
+            "source": 7176,
+            "target": 6781
+        },
+        {
+            "source": 7176,
+            "target": 6812
+        },
+        {
+            "source": 7176,
+            "target": 6814
+        },
+        {
+            "source": 7176,
+            "target": 6876
+        },
+        {
+            "source": 7176,
+            "target": 6877
+        },
+        {
+            "source": 7176,
+            "target": 6909
+        },
+        {
+            "source": 7176,
+            "target": 6946
+        },
+        {
+            "source": 7176,
+            "target": 6947
+        },
+        {
+            "source": 7176,
+            "target": 6948
+        },
+        {
+            "source": 7176,
+            "target": 6950
+        },
+        {
+            "source": 7176,
+            "target": 6952
+        },
+        {
+            "source": 7176,
+            "target": 6975
+        },
+        {
+            "source": 7176,
+            "target": 7020
+        },
+        {
+            "source": 7176,
+            "target": 7024
+        },
+        {
+            "source": 7176,
+            "target": 7104
+        },
+        {
+            "source": 7176,
+            "target": 7107
+        },
+        {
+            "source": 6812,
+            "target": 591
+        },
+        {
+            "source": 6812,
+            "target": 6601
+        },
+        {
+            "source": 6812,
+            "target": 6642
+        },
+        {
+            "source": 6812,
+            "target": 6700
+        },
+        {
+            "source": 6812,
+            "target": 6727
+        },
+        {
+            "source": 6812,
+            "target": 6775
+        },
+        {
+            "source": 6812,
+            "target": 6776
+        },
+        {
+            "source": 6812,
+            "target": 6781
+        },
+        {
+            "source": 6812,
+            "target": 6814
+        },
+        {
+            "source": 6812,
+            "target": 6876
+        },
+        {
+            "source": 6812,
+            "target": 6877
+        },
+        {
+            "source": 6812,
+            "target": 6909
+        },
+        {
+            "source": 6812,
+            "target": 6946
+        },
+        {
+            "source": 6812,
+            "target": 6947
+        },
+        {
+            "source": 6812,
+            "target": 6948
+        },
+        {
+            "source": 6812,
+            "target": 6950
+        },
+        {
+            "source": 6812,
+            "target": 6952
+        },
+        {
+            "source": 6812,
+            "target": 6975
+        },
+        {
+            "source": 6812,
+            "target": 7020
+        },
+        {
+            "source": 6812,
+            "target": 7024
+        },
+        {
+            "source": 6812,
+            "target": 7104
+        },
+        {
+            "source": 6812,
+            "target": 7107
+        },
+        {
+            "source": 6814,
+            "target": 591
+        },
+        {
+            "source": 6814,
+            "target": 6601
+        },
+        {
+            "source": 6814,
+            "target": 6642
+        },
+        {
+            "source": 6814,
+            "target": 6700
+        },
+        {
+            "source": 6814,
+            "target": 6727
+        },
+        {
+            "source": 6814,
+            "target": 6775
+        },
+        {
+            "source": 6814,
+            "target": 6776
+        },
+        {
+            "source": 6814,
+            "target": 6781
+        },
+        {
+            "source": 6814,
+            "target": 6876
+        },
+        {
+            "source": 6814,
+            "target": 6877
+        },
+        {
+            "source": 6814,
+            "target": 6909
+        },
+        {
+            "source": 6814,
+            "target": 6946
+        },
+        {
+            "source": 6814,
+            "target": 6947
+        },
+        {
+            "source": 6814,
+            "target": 6948
+        },
+        {
+            "source": 6814,
+            "target": 6950
+        },
+        {
+            "source": 6814,
+            "target": 6952
+        },
+        {
+            "source": 6814,
+            "target": 6975
+        },
+        {
+            "source": 6814,
+            "target": 7020
+        },
+        {
+            "source": 6814,
+            "target": 7024
+        },
+        {
+            "source": 6814,
+            "target": 7104
+        },
+        {
+            "source": 6814,
+            "target": 7107
+        },
+        {
+            "source": 6946,
+            "target": 591
+        },
+        {
+            "source": 6946,
+            "target": 6601
+        },
+        {
+            "source": 6946,
+            "target": 6642
+        },
+        {
+            "source": 6946,
+            "target": 6700
+        },
+        {
+            "source": 6946,
+            "target": 6727
+        },
+        {
+            "source": 6946,
+            "target": 6775
+        },
+        {
+            "source": 6946,
+            "target": 6776
+        },
+        {
+            "source": 6946,
+            "target": 6781
+        },
+        {
+            "source": 6946,
+            "target": 6876
+        },
+        {
+            "source": 6946,
+            "target": 6877
+        },
+        {
+            "source": 6946,
+            "target": 6909
+        },
+        {
+            "source": 6946,
+            "target": 6947
+        },
+        {
+            "source": 6946,
+            "target": 6948
+        },
+        {
+            "source": 6946,
+            "target": 6950
+        },
+        {
+            "source": 6946,
+            "target": 6952
+        },
+        {
+            "source": 6946,
+            "target": 6975
+        },
+        {
+            "source": 6946,
+            "target": 7020
+        },
+        {
+            "source": 6946,
+            "target": 7024
+        },
+        {
+            "source": 6946,
+            "target": 7104
+        },
+        {
+            "source": 6946,
+            "target": 7107
+        },
+        {
+            "source": 6947,
+            "target": 591
+        },
+        {
+            "source": 6947,
+            "target": 6601
+        },
+        {
+            "source": 6947,
+            "target": 6642
+        },
+        {
+            "source": 6947,
+            "target": 6700
+        },
+        {
+            "source": 6947,
+            "target": 6727
+        },
+        {
+            "source": 6947,
+            "target": 6775
+        },
+        {
+            "source": 6947,
+            "target": 6776
+        },
+        {
+            "source": 6947,
+            "target": 6781
+        },
+        {
+            "source": 6947,
+            "target": 6876
+        },
+        {
+            "source": 6947,
+            "target": 6877
+        },
+        {
+            "source": 6947,
+            "target": 6909
+        },
+        {
+            "source": 6947,
+            "target": 6948
+        },
+        {
+            "source": 6947,
+            "target": 6950
+        },
+        {
+            "source": 6947,
+            "target": 6952
+        },
+        {
+            "source": 6947,
+            "target": 6975
+        },
+        {
+            "source": 6947,
+            "target": 7020
+        },
+        {
+            "source": 6947,
+            "target": 7024
+        },
+        {
+            "source": 6947,
+            "target": 7104
+        },
+        {
+            "source": 6947,
+            "target": 7107
+        },
+        {
+            "source": 6948,
+            "target": 591
+        },
+        {
+            "source": 6948,
+            "target": 6601
+        },
+        {
+            "source": 6948,
+            "target": 6642
+        },
+        {
+            "source": 6948,
+            "target": 6700
+        },
+        {
+            "source": 6948,
+            "target": 6727
+        },
+        {
+            "source": 6948,
+            "target": 6775
+        },
+        {
+            "source": 6948,
+            "target": 6776
+        },
+        {
+            "source": 6948,
+            "target": 6781
+        },
+        {
+            "source": 6948,
+            "target": 6876
+        },
+        {
+            "source": 6948,
+            "target": 6877
+        },
+        {
+            "source": 6948,
+            "target": 6909
+        },
+        {
+            "source": 6948,
+            "target": 6950
+        },
+        {
+            "source": 6948,
+            "target": 6952
+        },
+        {
+            "source": 6948,
+            "target": 6975
+        },
+        {
+            "source": 6948,
+            "target": 7020
+        },
+        {
+            "source": 6948,
+            "target": 7024
+        },
+        {
+            "source": 6948,
+            "target": 7104
+        },
+        {
+            "source": 6948,
+            "target": 7107
+        },
+        {
+            "source": 6950,
+            "target": 591
+        },
+        {
+            "source": 6950,
+            "target": 6601
+        },
+        {
+            "source": 6950,
+            "target": 6642
+        },
+        {
+            "source": 6950,
+            "target": 6700
+        },
+        {
+            "source": 6950,
+            "target": 6727
+        },
+        {
+            "source": 6950,
+            "target": 6775
+        },
+        {
+            "source": 6950,
+            "target": 6776
+        },
+        {
+            "source": 6950,
+            "target": 6781
+        },
+        {
+            "source": 6950,
+            "target": 6876
+        },
+        {
+            "source": 6950,
+            "target": 6877
+        },
+        {
+            "source": 6950,
+            "target": 6909
+        },
+        {
+            "source": 6950,
+            "target": 6952
+        },
+        {
+            "source": 6950,
+            "target": 6975
+        },
+        {
+            "source": 6950,
+            "target": 7020
+        },
+        {
+            "source": 6950,
+            "target": 7024
+        },
+        {
+            "source": 6950,
+            "target": 7104
+        },
+        {
+            "source": 6950,
+            "target": 7107
+        },
+        {
+            "source": 6952,
+            "target": 591
+        },
+        {
+            "source": 6952,
+            "target": 6601
+        },
+        {
+            "source": 6952,
+            "target": 6642
+        },
+        {
+            "source": 6952,
+            "target": 6700
+        },
+        {
+            "source": 6952,
+            "target": 6727
+        },
+        {
+            "source": 6952,
+            "target": 6775
+        },
+        {
+            "source": 6952,
+            "target": 6776
+        },
+        {
+            "source": 6952,
+            "target": 6781
+        },
+        {
+            "source": 6952,
+            "target": 6876
+        },
+        {
+            "source": 6952,
+            "target": 6877
+        },
+        {
+            "source": 6952,
+            "target": 6909
+        },
+        {
+            "source": 6952,
+            "target": 6975
+        },
+        {
+            "source": 6952,
+            "target": 7020
+        },
+        {
+            "source": 6952,
+            "target": 7024
+        },
+        {
+            "source": 6952,
+            "target": 7104
+        },
+        {
+            "source": 6952,
+            "target": 7107
+        },
+        {
+            "source": 6700,
+            "target": 591
+        },
+        {
+            "source": 6700,
+            "target": 6601
+        },
+        {
+            "source": 6700,
+            "target": 6642
+        },
+        {
+            "source": 6700,
+            "target": 6727
+        },
+        {
+            "source": 6700,
+            "target": 6775
+        },
+        {
+            "source": 6700,
+            "target": 6776
+        },
+        {
+            "source": 6700,
+            "target": 6781
+        },
+        {
+            "source": 6700,
+            "target": 6876
+        },
+        {
+            "source": 6700,
+            "target": 6877
+        },
+        {
+            "source": 6700,
+            "target": 6909
+        },
+        {
+            "source": 6700,
+            "target": 6975
+        },
+        {
+            "source": 6700,
+            "target": 7020
+        },
+        {
+            "source": 6700,
+            "target": 7024
+        },
+        {
+            "source": 6700,
+            "target": 7104
+        },
+        {
+            "source": 6700,
+            "target": 7107
+        },
+        {
+            "source": 6975,
+            "target": 591
+        },
+        {
+            "source": 6975,
+            "target": 6601
+        },
+        {
+            "source": 6975,
+            "target": 6642
+        },
+        {
+            "source": 6975,
+            "target": 6727
+        },
+        {
+            "source": 6975,
+            "target": 6775
+        },
+        {
+            "source": 6975,
+            "target": 6776
+        },
+        {
+            "source": 6975,
+            "target": 6781
+        },
+        {
+            "source": 6975,
+            "target": 6876
+        },
+        {
+            "source": 6975,
+            "target": 6877
+        },
+        {
+            "source": 6975,
+            "target": 6909
+        },
+        {
+            "source": 6975,
+            "target": 7020
+        },
+        {
+            "source": 6975,
+            "target": 7024
+        },
+        {
+            "source": 6975,
+            "target": 7104
+        },
+        {
+            "source": 6975,
+            "target": 7107
+        },
+        {
+            "source": 7104,
+            "target": 591
+        },
+        {
+            "source": 7104,
+            "target": 6601
+        },
+        {
+            "source": 7104,
+            "target": 6642
+        },
+        {
+            "source": 7104,
+            "target": 6727
+        },
+        {
+            "source": 7104,
+            "target": 6775
+        },
+        {
+            "source": 7104,
+            "target": 6776
+        },
+        {
+            "source": 7104,
+            "target": 6781
+        },
+        {
+            "source": 7104,
+            "target": 6876
+        },
+        {
+            "source": 7104,
+            "target": 6877
+        },
+        {
+            "source": 7104,
+            "target": 6909
+        },
+        {
+            "source": 7104,
+            "target": 7020
+        },
+        {
+            "source": 7104,
+            "target": 7024
+        },
+        {
+            "source": 7104,
+            "target": 7107
+        },
+        {
+            "source": 7107,
+            "target": 591
+        },
+        {
+            "source": 7107,
+            "target": 6601
+        },
+        {
+            "source": 7107,
+            "target": 6642
+        },
+        {
+            "source": 7107,
+            "target": 6727
+        },
+        {
+            "source": 7107,
+            "target": 6775
+        },
+        {
+            "source": 7107,
+            "target": 6776
+        },
+        {
+            "source": 7107,
+            "target": 6781
+        },
+        {
+            "source": 7107,
+            "target": 6876
+        },
+        {
+            "source": 7107,
+            "target": 6877
+        },
+        {
+            "source": 7107,
+            "target": 6909
+        },
+        {
+            "source": 7107,
+            "target": 7020
+        },
+        {
+            "source": 7107,
+            "target": 7024
+        },
+        {
+            "source": 6781,
+            "target": 591
+        },
+        {
+            "source": 6781,
+            "target": 6601
+        },
+        {
+            "source": 6781,
+            "target": 6642
+        },
+        {
+            "source": 6781,
+            "target": 6727
+        },
+        {
+            "source": 6781,
+            "target": 6775
+        },
+        {
+            "source": 6781,
+            "target": 6776
+        },
+        {
+            "source": 6781,
+            "target": 6876
+        },
+        {
+            "source": 6781,
+            "target": 6877
+        },
+        {
+            "source": 6781,
+            "target": 6909
+        },
+        {
+            "source": 6781,
+            "target": 7020
+        },
+        {
+            "source": 6781,
+            "target": 7024
+        },
+        {
+            "source": 6727,
+            "target": 591
+        },
+        {
+            "source": 6727,
+            "target": 6601
+        },
+        {
+            "source": 6727,
+            "target": 6642
+        },
+        {
+            "source": 6727,
+            "target": 6775
+        },
+        {
+            "source": 6727,
+            "target": 6776
+        },
+        {
+            "source": 6727,
+            "target": 6876
+        },
+        {
+            "source": 6727,
+            "target": 6877
+        },
+        {
+            "source": 6727,
+            "target": 6909
+        },
+        {
+            "source": 6727,
+            "target": 7020
+        },
+        {
+            "source": 6727,
+            "target": 7024
+        },
+        {
+            "source": 6601,
+            "target": 591
+        },
+        {
+            "source": 6601,
+            "target": 6642
+        },
+        {
+            "source": 6601,
+            "target": 6775
+        },
+        {
+            "source": 6601,
+            "target": 6776
+        },
+        {
+            "source": 6601,
+            "target": 6876
+        },
+        {
+            "source": 6601,
+            "target": 6877
+        },
+        {
+            "source": 6601,
+            "target": 6909
+        },
+        {
+            "source": 6601,
+            "target": 7020
+        },
+        {
+            "source": 6601,
+            "target": 7024
+        },
+        {
+            "source": 591,
+            "target": 6642
+        },
+        {
+            "source": 591,
+            "target": 6775
+        },
+        {
+            "source": 591,
+            "target": 6776
+        },
+        {
+            "source": 591,
+            "target": 6876
+        },
+        {
+            "source": 591,
+            "target": 6877
+        },
+        {
+            "source": 591,
+            "target": 6909
+        },
+        {
+            "source": 591,
+            "target": 7020
+        },
+        {
+            "source": 591,
+            "target": 7024
+        },
+        {
+            "source": 6876,
+            "target": 6642
+        },
+        {
+            "source": 6876,
+            "target": 6775
+        },
+        {
+            "source": 6876,
+            "target": 6776
+        },
+        {
+            "source": 6876,
+            "target": 6877
+        },
+        {
+            "source": 6876,
+            "target": 6909
+        },
+        {
+            "source": 6876,
+            "target": 7020
+        },
+        {
+            "source": 6876,
+            "target": 7024
+        },
+        {
+            "source": 6877,
+            "target": 6642
+        },
+        {
+            "source": 6877,
+            "target": 6775
+        },
+        {
+            "source": 6877,
+            "target": 6776
+        },
+        {
+            "source": 6877,
+            "target": 6909
+        },
+        {
+            "source": 6877,
+            "target": 7020
+        },
+        {
+            "source": 6877,
+            "target": 7024
+        },
+        {
+            "source": 7020,
+            "target": 6642
+        },
+        {
+            "source": 7020,
+            "target": 6775
+        },
+        {
+            "source": 7020,
+            "target": 6776
+        },
+        {
+            "source": 7020,
+            "target": 6909
+        },
+        {
+            "source": 7020,
+            "target": 7024
+        },
+        {
+            "source": 7024,
+            "target": 6642
+        },
+        {
+            "source": 7024,
+            "target": 6775
+        },
+        {
+            "source": 7024,
+            "target": 6776
+        },
+        {
+            "source": 7024,
+            "target": 6909
+        },
+        {
+            "source": 6642,
+            "target": 6775
+        },
+        {
+            "source": 6642,
+            "target": 6776
+        },
+        {
+            "source": 6642,
+            "target": 6909
+        },
+        {
+            "source": 6775,
+            "target": 6776
+        },
+        {
+            "source": 6775,
+            "target": 6909
+        },
+        {
+            "source": 6776,
+            "target": 6909
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "easytimestamp",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-12-28T09:48:04.953Z",
+            "id": 6731,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "discorder",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2022-12-29T07:09:01.032Z",
+            "id": 6725,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "discord-dev",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2023-01-02T16:52:00.570Z",
+            "id": 6723,
+            "download_number": 1,
+            "version": null
+        },
+        {
+            "name": "style.py",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2023-01-02T18:10:28.908Z",
+            "id": 7031,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "pythonstyles",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "2023-01-02T18:27:48.345Z",
+            "id": 6949,
+            "download_number": 3,
+            "version": null
+        },
+        {
+            "name": "pyrologin",
+            "report": "https://blog.phylum.io/a-deep-dive-into-powerat-a-newly-discovered-stealer-rat-combo-polluting-pypi/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6942,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-22-pyrologin.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-22-pyrologin_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Manage Telegram accounts with Python",
+            "author": "pyrologin",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 6723,
+            "target": 6725
+        },
+        {
+            "source": 6723,
+            "target": 6731
+        },
+        {
+            "source": 6723,
+            "target": 6942
+        },
+        {
+            "source": 6723,
+            "target": 6949
+        },
+        {
+            "source": 6723,
+            "target": 7031
+        },
+        {
+            "source": 6725,
+            "target": 6731
+        },
+        {
+            "source": 6725,
+            "target": 6942
+        },
+        {
+            "source": 6725,
+            "target": 6949
+        },
+        {
+            "source": 6725,
+            "target": 7031
+        },
+        {
+            "source": 6949,
+            "target": 6731
+        },
+        {
+            "source": 6949,
+            "target": 6942
+        },
+        {
+            "source": 6949,
+            "target": 7031
+        },
+        {
+            "source": 6731,
+            "target": 6942
+        },
+        {
+            "source": 6731,
+            "target": 7031
+        },
+        {
+            "source": 7031,
+            "target": 6942
+        }
+    ]
+}

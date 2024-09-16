@@ -1,0 +1,2619 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/btc-ruby/0.0.19/btc-ruby-0.0.19.gem",
+            "name_version": "btc-ruby-0.0.19",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "btc-ruby",
+            "version": "0.0.19",
+            "published_at": "2019-04-11T15:24:25.238Z",
+            "id": 846,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/btc-ruby/0.0.19/btc-ruby-0.0.19_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "ffi, scrypt, eventmachine"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/auto-cron/0.1.16/auto-cron-0.1.16.gem",
+            "name_version": "auto-cron-0.1.16",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "auto-cron",
+            "version": "0.1.16",
+            "published_at": "2019-04-11T17:18:51.061Z",
+            "id": 1118,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e9bacd0d11348f95b9d0a3a78e3341049a61a807e1a4f980bbbe009ba44024a7",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/auto-cron/0.1.16/auto-cron-0.1.16_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, jeweler, rake, rcov"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/phantom-proxy/1.4.0/phantom-proxy-1.4.0.gem",
+            "name_version": "phantom-proxy-1.4.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "phantom-proxy",
+            "version": "1.4.0",
+            "published_at": "2019-04-12T18:04:35.507Z",
+            "id": 1009,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/phantom-proxy/1.4.0/phantom-proxy-1.4.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake, json, goliath, journey, nokogiri, ruby-hmac"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/unix_crypt/1.3.0/unix_crypt-1.3.0.gem",
+            "name_version": "unix_crypt-1.3.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "unix_crypt",
+            "version": "1.3.0",
+            "published_at": "2019-04-13T19:15:45.825Z",
+            "id": 1123,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/unix_crypt/1.3.0/unix_crypt-1.3.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/unixCrypt/1.3.0/unixCrypt-1.3.0.gem",
+            "name_version": "unixCrypt-1.3.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "unixCrypt",
+            "version": "1.3.0",
+            "published_at": "2019-04-13T19:20:03.041Z",
+            "id": 739,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/unixCrypt/1.3.0/unixCrypt-1.3.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_adjuster/0.0.1/colour_adjuster-0.0.1.gem",
+            "name_version": "colour_adjuster-0.0.1",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colour_adjuster",
+            "version": "0.0.1",
+            "published_at": "2019-04-14T01:10:11.074Z",
+            "id": 709,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_adjuster/0.0.1/colour_adjuster-0.0.1_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_lib/1.4.9/colour_lib-1.4.9.gem",
+            "name_version": "colour_lib-1.4.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colour_lib",
+            "version": "1.4.9",
+            "published_at": "2019-04-14T03:33:28.738Z",
+            "id": 652,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_lib/1.4.9/colour_lib-1.4.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, minitest"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_cat/0.0.9/colour_cat-0.0.9.gem",
+            "name_version": "colour_cat-0.0.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colour_cat",
+            "version": "0.0.9",
+            "published_at": "2019-04-14T04:12:17.080Z",
+            "id": 1222,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_cat/0.0.9/colour_cat-0.0.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake, vcr, minitest, minitest-vcr, mocha, faraday, webmock, rubygems-tasks, pry, pry-debugger, rmagick"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/json_colour/0.1.0/json_colour-0.1.0.gem",
+            "name_version": "json_colour-0.1.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "json_colour",
+            "version": "0.1.0",
+            "published_at": "2019-04-14T04:37:22.714Z",
+            "id": 559,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/json_colour/0.1.0/json_colour-0.1.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake, rspec, term-ansicolor"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour-generator/0.0.4/colour-generator-0.0.4.gem",
+            "name_version": "colour-generator-0.0.4",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colour-generator",
+            "version": "0.0.4",
+            "published_at": "2019-04-14T04:45:38.422Z",
+            "id": 938,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour-generator/0.0.4/colour-generator-0.0.4_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rspec, rake, coveralls"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_parser/1.0.1/colour_parser-1.0.1.gem",
+            "name_version": "colour_parser-1.0.1",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colour_parser",
+            "version": "1.0.1",
+            "published_at": "2019-04-14T05:30:38.992Z",
+            "id": 1101,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colour_parser/1.0.1/colour_parser-1.0.1_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rake, rspec, guard, guard-rspec, rb-fsevent, stylesheet, color_conversion"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colourful/0.0.3/colourful-0.0.3.gem",
+            "name_version": "colourful-0.0.3",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colourful",
+            "version": "0.0.3",
+            "published_at": "2019-04-14T17:30:38.250Z",
+            "id": 799,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colourful/0.0.3/colourful-0.0.3_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "rspec, fuubar"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colourize/0.8.1/colourize-0.8.1.gem",
+            "name_version": "colourize-0.8.1",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "colourize",
+            "version": "0.8.1",
+            "published_at": "2019-04-14T17:36:44.562Z",
+            "id": 558,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "688159fdbd367a6026b7d8c4f03bc1cec5e1a9d7cc5a9f27e3f4cf9bc285c2be",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/colourize/0.8.1/colourize-0.8.1_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rake, minitest, codeclimate-test-reporter"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/TacoBell/0.1.0/TacoBell-0.1.0.gem",
+            "name_version": "TacoBell-0.1.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "TacoBell",
+            "version": "0.1.0",
+            "published_at": "2019-04-14T19:48:00.601Z",
+            "id": 446,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/TacoBell/0.1.0/TacoBell-0.1.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/aloha_analyser/0.6.2/aloha_analyser-0.6.2.gem",
+            "name_version": "aloha_analyser-0.6.2",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "aloha_analyser",
+            "version": "0.6.2",
+            "published_at": "2019-04-24T17:34:58.514Z",
+            "id": 1002,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/aloha_analyser/0.6.2/aloha_analyser-0.6.2_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "twitter_cldr, bundler, rake, rspec, byebug"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/get-text/3.2.9/get-text-3.2.9.gem",
+            "name_version": "get-text-3.2.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "get-text",
+            "version": "3.2.9",
+            "published_at": "2019-04-24T20:35:54.647Z",
+            "id": 694,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "8191c8fa7af6555e146aaec0ae4707a03216c4f10d3c85e6be2a5ab9cc5a4941",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/get-text/3.2.9/get-text-3.2.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rake, racc, yard, kramdown, test-unit, test-unit-notify, test-unit-rr, locale, text"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/get-texts/3.2.9/get-texts-3.2.9.gem",
+            "name_version": "get-texts-3.2.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "get-texts",
+            "version": "3.2.9",
+            "published_at": "2019-04-24T23:05:04.231Z",
+            "id": 475,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "8191c8fa7af6555e146aaec0ae4707a03216c4f10d3c85e6be2a5ab9cc5a4941",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/get-texts/3.2.9/get-texts-3.2.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rake, racc, yard, kramdown, test-unit, test-unit-notify, test-unit-rr, locale, text"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/ruby_nmap/0.9.3/ruby_nmap-0.9.3.gem",
+            "name_version": "ruby_nmap-0.9.3",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "ruby_nmap",
+            "version": "0.9.3",
+            "published_at": "2019-04-25T17:21:49.970Z",
+            "id": 719,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/ruby_nmap/0.9.3/ruby_nmap-0.9.3_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, nokogiri, rprogram"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/0.0.0/chrome_taker-0.0.0.gem",
+            "name_version": "chrome_taker-0.0.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "0.0.0",
+            "published_at": "2019-05-12T02:37:36.680Z",
+            "id": 977,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "66270c59ba997ca2dc3e1597063fc778273ce0576cf6103fb53d1355ae103185",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/0.0.0/chrome_taker-0.0.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.0.0/chrome_taker-1.0.0.gem",
+            "name_version": "chrome_taker-1.0.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "1.0.0",
+            "published_at": "2019-05-12T02:44:19.002Z",
+            "id": 976,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "0c04a0c6fd261895ed71e94f814c183f6f9e2b10ad26092405ca411931ba4bd0",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.0.0/chrome_taker-1.0.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/2.0.0/chrome_taker-2.0.0.gem",
+            "name_version": "chrome_taker-2.0.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "2.0.0",
+            "published_at": "2019-05-12T02:49:50.216Z",
+            "id": 978,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "0c04a0c6fd261895ed71e94f814c183f6f9e2b10ad26092405ca411931ba4bd0",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/2.0.0/chrome_taker-2.0.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/4.0.0/chrome_taker-4.0.0.gem",
+            "name_version": "chrome_taker-4.0.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "4.0.0",
+            "published_at": "2019-05-12T02:59:14.321Z",
+            "id": 975,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "559798a28b0c124260a7b235528bf942141bb8c8f349e1216f096ce5b18e95e4",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/4.0.0/chrome_taker-4.0.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.7.9/chrome_taker-1.7.9.gem",
+            "name_version": "chrome_taker-1.7.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "1.7.9",
+            "published_at": "2019-05-12T16:50:12.807Z",
+            "id": 974,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "02b65f27f10e905faa1c7635e6d43c7af2a22624126b8b05f3901a3f73aefd12",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.7.9/chrome_taker-1.7.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.8.9/chrome_taker-1.8.9.gem",
+            "name_version": "chrome_taker-1.8.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "1.8.9",
+            "published_at": "2019-05-12T16:53:20.034Z",
+            "id": 979,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "70b446c1403f15f1113c44ecc2f60aca2e6a88c26d132d45a8c02f7bd6569733",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.8.9/chrome_taker-1.8.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.9.9/chrome_taker-1.9.9.gem",
+            "name_version": "chrome_taker-1.9.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "1.9.9",
+            "published_at": "2019-05-12T19:21:13.592Z",
+            "id": 973,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "352730f72bd793ae5d5cfdea13f825072bd8662755675ecd97d99b0bfad7b938",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/1.9.9/chrome_taker-1.9.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/4.9.9/chrome_taker-4.9.9.gem",
+            "name_version": "chrome_taker-4.9.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "chrome_taker",
+            "version": "4.9.9",
+            "published_at": "2019-05-22T22:56:33.298Z",
+            "id": 972,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "91593034223c7ad82d31e061ce240de653d6393e1c24d6c028b656ebf39be3a2",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/chrome_taker/4.9.9/chrome_taker-4.9.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, sqlite3, builder, rake"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/color_hacker/4.9.9/color_hacker-4.9.9.gem",
+            "name_version": "color_hacker-4.9.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "color_hacker",
+            "version": "4.9.9",
+            "published_at": "2019-05-22T23:23:25.068Z",
+            "id": 824,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "91593034223c7ad82d31e061ce240de653d6393e1c24d6c028b656ebf39be3a2",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/color_hacker/4.9.9/color_hacker-4.9.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, sqlite3, builder, rake"
+        },
+        {
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/maloss/color_hacker-5.9.9.gem",
+            "name_version": "color_hacker-5.9.9",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "color_hacker",
+            "version": "5.9.9",
+            "published_at": "Not available",
+            "id": 1232,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "91593034223c7ad82d31e061ce240de653d6393e1c24d6c028b656ebf39be3a2",
+            "path": "/Users/xxxx/Documents/malware/rubygems/maloss/color_hacker-5.9.9_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, sqlite3, builder, rake, bundler, sqlite3, builder"
+        },
+        {
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/maloss/CopyIp-1.0.7.gem",
+            "name_version": "CopyIp-1.0.7",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "CopyIp",
+            "version": "1.0.7",
+            "published_at": "Not available",
+            "id": 1226,
+            "url": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "download_number": null,
+            "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "path": "/Users/xxxx/Documents/malware/rubygems/maloss/CopyIp-1.0.7_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake, rspec, faraday, faraday_middleware, thor, clipboard, hashie"
+        }
+    ],
+    "links": [
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 694
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 824
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1232
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 719
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 558
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1222,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 824
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1232
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 719
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 558
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 694,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1232
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 719
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 558
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 824,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 719
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 558
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1232,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 558
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 719,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 938
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 558,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 559
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 938,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 709
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 559,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1009
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 709,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 652
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1009,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 846
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 652,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 1101
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 846,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 1226
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1101,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 1118
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1226,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 475
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1118,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 446
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 475,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 1002
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 446,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 972
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 1002,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 973
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 972,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 974
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 973,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 975
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 974,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 976
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 975,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 977
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 976,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 977,
+            "target": 978
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 977,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 977,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 977,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 977,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 978,
+            "target": 979
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 978,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 978,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 978,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 979,
+            "target": 799
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 979,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 979,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 799,
+            "target": 739
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 799,
+            "target": 1123
+        },
+        {
+            "report": "https://github.com/rubygems/rubygems.org/issues/2034",
+            "source": 739,
+            "target": 1123
+        }
+    ]
+}

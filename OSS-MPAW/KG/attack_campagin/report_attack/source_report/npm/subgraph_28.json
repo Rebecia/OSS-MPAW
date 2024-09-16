@@ -1,0 +1,281 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T19:45:59.712Z",
+            "id": 1232,
+            "download_number": 2,
+            "version": "1.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T19:45:59.712Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T19:53:11.035Z",
+            "id": 1237,
+            "download_number": 2,
+            "version": "1.0.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T19:53:11.035Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T19:55:59.296Z",
+            "id": 1260,
+            "download_number": 2,
+            "version": "1.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T19:55:59.296Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T20:11:16.331Z",
+            "id": 1297,
+            "download_number": 2,
+            "version": "1.0.4",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T20:11:16.331Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T20:15:39.094Z",
+            "id": 1298,
+            "download_number": 2,
+            "version": "1.0.5",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T20:15:39.094Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T20:28:15.613Z",
+            "id": 1302,
+            "download_number": 2,
+            "version": "1.0.6",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T20:28:15.613Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-builder",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-26T20:44:40.674Z",
+            "id": 1303,
+            "download_number": 2,
+            "version": "1.0.7",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-26T20:44:40.674Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "gcc-patch",
+            "report": "https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-30T13:57:16.172Z",
+            "id": 1304,
+            "download_number": null,
+            "version": "1.0.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-30T13:57:16.172Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 1260,
+            "target": 1232
+        },
+        {
+            "source": 1260,
+            "target": 1237
+        },
+        {
+            "source": 1260,
+            "target": 1297
+        },
+        {
+            "source": 1260,
+            "target": 1298
+        },
+        {
+            "source": 1260,
+            "target": 1302
+        },
+        {
+            "source": 1260,
+            "target": 1303
+        },
+        {
+            "source": 1260,
+            "target": 1304
+        },
+        {
+            "source": 1232,
+            "target": 1237
+        },
+        {
+            "source": 1232,
+            "target": 1297
+        },
+        {
+            "source": 1232,
+            "target": 1298
+        },
+        {
+            "source": 1232,
+            "target": 1302
+        },
+        {
+            "source": 1232,
+            "target": 1303
+        },
+        {
+            "source": 1232,
+            "target": 1304
+        },
+        {
+            "source": 1297,
+            "target": 1237
+        },
+        {
+            "source": 1297,
+            "target": 1298
+        },
+        {
+            "source": 1297,
+            "target": 1302
+        },
+        {
+            "source": 1297,
+            "target": 1303
+        },
+        {
+            "source": 1297,
+            "target": 1304
+        },
+        {
+            "source": 1298,
+            "target": 1237
+        },
+        {
+            "source": 1298,
+            "target": 1302
+        },
+        {
+            "source": 1298,
+            "target": 1303
+        },
+        {
+            "source": 1298,
+            "target": 1304
+        },
+        {
+            "source": 1237,
+            "target": 1302
+        },
+        {
+            "source": 1237,
+            "target": 1303
+        },
+        {
+            "source": 1237,
+            "target": 1304
+        },
+        {
+            "source": 1302,
+            "target": 1303
+        },
+        {
+            "source": 1302,
+            "target": 1304
+        },
+        {
+            "source": 1303,
+            "target": 1304
+        }
+    ]
+}

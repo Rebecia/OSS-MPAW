@@ -1,0 +1,119 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/0.0.0/com.google-0.0.0.tgz",
+            "name_version": "com.google-0.0.0",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "name": "com.google",
+            "version": "0.0.0",
+            "published_at": "2021-05-08T19:21:31.497Z",
+            "id": 1957,
+            "url": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "download_number": 1,
+            "SHA-256": "f14941fd4974c769f2dbe4675ad047b598b25f39e1b9376cec3af41dda44fc61",
+            "path": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/0.0.0/com.google-0.0.0_extracted",
+            "description": "com.google",
+            "author": "com.google",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/1.0.0/com.google-1.0.0.tgz",
+            "name_version": "com.google-1.0.0",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "name": "com.google",
+            "version": "1.0.0",
+            "published_at": "2021-05-08T19:21:40.957Z",
+            "id": 1956,
+            "url": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "download_number": null,
+            "SHA-256": "f14941fd4974c769f2dbe4675ad047b598b25f39e1b9376cec3af41dda44fc61",
+            "path": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/1.0.0/com.google-1.0.0_extracted",
+            "description": "com.google",
+            "author": "com.google",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/2.0.0/com.google-2.0.0.tgz",
+            "name_version": "com.google-2.0.0",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "name": "com.google",
+            "version": "2.0.0",
+            "published_at": "2021-05-08T19:21:47.176Z",
+            "id": 1958,
+            "url": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "download_number": null,
+            "SHA-256": "f14941fd4974c769f2dbe4675ad047b598b25f39e1b9376cec3af41dda44fc61",
+            "path": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/2.0.0/com.google-2.0.0_extracted",
+            "description": "com.google",
+            "author": "com.google",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/3.0.0/com.google-3.0.0.tgz",
+            "name_version": "com.google-3.0.0",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "name": "com.google",
+            "version": "3.0.0",
+            "published_at": "2021-05-08T19:21:55.313Z",
+            "id": 1959,
+            "url": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "download_number": null,
+            "SHA-256": "f14941fd4974c769f2dbe4675ad047b598b25f39e1b9376cec3af41dda44fc61",
+            "path": "/Users/xxxx/Documents/malware/npm/Backstabber/com.google/3.0.0/com.google-3.0.0_extracted",
+            "description": "com.google",
+            "author": "com.google",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1956,
+            "target": 1957
+        },
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1956,
+            "target": 1958
+        },
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1956,
+            "target": 1959
+        },
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1957,
+            "target": 1958
+        },
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1957,
+            "target": 1959
+        },
+        {
+            "report": "https://welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "source": 1958,
+            "target": 1959
+        }
+    ]
+}

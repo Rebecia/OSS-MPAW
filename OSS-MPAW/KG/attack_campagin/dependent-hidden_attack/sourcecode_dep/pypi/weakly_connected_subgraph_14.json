@@ -1,0 +1,51 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/django-s3-static-2020.7.1.tar_extracted/django-s3-static-2020.7.1.tar_sourcecode.py",
+            "Code": "ment.base import BaseCommand, CommandError\nimport temp\n\nfrom django_s3_static.utils import aws_cli\n\n",
+            "id": "django-s3-static-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/django-s3-static-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/django-s3-static-2020.7.1.tar_extracted",
+            "name": "django-s3-static",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T05:35:59.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "store Django Static Files on Amazon S3",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "138502927ab4ce16faed528ed67c258b6b629cccf911d2189d3b9ef3c8d4cbd6"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "temp-2020.7.2",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/temp-2020.7.2.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/temp-2020.7.2.tar_extracted",
+            "name": "temp",
+            "version": "2020.7.2",
+            "published_at": "2020-07-07T17:26:19.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "temp.tempdir(), temp.tempfile() functions",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "a38d4ff90790c4778373a156d7d8f4c1832da3e4a43dc0021e3f9e0400a49fcc"
+        }
+    ],
+    "links": [
+        {
+            "source": "django-s3-static-2020.7.1",
+            "target": "temp-2020.7.2"
+        }
+    ]
+}

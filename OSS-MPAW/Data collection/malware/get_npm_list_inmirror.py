@@ -1,0 +1,81 @@
+import openpyxl
+import subprocess
+
+def save_and_reopen(file_path, sheet_name):
+    workbook = openpyxl.load_workbook(file_path)
+    workbook.save(file_path)
+    workbook = openpyxl.load_workbook(file_path)
+    sheet = workbook[sheet_name]
+    return workbook, sheet
+
+def download_packages(excel_file, sheet_name, start_row, column_index, download_directory, npm_registry_mirrors):
+    try:
+        workbook = openpyxl.load_workbook(excel_file)
+        sheet = workbook[sheet_name]
+
+        row_index = start_row
+        cell_value1 = sheet.cell(row=row_index, column=column_index).value
+        cell_value2 = sheet.cell(row=row_index, column=column_index + 1).value
+
+        while cell_value1:
+            package_version = str(cell_value1).strip()
+            package_name = package_name + '@' + package_version  
+            if cell_value2:
+                package_version = str(cell_value2).strip()
+                package_name = package_name + '@' + package_version
+                for mirror in npm_registry_mirrors:
+                    download_command = f"npm pack {package_name} --prefix {download_directory}"   
+                    print(f"Downloading package: {package_name}")
+                    try:
+                        subprocess.run(download_command, shell=True, check=True)
+                        # If downloaded successfully, input "get" into the cell in the second column on the same row
+                        success_cell = sheet.cell(row=row_index, column=column_index + 2)
+                        success_cell.value = "get"
+                        break
+                    except subprocess.CalledProcessError:
+                        # If download fails, input "untraced" into the cell in the second column on the same row
+                        failure_cell = sheet.cell(row=row_index, column=column_index + 2)
+                        failure_cell.value = "untraced"
+            else:
+                for mirror in npm_registry_mirrors:
+                    download_command = f"npm pack {package_name} --prefix {download_directory}"  
+                    print(f"Downloading package: {package_name}")
+                    try:
+                        subprocess.run(download_command, shell=True, check=True)
+                        # If downloaded successfully, input "get" into the cell in the second column on the same row
+                        success_cell = sheet.cell(row=row_index, column=column_index + 2)
+                        success_cell.value = "get"
+                        break
+                    except subprocess.CalledProcessError:
+                        # If download fails, input "untraced" into the cell in the second column on the same row
+                        failure_cell = sheet.cell(row=row_index, column=column_index + 2)
+                        failure_cell.value = "untraced"
+
+            if row_index % 100 == 0:
+                workbook.save(excel_file)  
+                workbook, sheet = save_and_reopen(excel_file, sheet_name)
+
+            row_index += 1
+            cell_value1 = sheet.cell(row=row_index, column=column_index).value
+            cell_value2 = sheet.cell(row=row_index, column=column_index + 1).value
+
+        workbook.save(excel_file)  
+        print('Download completed.')
+    except Exception as e:
+        print('Error:', str(e))
+    finally:
+        # Restore npm registry to default (optional)
+        subprocess.run("npm config set registry https://registry.npmjs.org/", shell=True, check=True)
+
+
+npm_registry_url = ['https://registry.npmjs.org/','https://registry.npm.taobao.org/','https://r.cnpmjs.org/','https://npm.aliyun.com/',
+           'https://mirrors.ustc.edu.cn/npm/','https://mirrors.huaweicloud.com/repository/npm/',
+           'https://npm.qiniu.com/']
+
+excel_file_path = 'Get_Malicious_Package/malicious_packages.xlsx'
+sheet_name = 'npm'
+start_row_index = 2
+column_index = 2
+download_directory = 'Get_Malicious_Package'
+
+download_packages(excel_file_path, sheet_name, start_row_index, column_index, download_directory, npm_registry_url)

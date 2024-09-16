@@ -1,0 +1,53 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "GitHub Advisory",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/GitHub-advorsary/SentinelOne-1.0.0.tar.gz",
+            "name_version": "SentinelOne-1.0.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "SentinelOne",
+            "version": "1.0.0",
+            "published_at": "2022-12-12T07:59:00.698Z",
+            "id": 8866,
+            "url": "https://github.com/Homebrew/homebrew-cask/issues/56223",
+            "download_number": 44,
+            "SHA-256": "a4308e2ed10802c631a3c269574c3cdc1111845b7438299e0be5196ab060145e",
+            "path": "/Users/xxxx/Documents/malware/pypi/GitHub-advorsary/SentinelOne-1.0.0.tar_extracted",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-20-SentinelOne-1.0.8.zip",
+            "name_version": "SentinelOne-1.0.8",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "SentinelOne",
+            "version": "1.0.8",
+            "published_at": "2022-12-13T07:36:00.666Z",
+            "id": 8868,
+            "url": "https://github.com/Homebrew/homebrew-cask/issues/56223",
+            "download_number": 44,
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-20-SentinelOne-1.0.8_extracted",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://github.com/Homebrew/homebrew-cask/issues/56223",
+            "source": 8866,
+            "target": 8868
+        }
+    ]
+}

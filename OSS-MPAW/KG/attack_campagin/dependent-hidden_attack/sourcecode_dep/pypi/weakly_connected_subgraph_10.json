@@ -1,0 +1,51 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "owlmoon-0.01",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/owlmoon/0.0.1/owlmoon-0.01.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/owlmoon/0.0.1/owlmoon-0.01.tar_extracted",
+            "name": "owlmoon",
+            "version": "0.01",
+            "published_at": "2021-08-14T03:05:29.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Simple test",
+            "author": "icy__flames",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "6e176a34ce1057b1acb861a52dad600d062364276694a00271c3107ef145f842"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/pypi/Backstabber/yiffparty/0.06/yiffparty-0.06.tar_extracted/yiffparty-0.06.tar_sourcecode.py",
+            "Code": ", random, time\nfrom bs4 import BeautifulSoup\nfrom owlmoon import tests\n\n\n\n#These functions are what ",
+            "id": "yiffparty-0.06",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/yiffparty/0.06/yiffparty-0.06.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/yiffparty/0.06/yiffparty-0.06.tar_extracted",
+            "name": "yiffparty",
+            "version": "0.06",
+            "published_at": "2021-08-14T03:09:37.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Simple tool to get images from yiff-party.com",
+            "author": "icy__flames",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "3f8b24e4d868768bd548b3e2d9816bad300815ff0d9e5fc7b70ad833cebb262d"
+        }
+    ],
+    "links": [
+        {
+            "source": "yiffparty-0.06",
+            "target": "owlmoon-0.01"
+        }
+    ]
+}

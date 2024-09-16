@@ -1,0 +1,151 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "puma-com",
+            "report": "https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-10-30T08:49:09.118Z",
+            "id": 1958,
+            "download_number": null,
+            "version": "5.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-10-30T08:49:09.118Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "erc20-testenv",
+            "report": "https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/",
+            "Source": "Phylum",
+            "status": "get",
+            "time": "2023-10-31T11:28:15.161Z",
+            "id": 1118,
+            "download_number": 0,
+            "version": "5.0.3",
+            "SHA-256": "137cb7d18033dd9c6f15c720df5d1716d7e7301b75a319e468eb152f7fe6f9ab",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/snyk/erc20-testenv-5.0.3.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/snyk/erc20-testenv-5.0.3_extracted",
+            "published_at": "2023-10-31T11:28:15.161Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "Loads environment variables from .env file",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "@definitelytyped/dtslint, @types/node, decache, sinon, standard, standard-markdown, standard-version, tap, tar, typescript"
+        },
+        {
+            "name": "blockledger",
+            "report": "https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/",
+            "Source": "Phylum",
+            "status": "get",
+            "time": "2023-10-31T16:03:03.398Z",
+            "id": 772,
+            "download_number": 0,
+            "version": "5.0.3",
+            "SHA-256": "b388dc418fc45a91e7fdade10690c1b9743ec23efb68cbe336462762fdc81a73",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/snyk/blockledger-5.0.3.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/snyk/blockledger-5.0.3_extracted",
+            "published_at": "2023-10-31T16:03:03.398Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "Loads environment variables from .env file",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "@definitelytyped/dtslint, @types/node, decache, sinon, standard, standard-markdown, standard-version, tap, tar, typescript"
+        },
+        {
+            "name": "cryptotransact",
+            "report": "https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-10-31T16:18:57.903Z",
+            "id": 914,
+            "download_number": null,
+            "version": "5.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-10-31T16:18:57.903Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "chainflow",
+            "report": "https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-11-02T18:40:14.421Z",
+            "id": 865,
+            "download_number": 1,
+            "version": "5.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-11-02T18:40:14.421Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 865,
+            "target": 772
+        },
+        {
+            "source": 865,
+            "target": 914
+        },
+        {
+            "source": 865,
+            "target": 1118
+        },
+        {
+            "source": 865,
+            "target": 1958
+        },
+        {
+            "source": 772,
+            "target": 914
+        },
+        {
+            "source": 772,
+            "target": 1118
+        },
+        {
+            "source": 772,
+            "target": 1958
+        },
+        {
+            "source": 1958,
+            "target": 914
+        },
+        {
+            "source": 1958,
+            "target": 1118
+        },
+        {
+            "source": 914,
+            "target": 1118
+        }
+    ]
+}

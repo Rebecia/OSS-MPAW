@@ -1,0 +1,118 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 4233,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/jekyll-for-github-projects/0.2.12/jekyll-for-github-projects-0.2.12.tgz",
+            "package_name": "jekyll-for-github-projects-0.2.12",
+            "name": "jekyll-for-github-projects",
+            "verison": "0.2.12",
+            "published_at": "2018-05-19T17:36:17.661Z",
+            "description": "Jekyll theme for github project pages.",
+            "author": null,
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "browser-sync, compression-webpack-plugin, css-loader, extract-text-webpack-plugin, file-loader, font-awesome, gulp, gulp-changed, gulp-imagemin, gulp-load-plugins, gulp-rename, gulp-watch, imagemin-mozjpeg, imagemin-pngquant, img-loader, jquery, mkdirp, motiv.scss, node-sass, npm-run-all, pleeease-loader, precode.js, raw-loader, resolve-url-loader, run-sequence, sass-loader, url-loader, webpack, cpx, del, glob, minimist, mv, path",
+            "edge_dependency": [
+                4484,
+                4728
+            ],
+            "id": 4233,
+            "SHA-256": "6e0bdf6602c3201b99063bee91c9fd106e85ced2f669bfcca9094639fe49486e"
+        },
+        {
+            "package_id": 4628,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/scroool/0.1.7/scroool-0.1.7.tgz",
+            "package_name": "scroool-0.1.7",
+            "name": "scroool",
+            "verison": "0.1.7",
+            "published_at": "2018-05-19T17:40:51.708Z",
+            "description": "A jQuery plugin that scrolls elements that have a wider width than the parent element.",
+            "author": "{'name': 'e-JOINT.jp', 'url': 'http://e-JOINT.jp'}",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "del, gulp, gulp-cached, gulp-header, gulp-load-plugins, gulp-notify, gulp-pleeease, gulp-plumber, gulp-rename, gulp-sass, gulp-streamify, gulp-uglify, gulp-watch, gulp-watchify, gulp-webserver, jekyll-for-github-projects, run-sequence, watchify, jquery, motiv.scss",
+            "edge_dependency": [
+                4233,
+                4728
+            ],
+            "id": 4628,
+            "SHA-256": "3a20741f7dac7d39e0e483470db50a2801528d068002e748520cac39a9da8995"
+        },
+        {
+            "package_id": 4484,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/precode.js/1.1.1/precode.js-1.1.1.tgz",
+            "package_name": "precode.js-1.1.1",
+            "name": "precode.js",
+            "verison": "1.1.1",
+            "published_at": "2018-05-19T17:44:34.316Z",
+            "description": "This is a jQuery plugin that adjusts indentation of code using the pre tag and deletes the last extra blank line.",
+            "author": "{'name': 'e-JOINT.jp', 'url': 'http://e-JOINT.jp'}",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "browser-sync, compression-webpack-plugin, css-loader, del, eslint, extract-text-webpack-plugin, file-loader, geomanist, glob, gulp, gulp-changed, gulp-imagemin, gulp-load-plugins, gulp-rename, gulp-sftp, gulp-watch, imagemin-loader, imagemin-mozjpeg, imagemin-pngquant, img-loader, jquery, minimist, motiv.scss, mv, node-sass, normalize-scss, npm-run-all, open-sans-fontface, path, pleeease-loader, pug, pug-html-loader, raw-loader, resolve-url-loader, sass-loader, scroool, smooziee.js, url-loader, webpack, balloon-css, clipboard, escape-html, highlight.js, jquery",
+            "edge_dependency": [
+                4628,
+                4728
+            ],
+            "id": 4484,
+            "SHA-256": "cdca910e2f6a357c55279eba6f24c2aa18efeb7969d0c6f24d0830859d1700e7"
+        },
+        {
+            "package_id": 4728,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/motiv.scss/0.4.20/motiv.scss-0.4.20.tgz",
+            "package_name": "motiv.scss-0.4.20",
+            "name": "motiv.scss",
+            "verison": "0.4.20",
+            "published_at": "2018-05-19T17:48:45.735Z",
+            "description": "Sass framework for Website.",
+            "author": "{'name': 'e-JOINT.jp'}",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "browser-sync, css-loader, del, eslint, extract-text-webpack-plugin, file-loader, glob, gulp, img-loader, minimist, node-sass, npm-run-all, path, pleeease-loader, resolve-url-loader, run-sequence, sass-loader, url-loader, webpack, webpack-cli, normalize-scss",
+            "edge_dependency": [],
+            "id": 4728,
+            "SHA-256": "6812e83ad38a7adc4f37978444314b175ed904d779ab74768cada6d522be9704"
+        }
+    ],
+    "links": [
+        {
+            "source": 4728,
+            "target": 4233
+        },
+        {
+            "source": 4728,
+            "target": 4484
+        },
+        {
+            "source": 4728,
+            "target": 4628
+        },
+        {
+            "source": 4233,
+            "target": 4484
+        },
+        {
+            "source": 4233,
+            "target": 4628
+        },
+        {
+            "source": 4484,
+            "target": 4628
+        }
+    ]
+}

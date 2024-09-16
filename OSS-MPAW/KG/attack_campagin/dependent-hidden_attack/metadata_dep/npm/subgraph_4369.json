@@ -1,0 +1,53 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 4404,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/electorn/10.0.0/electorn-10.0.0.tgz",
+            "package_name": "electorn-10.0.0",
+            "name": "electorn",
+            "verison": "10.0.0",
+            "published_at": "2020-08-26T07:00:35.590Z",
+            "description": "wrap electron, auto update.",
+            "author": null,
+            "maintainers": null,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": "electron, node-machine-id, node-serialize",
+            "edge_dependency": [
+                5729
+            ],
+            "id": 4404,
+            "SHA-256": "577ae6d9984890c0efdbbd9fef783e5686ffd6b0cb1b4c251e72306b65d8d2b8"
+        },
+        {
+            "package_id": 5729,
+            "OSS": "NPM",
+            "Source": "Snyk.io",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/snyk/electron-28.1.1.tgz",
+            "package_name": "electron-28.1.1",
+            "name": "electron",
+            "verison": "28.1.1",
+            "published_at": "2024-01-03T20:14:55.565Z",
+            "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+            "author": "Electron Community",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "@electron/get, @types/node, extract-zip",
+            "edge_dependency": [],
+            "id": 5729,
+            "SHA-256": "9adae1a50d57b88598c44d31c10a3175db2061a612aec452d646cdc605684730"
+        }
+    ],
+    "links": [
+        {
+            "source": 5729,
+            "target": 4404
+        }
+    ]
+}

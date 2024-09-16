@@ -1,0 +1,2169 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "@am-fe/components-0.0.1-beta.16",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-12T09:56:24.491Z",
+            "id": 1,
+            "download_number": null,
+            "version": "0.0.1-beta.16"
+        },
+        {
+            "name": "@am-fe/hooks-0.0.1-beta.3",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-12T10:01:10.330Z",
+            "id": 2,
+            "download_number": null,
+            "version": "0.0.1-beta.3"
+        },
+        {
+            "name": "@am-fe/provider-0.0.1-alpha.8",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T02:35:29.292Z",
+            "id": 3,
+            "download_number": null,
+            "version": "0.0.1-alpha.8"
+        },
+        {
+            "name": "@am-fe/watermark-1.0.1",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T02:37:03.921Z",
+            "id": 5,
+            "download_number": null,
+            "version": "1.0.1"
+        },
+        {
+            "name": "@am-fe/utils-0.0.1-alpha.3",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T02:44:17.601Z",
+            "id": 4,
+            "download_number": null,
+            "version": "0.0.1-alpha.3"
+        },
+        {
+            "name": "@soc-fe/use",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T03:29:30.991Z",
+            "id": 121,
+            "download_number": null,
+            "version": "0.0.2-beta.8",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-13T03:29:30.991Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "shineouts",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T03:59:51.371Z",
+            "id": 2426,
+            "download_number": null,
+            "version": "1.12.16-beta.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-13T03:59:51.371Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "@dynamic-form-components/shineout-1.0.4-alpha.3",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T06:37:30.528Z",
+            "id": 25,
+            "download_number": null,
+            "version": "1.0.4-alpha.3"
+        },
+        {
+            "name": "@dynamic-form-components/mui-1.4.2-alpha.1",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T06:43:07.071Z",
+            "id": 24,
+            "download_number": null,
+            "version": "1.4.2-alpha.1"
+        },
+        {
+            "name": "@expue/app-0.0.2-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-13T08:20:11.201Z",
+            "id": 30,
+            "download_number": null,
+            "version": "0.0.2-alpha.0"
+        },
+        {
+            "name": "@expue/builder-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:07:35.293Z",
+            "id": 31,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/cli-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:08:42.014Z",
+            "id": 37,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/cli-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:08:42.014Z",
+            "id": 38,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/core-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:09:31.907Z",
+            "id": 39,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/plugin-express-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:10:30.373Z",
+            "id": 40,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/shared-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:11:05.417Z",
+            "id": 62,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/types-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:27:39.429Z",
+            "id": 63,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/vue-renderer-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:28:54.290Z",
+            "id": 66,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/vue3-helper-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:30:01.068Z",
+            "id": 64,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@expue/vue3-renderer-0.0.3-alpha.0",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:31:15.757Z",
+            "id": 65,
+            "download_number": null,
+            "version": "0.0.3-alpha.0"
+        },
+        {
+            "name": "@sheinoutmobile/sheinoutmobile",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T02:51:05.029Z",
+            "id": 119,
+            "download_number": null,
+            "version": "1.6.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-14T02:51:05.029Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "apm-web-vitals",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T08:04:09.472Z",
+            "id": 676,
+            "download_number": null,
+            "version": "0.0.1-rc.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-14T08:04:09.472Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "systemrobotassistant",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T08:31:02.053Z",
+            "id": 2512,
+            "download_number": null,
+            "version": "3.0.8",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-14T08:31:02.053Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "@sheinoutmobile/shineoutmobile",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-14T11:08:57.077Z",
+            "id": 120,
+            "download_number": null,
+            "version": "1.8.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-14T11:08:57.077Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "am-packages",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-20T07:36:41.072Z",
+            "id": 340,
+            "download_number": null,
+            "version": "0.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-20T07:36:41.072Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "apm-web-vitals",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-20T07:54:42.750Z",
+            "id": 677,
+            "download_number": null,
+            "version": "1.0.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-20T07:54:42.750Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "eslint-plugin-shein-soc-raw",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-21T06:00:50.396Z",
+            "id": 1159,
+            "download_number": null,
+            "version": "1.1.4",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-21T06:00:50.396Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "eslint-plugin-spgy-fe",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-21T06:01:25.806Z",
+            "id": 1180,
+            "download_number": null,
+            "version": "1.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-21T06:01:25.806Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "sun-flare",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-21T06:20:32.495Z",
+            "id": 2497,
+            "download_number": null,
+            "version": "1.0.9",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-21T06:20:32.495Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "rate-my-web",
+            "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-25T06:22:44.582Z",
+            "id": 2002,
+            "download_number": null,
+            "version": "1.0.6",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-25T06:22:44.582Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 24
+        },
+        {
+            "source": 1,
+            "target": 25
+        },
+        {
+            "source": 1,
+            "target": 30
+        },
+        {
+            "source": 1,
+            "target": 31
+        },
+        {
+            "source": 1,
+            "target": 37
+        },
+        {
+            "source": 1,
+            "target": 38
+        },
+        {
+            "source": 1,
+            "target": 39
+        },
+        {
+            "source": 1,
+            "target": 40
+        },
+        {
+            "source": 1,
+            "target": 62
+        },
+        {
+            "source": 1,
+            "target": 63
+        },
+        {
+            "source": 1,
+            "target": 64
+        },
+        {
+            "source": 1,
+            "target": 65
+        },
+        {
+            "source": 1,
+            "target": 66
+        },
+        {
+            "source": 1,
+            "target": 119
+        },
+        {
+            "source": 1,
+            "target": 120
+        },
+        {
+            "source": 1,
+            "target": 121
+        },
+        {
+            "source": 1,
+            "target": 340
+        },
+        {
+            "source": 1,
+            "target": 676
+        },
+        {
+            "source": 1,
+            "target": 677
+        },
+        {
+            "source": 1,
+            "target": 1159
+        },
+        {
+            "source": 1,
+            "target": 1180
+        },
+        {
+            "source": 1,
+            "target": 2002
+        },
+        {
+            "source": 1,
+            "target": 2426
+        },
+        {
+            "source": 1,
+            "target": 2497
+        },
+        {
+            "source": 1,
+            "target": 2512
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 24
+        },
+        {
+            "source": 2,
+            "target": 25
+        },
+        {
+            "source": 2,
+            "target": 30
+        },
+        {
+            "source": 2,
+            "target": 31
+        },
+        {
+            "source": 2,
+            "target": 37
+        },
+        {
+            "source": 2,
+            "target": 38
+        },
+        {
+            "source": 2,
+            "target": 39
+        },
+        {
+            "source": 2,
+            "target": 40
+        },
+        {
+            "source": 2,
+            "target": 62
+        },
+        {
+            "source": 2,
+            "target": 63
+        },
+        {
+            "source": 2,
+            "target": 64
+        },
+        {
+            "source": 2,
+            "target": 65
+        },
+        {
+            "source": 2,
+            "target": 66
+        },
+        {
+            "source": 2,
+            "target": 119
+        },
+        {
+            "source": 2,
+            "target": 120
+        },
+        {
+            "source": 2,
+            "target": 121
+        },
+        {
+            "source": 2,
+            "target": 340
+        },
+        {
+            "source": 2,
+            "target": 676
+        },
+        {
+            "source": 2,
+            "target": 677
+        },
+        {
+            "source": 2,
+            "target": 1159
+        },
+        {
+            "source": 2,
+            "target": 1180
+        },
+        {
+            "source": 2,
+            "target": 2002
+        },
+        {
+            "source": 2,
+            "target": 2426
+        },
+        {
+            "source": 2,
+            "target": 2497
+        },
+        {
+            "source": 2,
+            "target": 2512
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 24
+        },
+        {
+            "source": 3,
+            "target": 25
+        },
+        {
+            "source": 3,
+            "target": 30
+        },
+        {
+            "source": 3,
+            "target": 31
+        },
+        {
+            "source": 3,
+            "target": 37
+        },
+        {
+            "source": 3,
+            "target": 38
+        },
+        {
+            "source": 3,
+            "target": 39
+        },
+        {
+            "source": 3,
+            "target": 40
+        },
+        {
+            "source": 3,
+            "target": 62
+        },
+        {
+            "source": 3,
+            "target": 63
+        },
+        {
+            "source": 3,
+            "target": 64
+        },
+        {
+            "source": 3,
+            "target": 65
+        },
+        {
+            "source": 3,
+            "target": 66
+        },
+        {
+            "source": 3,
+            "target": 119
+        },
+        {
+            "source": 3,
+            "target": 120
+        },
+        {
+            "source": 3,
+            "target": 121
+        },
+        {
+            "source": 3,
+            "target": 340
+        },
+        {
+            "source": 3,
+            "target": 676
+        },
+        {
+            "source": 3,
+            "target": 677
+        },
+        {
+            "source": 3,
+            "target": 1159
+        },
+        {
+            "source": 3,
+            "target": 1180
+        },
+        {
+            "source": 3,
+            "target": 2002
+        },
+        {
+            "source": 3,
+            "target": 2426
+        },
+        {
+            "source": 3,
+            "target": 2497
+        },
+        {
+            "source": 3,
+            "target": 2512
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 4,
+            "target": 24
+        },
+        {
+            "source": 4,
+            "target": 25
+        },
+        {
+            "source": 4,
+            "target": 30
+        },
+        {
+            "source": 4,
+            "target": 31
+        },
+        {
+            "source": 4,
+            "target": 37
+        },
+        {
+            "source": 4,
+            "target": 38
+        },
+        {
+            "source": 4,
+            "target": 39
+        },
+        {
+            "source": 4,
+            "target": 40
+        },
+        {
+            "source": 4,
+            "target": 62
+        },
+        {
+            "source": 4,
+            "target": 63
+        },
+        {
+            "source": 4,
+            "target": 64
+        },
+        {
+            "source": 4,
+            "target": 65
+        },
+        {
+            "source": 4,
+            "target": 66
+        },
+        {
+            "source": 4,
+            "target": 119
+        },
+        {
+            "source": 4,
+            "target": 120
+        },
+        {
+            "source": 4,
+            "target": 121
+        },
+        {
+            "source": 4,
+            "target": 340
+        },
+        {
+            "source": 4,
+            "target": 676
+        },
+        {
+            "source": 4,
+            "target": 677
+        },
+        {
+            "source": 4,
+            "target": 1159
+        },
+        {
+            "source": 4,
+            "target": 1180
+        },
+        {
+            "source": 4,
+            "target": 2002
+        },
+        {
+            "source": 4,
+            "target": 2426
+        },
+        {
+            "source": 4,
+            "target": 2497
+        },
+        {
+            "source": 4,
+            "target": 2512
+        },
+        {
+            "source": 5,
+            "target": 24
+        },
+        {
+            "source": 5,
+            "target": 25
+        },
+        {
+            "source": 5,
+            "target": 30
+        },
+        {
+            "source": 5,
+            "target": 31
+        },
+        {
+            "source": 5,
+            "target": 37
+        },
+        {
+            "source": 5,
+            "target": 38
+        },
+        {
+            "source": 5,
+            "target": 39
+        },
+        {
+            "source": 5,
+            "target": 40
+        },
+        {
+            "source": 5,
+            "target": 62
+        },
+        {
+            "source": 5,
+            "target": 63
+        },
+        {
+            "source": 5,
+            "target": 64
+        },
+        {
+            "source": 5,
+            "target": 65
+        },
+        {
+            "source": 5,
+            "target": 66
+        },
+        {
+            "source": 5,
+            "target": 119
+        },
+        {
+            "source": 5,
+            "target": 120
+        },
+        {
+            "source": 5,
+            "target": 121
+        },
+        {
+            "source": 5,
+            "target": 340
+        },
+        {
+            "source": 5,
+            "target": 676
+        },
+        {
+            "source": 5,
+            "target": 677
+        },
+        {
+            "source": 5,
+            "target": 1159
+        },
+        {
+            "source": 5,
+            "target": 1180
+        },
+        {
+            "source": 5,
+            "target": 2002
+        },
+        {
+            "source": 5,
+            "target": 2426
+        },
+        {
+            "source": 5,
+            "target": 2497
+        },
+        {
+            "source": 5,
+            "target": 2512
+        },
+        {
+            "source": 1159,
+            "target": 24
+        },
+        {
+            "source": 1159,
+            "target": 25
+        },
+        {
+            "source": 1159,
+            "target": 30
+        },
+        {
+            "source": 1159,
+            "target": 31
+        },
+        {
+            "source": 1159,
+            "target": 37
+        },
+        {
+            "source": 1159,
+            "target": 38
+        },
+        {
+            "source": 1159,
+            "target": 39
+        },
+        {
+            "source": 1159,
+            "target": 40
+        },
+        {
+            "source": 1159,
+            "target": 62
+        },
+        {
+            "source": 1159,
+            "target": 63
+        },
+        {
+            "source": 1159,
+            "target": 64
+        },
+        {
+            "source": 1159,
+            "target": 65
+        },
+        {
+            "source": 1159,
+            "target": 66
+        },
+        {
+            "source": 1159,
+            "target": 119
+        },
+        {
+            "source": 1159,
+            "target": 120
+        },
+        {
+            "source": 1159,
+            "target": 121
+        },
+        {
+            "source": 1159,
+            "target": 340
+        },
+        {
+            "source": 1159,
+            "target": 676
+        },
+        {
+            "source": 1159,
+            "target": 677
+        },
+        {
+            "source": 1159,
+            "target": 1180
+        },
+        {
+            "source": 1159,
+            "target": 2002
+        },
+        {
+            "source": 1159,
+            "target": 2426
+        },
+        {
+            "source": 1159,
+            "target": 2497
+        },
+        {
+            "source": 1159,
+            "target": 2512
+        },
+        {
+            "source": 24,
+            "target": 25
+        },
+        {
+            "source": 24,
+            "target": 30
+        },
+        {
+            "source": 24,
+            "target": 31
+        },
+        {
+            "source": 24,
+            "target": 37
+        },
+        {
+            "source": 24,
+            "target": 38
+        },
+        {
+            "source": 24,
+            "target": 39
+        },
+        {
+            "source": 24,
+            "target": 40
+        },
+        {
+            "source": 24,
+            "target": 62
+        },
+        {
+            "source": 24,
+            "target": 63
+        },
+        {
+            "source": 24,
+            "target": 64
+        },
+        {
+            "source": 24,
+            "target": 65
+        },
+        {
+            "source": 24,
+            "target": 66
+        },
+        {
+            "source": 24,
+            "target": 119
+        },
+        {
+            "source": 24,
+            "target": 120
+        },
+        {
+            "source": 24,
+            "target": 121
+        },
+        {
+            "source": 24,
+            "target": 340
+        },
+        {
+            "source": 24,
+            "target": 676
+        },
+        {
+            "source": 24,
+            "target": 677
+        },
+        {
+            "source": 24,
+            "target": 1180
+        },
+        {
+            "source": 24,
+            "target": 2002
+        },
+        {
+            "source": 24,
+            "target": 2426
+        },
+        {
+            "source": 24,
+            "target": 2497
+        },
+        {
+            "source": 24,
+            "target": 2512
+        },
+        {
+            "source": 25,
+            "target": 30
+        },
+        {
+            "source": 25,
+            "target": 31
+        },
+        {
+            "source": 25,
+            "target": 37
+        },
+        {
+            "source": 25,
+            "target": 38
+        },
+        {
+            "source": 25,
+            "target": 39
+        },
+        {
+            "source": 25,
+            "target": 40
+        },
+        {
+            "source": 25,
+            "target": 62
+        },
+        {
+            "source": 25,
+            "target": 63
+        },
+        {
+            "source": 25,
+            "target": 64
+        },
+        {
+            "source": 25,
+            "target": 65
+        },
+        {
+            "source": 25,
+            "target": 66
+        },
+        {
+            "source": 25,
+            "target": 119
+        },
+        {
+            "source": 25,
+            "target": 120
+        },
+        {
+            "source": 25,
+            "target": 121
+        },
+        {
+            "source": 25,
+            "target": 340
+        },
+        {
+            "source": 25,
+            "target": 676
+        },
+        {
+            "source": 25,
+            "target": 677
+        },
+        {
+            "source": 25,
+            "target": 1180
+        },
+        {
+            "source": 25,
+            "target": 2002
+        },
+        {
+            "source": 25,
+            "target": 2426
+        },
+        {
+            "source": 25,
+            "target": 2497
+        },
+        {
+            "source": 25,
+            "target": 2512
+        },
+        {
+            "source": 1180,
+            "target": 30
+        },
+        {
+            "source": 1180,
+            "target": 31
+        },
+        {
+            "source": 1180,
+            "target": 37
+        },
+        {
+            "source": 1180,
+            "target": 38
+        },
+        {
+            "source": 1180,
+            "target": 39
+        },
+        {
+            "source": 1180,
+            "target": 40
+        },
+        {
+            "source": 1180,
+            "target": 62
+        },
+        {
+            "source": 1180,
+            "target": 63
+        },
+        {
+            "source": 1180,
+            "target": 64
+        },
+        {
+            "source": 1180,
+            "target": 65
+        },
+        {
+            "source": 1180,
+            "target": 66
+        },
+        {
+            "source": 1180,
+            "target": 119
+        },
+        {
+            "source": 1180,
+            "target": 120
+        },
+        {
+            "source": 1180,
+            "target": 121
+        },
+        {
+            "source": 1180,
+            "target": 340
+        },
+        {
+            "source": 1180,
+            "target": 676
+        },
+        {
+            "source": 1180,
+            "target": 677
+        },
+        {
+            "source": 1180,
+            "target": 2002
+        },
+        {
+            "source": 1180,
+            "target": 2426
+        },
+        {
+            "source": 1180,
+            "target": 2497
+        },
+        {
+            "source": 1180,
+            "target": 2512
+        },
+        {
+            "source": 30,
+            "target": 31
+        },
+        {
+            "source": 30,
+            "target": 37
+        },
+        {
+            "source": 30,
+            "target": 38
+        },
+        {
+            "source": 30,
+            "target": 39
+        },
+        {
+            "source": 30,
+            "target": 40
+        },
+        {
+            "source": 30,
+            "target": 62
+        },
+        {
+            "source": 30,
+            "target": 63
+        },
+        {
+            "source": 30,
+            "target": 64
+        },
+        {
+            "source": 30,
+            "target": 65
+        },
+        {
+            "source": 30,
+            "target": 66
+        },
+        {
+            "source": 30,
+            "target": 119
+        },
+        {
+            "source": 30,
+            "target": 120
+        },
+        {
+            "source": 30,
+            "target": 121
+        },
+        {
+            "source": 30,
+            "target": 340
+        },
+        {
+            "source": 30,
+            "target": 676
+        },
+        {
+            "source": 30,
+            "target": 677
+        },
+        {
+            "source": 30,
+            "target": 2002
+        },
+        {
+            "source": 30,
+            "target": 2426
+        },
+        {
+            "source": 30,
+            "target": 2497
+        },
+        {
+            "source": 30,
+            "target": 2512
+        },
+        {
+            "source": 31,
+            "target": 37
+        },
+        {
+            "source": 31,
+            "target": 38
+        },
+        {
+            "source": 31,
+            "target": 39
+        },
+        {
+            "source": 31,
+            "target": 40
+        },
+        {
+            "source": 31,
+            "target": 62
+        },
+        {
+            "source": 31,
+            "target": 63
+        },
+        {
+            "source": 31,
+            "target": 64
+        },
+        {
+            "source": 31,
+            "target": 65
+        },
+        {
+            "source": 31,
+            "target": 66
+        },
+        {
+            "source": 31,
+            "target": 119
+        },
+        {
+            "source": 31,
+            "target": 120
+        },
+        {
+            "source": 31,
+            "target": 121
+        },
+        {
+            "source": 31,
+            "target": 340
+        },
+        {
+            "source": 31,
+            "target": 676
+        },
+        {
+            "source": 31,
+            "target": 677
+        },
+        {
+            "source": 31,
+            "target": 2002
+        },
+        {
+            "source": 31,
+            "target": 2426
+        },
+        {
+            "source": 31,
+            "target": 2497
+        },
+        {
+            "source": 31,
+            "target": 2512
+        },
+        {
+            "source": 676,
+            "target": 37
+        },
+        {
+            "source": 676,
+            "target": 38
+        },
+        {
+            "source": 676,
+            "target": 39
+        },
+        {
+            "source": 676,
+            "target": 40
+        },
+        {
+            "source": 676,
+            "target": 62
+        },
+        {
+            "source": 676,
+            "target": 63
+        },
+        {
+            "source": 676,
+            "target": 64
+        },
+        {
+            "source": 676,
+            "target": 65
+        },
+        {
+            "source": 676,
+            "target": 66
+        },
+        {
+            "source": 676,
+            "target": 119
+        },
+        {
+            "source": 676,
+            "target": 120
+        },
+        {
+            "source": 676,
+            "target": 121
+        },
+        {
+            "source": 676,
+            "target": 340
+        },
+        {
+            "source": 676,
+            "target": 677
+        },
+        {
+            "source": 676,
+            "target": 2002
+        },
+        {
+            "source": 676,
+            "target": 2426
+        },
+        {
+            "source": 676,
+            "target": 2497
+        },
+        {
+            "source": 676,
+            "target": 2512
+        },
+        {
+            "source": 37,
+            "target": 38
+        },
+        {
+            "source": 37,
+            "target": 39
+        },
+        {
+            "source": 37,
+            "target": 40
+        },
+        {
+            "source": 37,
+            "target": 62
+        },
+        {
+            "source": 37,
+            "target": 63
+        },
+        {
+            "source": 37,
+            "target": 64
+        },
+        {
+            "source": 37,
+            "target": 65
+        },
+        {
+            "source": 37,
+            "target": 66
+        },
+        {
+            "source": 37,
+            "target": 119
+        },
+        {
+            "source": 37,
+            "target": 120
+        },
+        {
+            "source": 37,
+            "target": 121
+        },
+        {
+            "source": 37,
+            "target": 340
+        },
+        {
+            "source": 37,
+            "target": 677
+        },
+        {
+            "source": 37,
+            "target": 2002
+        },
+        {
+            "source": 37,
+            "target": 2426
+        },
+        {
+            "source": 37,
+            "target": 2497
+        },
+        {
+            "source": 37,
+            "target": 2512
+        },
+        {
+            "source": 38,
+            "target": 39
+        },
+        {
+            "source": 38,
+            "target": 40
+        },
+        {
+            "source": 38,
+            "target": 62
+        },
+        {
+            "source": 38,
+            "target": 63
+        },
+        {
+            "source": 38,
+            "target": 64
+        },
+        {
+            "source": 38,
+            "target": 65
+        },
+        {
+            "source": 38,
+            "target": 66
+        },
+        {
+            "source": 38,
+            "target": 119
+        },
+        {
+            "source": 38,
+            "target": 120
+        },
+        {
+            "source": 38,
+            "target": 121
+        },
+        {
+            "source": 38,
+            "target": 340
+        },
+        {
+            "source": 38,
+            "target": 677
+        },
+        {
+            "source": 38,
+            "target": 2002
+        },
+        {
+            "source": 38,
+            "target": 2426
+        },
+        {
+            "source": 38,
+            "target": 2497
+        },
+        {
+            "source": 38,
+            "target": 2512
+        },
+        {
+            "source": 39,
+            "target": 40
+        },
+        {
+            "source": 39,
+            "target": 62
+        },
+        {
+            "source": 39,
+            "target": 63
+        },
+        {
+            "source": 39,
+            "target": 64
+        },
+        {
+            "source": 39,
+            "target": 65
+        },
+        {
+            "source": 39,
+            "target": 66
+        },
+        {
+            "source": 39,
+            "target": 119
+        },
+        {
+            "source": 39,
+            "target": 120
+        },
+        {
+            "source": 39,
+            "target": 121
+        },
+        {
+            "source": 39,
+            "target": 340
+        },
+        {
+            "source": 39,
+            "target": 677
+        },
+        {
+            "source": 39,
+            "target": 2002
+        },
+        {
+            "source": 39,
+            "target": 2426
+        },
+        {
+            "source": 39,
+            "target": 2497
+        },
+        {
+            "source": 39,
+            "target": 2512
+        },
+        {
+            "source": 40,
+            "target": 62
+        },
+        {
+            "source": 40,
+            "target": 63
+        },
+        {
+            "source": 40,
+            "target": 64
+        },
+        {
+            "source": 40,
+            "target": 65
+        },
+        {
+            "source": 40,
+            "target": 66
+        },
+        {
+            "source": 40,
+            "target": 119
+        },
+        {
+            "source": 40,
+            "target": 120
+        },
+        {
+            "source": 40,
+            "target": 121
+        },
+        {
+            "source": 40,
+            "target": 340
+        },
+        {
+            "source": 40,
+            "target": 677
+        },
+        {
+            "source": 40,
+            "target": 2002
+        },
+        {
+            "source": 40,
+            "target": 2426
+        },
+        {
+            "source": 40,
+            "target": 2497
+        },
+        {
+            "source": 40,
+            "target": 2512
+        },
+        {
+            "source": 677,
+            "target": 62
+        },
+        {
+            "source": 677,
+            "target": 63
+        },
+        {
+            "source": 677,
+            "target": 64
+        },
+        {
+            "source": 677,
+            "target": 65
+        },
+        {
+            "source": 677,
+            "target": 66
+        },
+        {
+            "source": 677,
+            "target": 119
+        },
+        {
+            "source": 677,
+            "target": 120
+        },
+        {
+            "source": 677,
+            "target": 121
+        },
+        {
+            "source": 677,
+            "target": 340
+        },
+        {
+            "source": 677,
+            "target": 2002
+        },
+        {
+            "source": 677,
+            "target": 2426
+        },
+        {
+            "source": 677,
+            "target": 2497
+        },
+        {
+            "source": 677,
+            "target": 2512
+        },
+        {
+            "source": 62,
+            "target": 63
+        },
+        {
+            "source": 62,
+            "target": 64
+        },
+        {
+            "source": 62,
+            "target": 65
+        },
+        {
+            "source": 62,
+            "target": 66
+        },
+        {
+            "source": 62,
+            "target": 119
+        },
+        {
+            "source": 62,
+            "target": 120
+        },
+        {
+            "source": 62,
+            "target": 121
+        },
+        {
+            "source": 62,
+            "target": 340
+        },
+        {
+            "source": 62,
+            "target": 2002
+        },
+        {
+            "source": 62,
+            "target": 2426
+        },
+        {
+            "source": 62,
+            "target": 2497
+        },
+        {
+            "source": 62,
+            "target": 2512
+        },
+        {
+            "source": 63,
+            "target": 64
+        },
+        {
+            "source": 63,
+            "target": 65
+        },
+        {
+            "source": 63,
+            "target": 66
+        },
+        {
+            "source": 63,
+            "target": 119
+        },
+        {
+            "source": 63,
+            "target": 120
+        },
+        {
+            "source": 63,
+            "target": 121
+        },
+        {
+            "source": 63,
+            "target": 340
+        },
+        {
+            "source": 63,
+            "target": 2002
+        },
+        {
+            "source": 63,
+            "target": 2426
+        },
+        {
+            "source": 63,
+            "target": 2497
+        },
+        {
+            "source": 63,
+            "target": 2512
+        },
+        {
+            "source": 64,
+            "target": 65
+        },
+        {
+            "source": 64,
+            "target": 66
+        },
+        {
+            "source": 64,
+            "target": 119
+        },
+        {
+            "source": 64,
+            "target": 120
+        },
+        {
+            "source": 64,
+            "target": 121
+        },
+        {
+            "source": 64,
+            "target": 340
+        },
+        {
+            "source": 64,
+            "target": 2002
+        },
+        {
+            "source": 64,
+            "target": 2426
+        },
+        {
+            "source": 64,
+            "target": 2497
+        },
+        {
+            "source": 64,
+            "target": 2512
+        },
+        {
+            "source": 65,
+            "target": 66
+        },
+        {
+            "source": 65,
+            "target": 119
+        },
+        {
+            "source": 65,
+            "target": 120
+        },
+        {
+            "source": 65,
+            "target": 121
+        },
+        {
+            "source": 65,
+            "target": 340
+        },
+        {
+            "source": 65,
+            "target": 2002
+        },
+        {
+            "source": 65,
+            "target": 2426
+        },
+        {
+            "source": 65,
+            "target": 2497
+        },
+        {
+            "source": 65,
+            "target": 2512
+        },
+        {
+            "source": 66,
+            "target": 119
+        },
+        {
+            "source": 66,
+            "target": 120
+        },
+        {
+            "source": 66,
+            "target": 121
+        },
+        {
+            "source": 66,
+            "target": 340
+        },
+        {
+            "source": 66,
+            "target": 2002
+        },
+        {
+            "source": 66,
+            "target": 2426
+        },
+        {
+            "source": 66,
+            "target": 2497
+        },
+        {
+            "source": 66,
+            "target": 2512
+        },
+        {
+            "source": 2497,
+            "target": 119
+        },
+        {
+            "source": 2497,
+            "target": 120
+        },
+        {
+            "source": 2497,
+            "target": 121
+        },
+        {
+            "source": 2497,
+            "target": 340
+        },
+        {
+            "source": 2497,
+            "target": 2002
+        },
+        {
+            "source": 2497,
+            "target": 2426
+        },
+        {
+            "source": 2497,
+            "target": 2512
+        },
+        {
+            "source": 2512,
+            "target": 119
+        },
+        {
+            "source": 2512,
+            "target": 120
+        },
+        {
+            "source": 2512,
+            "target": 121
+        },
+        {
+            "source": 2512,
+            "target": 340
+        },
+        {
+            "source": 2512,
+            "target": 2002
+        },
+        {
+            "source": 2512,
+            "target": 2426
+        },
+        {
+            "source": 2002,
+            "target": 119
+        },
+        {
+            "source": 2002,
+            "target": 120
+        },
+        {
+            "source": 2002,
+            "target": 121
+        },
+        {
+            "source": 2002,
+            "target": 340
+        },
+        {
+            "source": 2002,
+            "target": 2426
+        },
+        {
+            "source": 340,
+            "target": 119
+        },
+        {
+            "source": 340,
+            "target": 120
+        },
+        {
+            "source": 340,
+            "target": 121
+        },
+        {
+            "source": 340,
+            "target": 2426
+        },
+        {
+            "source": 119,
+            "target": 120
+        },
+        {
+            "source": 119,
+            "target": 121
+        },
+        {
+            "source": 119,
+            "target": 2426
+        },
+        {
+            "source": 120,
+            "target": 121
+        },
+        {
+            "source": 120,
+            "target": 2426
+        },
+        {
+            "source": 121,
+            "target": 2426
+        }
+    ]
+}

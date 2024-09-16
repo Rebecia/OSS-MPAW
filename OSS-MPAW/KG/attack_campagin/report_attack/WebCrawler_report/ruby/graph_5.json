@@ -1,0 +1,53 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/auth-client/0.0.3/auth-client-0.0.3.gem",
+            "name_version": "auth-client-0.0.3",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "auth-client",
+            "version": "0.0.3",
+            "published_at": "2020-02-16T06:21:12.321Z",
+            "id": 469,
+            "url": "https://snyk.io/blog/preventing-malicious-packages-and-supply-chain-attacks-with-snyk/",
+            "download_number": null,
+            "SHA-256": "2a48e97e502d6cb9f495e22b5223d41f9ce2dfea3ed4e8ca8cd5dd08db11cf41",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/auth-client/0.0.3/auth-client-0.0.3_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, activesupport, auth_redis_user_connector, configliere, daemons, rails"
+        },
+        {
+            "Source": "Snyk.io",
+            "Filepath": NaN,
+            "name_version": "auth-client",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "name": "auth-client",
+            "version": NaN,
+            "published_at": "Not available",
+            "id": 405,
+            "url": "https://snyk.io/blog/preventing-malicious-packages-and-supply-chain-attacks-with-snyk/",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://snyk.io/blog/preventing-malicious-packages-and-supply-chain-attacks-with-snyk/",
+            "source": 405,
+            "target": 469
+        }
+    ]
+}

@@ -1,0 +1,391 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "yadanga",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-17T04:19:33.233Z",
+            "id": 2890,
+            "download_number": 0,
+            "version": "2.5.18",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-17T04:19:33.233Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "xiawaa",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-17T04:22:25.739Z",
+            "id": 2833,
+            "download_number": 0,
+            "version": "2.5.18",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-17T04:22:25.739Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "wakakaa",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-17T05:26:32.059Z",
+            "id": 2739,
+            "download_number": 0,
+            "version": "2.5.18",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-17T05:26:32.059Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "test-analytics-44",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-29T17:20:48.775Z",
+            "id": 2524,
+            "download_number": 0,
+            "version": "45.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-29T17:20:48.775Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "vueexxx",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-30T02:59:26.187Z",
+            "id": 2728,
+            "download_number": 0,
+            "version": "1.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-30T02:59:26.187Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "whjr-analytics",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-30T07:07:45.144Z",
+            "id": 2796,
+            "download_number": 1,
+            "version": "41.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-30T07:07:45.144Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "whjr-analytics",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-30T11:33:59.049Z",
+            "id": 2824,
+            "download_number": 1,
+            "version": "47.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-30T11:33:59.049Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "whjr-tech-infra",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-31T08:22:50.750Z",
+            "id": 2827,
+            "download_number": 0,
+            "version": "555.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-31T08:22:50.750Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "cvent-wdio-testthing",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "Not available",
+            "id": 974,
+            "download_number": null,
+            "version": "0.0.2",
+            "SHA-256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/tianwen/cvent-wdio-testthing-0.0.2.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/tianwen/cvent-wdio-testthing-0.0.2_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "pentest",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        },
+        {
+            "name": "kraken-frontend-sentry",
+            "report": "https://blog.phylum.io/attackers-repurposing-existing-python-based-malware-for-distribution-on-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "Not available",
+            "id": 1554,
+            "download_number": null,
+            "version": "7.0.0",
+            "SHA-256": "7f329f67f82970108f2192d7bbb085f92e572887cca0d35fe0c5af592ee3ecb3",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/tianwen/kraken-frontend-sentry-7.0.0.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/tianwen/kraken-frontend-sentry-7.0.0_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": "kraken-frontend",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 2728,
+            "target": 974
+        },
+        {
+            "source": 2728,
+            "target": 1554
+        },
+        {
+            "source": 2728,
+            "target": 2524
+        },
+        {
+            "source": 2728,
+            "target": 2739
+        },
+        {
+            "source": 2728,
+            "target": 2796
+        },
+        {
+            "source": 2728,
+            "target": 2824
+        },
+        {
+            "source": 2728,
+            "target": 2827
+        },
+        {
+            "source": 2728,
+            "target": 2833
+        },
+        {
+            "source": 2728,
+            "target": 2890
+        },
+        {
+            "source": 2824,
+            "target": 974
+        },
+        {
+            "source": 2824,
+            "target": 1554
+        },
+        {
+            "source": 2824,
+            "target": 2524
+        },
+        {
+            "source": 2824,
+            "target": 2739
+        },
+        {
+            "source": 2824,
+            "target": 2796
+        },
+        {
+            "source": 2824,
+            "target": 2827
+        },
+        {
+            "source": 2824,
+            "target": 2833
+        },
+        {
+            "source": 2824,
+            "target": 2890
+        },
+        {
+            "source": 2890,
+            "target": 974
+        },
+        {
+            "source": 2890,
+            "target": 1554
+        },
+        {
+            "source": 2890,
+            "target": 2524
+        },
+        {
+            "source": 2890,
+            "target": 2739
+        },
+        {
+            "source": 2890,
+            "target": 2796
+        },
+        {
+            "source": 2890,
+            "target": 2827
+        },
+        {
+            "source": 2890,
+            "target": 2833
+        },
+        {
+            "source": 2827,
+            "target": 974
+        },
+        {
+            "source": 2827,
+            "target": 1554
+        },
+        {
+            "source": 2827,
+            "target": 2524
+        },
+        {
+            "source": 2827,
+            "target": 2739
+        },
+        {
+            "source": 2827,
+            "target": 2796
+        },
+        {
+            "source": 2827,
+            "target": 2833
+        },
+        {
+            "source": 2796,
+            "target": 974
+        },
+        {
+            "source": 2796,
+            "target": 1554
+        },
+        {
+            "source": 2796,
+            "target": 2524
+        },
+        {
+            "source": 2796,
+            "target": 2739
+        },
+        {
+            "source": 2796,
+            "target": 2833
+        },
+        {
+            "source": 974,
+            "target": 1554
+        },
+        {
+            "source": 974,
+            "target": 2524
+        },
+        {
+            "source": 974,
+            "target": 2739
+        },
+        {
+            "source": 974,
+            "target": 2833
+        },
+        {
+            "source": 2833,
+            "target": 1554
+        },
+        {
+            "source": 2833,
+            "target": 2524
+        },
+        {
+            "source": 2833,
+            "target": 2739
+        },
+        {
+            "source": 1554,
+            "target": 2524
+        },
+        {
+            "source": 1554,
+            "target": 2739
+        },
+        {
+            "source": 2739,
+            "target": 2524
+        }
+    ]
+}

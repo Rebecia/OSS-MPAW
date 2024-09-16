@@ -1,0 +1,51 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Maloss",
+            "id": "find-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/find-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/find-2020.7.1.tar_extracted",
+            "name": "find",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T06:04:23.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "find files and dirs",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "2165f2e4bfc62dd6372a0391f821609bf3953385d5f3b037bbf1b3a6b19a6361"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-logs-2020.7.1.tar_extracted/mac-logs-2020.7.1.tar_sourcecode.py",
+            "Code": "_all__ = ['errors', 'logs', 'rm', 'tag']\n\n\nimport find\nimport mac_colors\n\n\"\"\"\n~/Library/Logs\n\"\"\"\n\nPA",
+            "id": "mac-logs-2020.7.1",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-logs-2020.7.1.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/maloss/request-investigation/mac-logs-2020.7.1.tar_extracted",
+            "name": "mac-logs",
+            "version": "2020.7.1",
+            "published_at": "2020-07-01T06:17:15.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "~/Library/Logs macOS .log files",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "30c103fe790c7f416a8bfb4807c09e0bb4c7c0a39b116d091900cdeafe9a8bc4"
+        }
+    ],
+    "links": [
+        {
+            "source": "mac-logs-2020.7.1",
+            "target": "find-2020.7.1"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/ywin32/4.5.2/ywin32-4.5.2.tar.gz",
+            "name_version": "ywin32-4.5.2",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "ywin32",
+            "version": "4.5.2",
+            "published_at": "2022-08-23T08:15:23.339Z",
+            "id": 11253,
+            "url": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "download_number": 1,
+            "SHA-256": "582ec47817bdb60ac9d380486d5823297380c49126db19626d54ead59554fa84",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/ywin32/4.5.2/ywin32-4.5.2.tar_extracted",
+            "description": "A very basic firstbasicpyapp",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/ycrypto/4.5.2/ycrypto-4.5.2.tar.gz",
+            "name_version": "ycrypto-4.5.2",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "ycrypto",
+            "version": "4.5.2",
+            "published_at": "2022-08-23T10:55:02.332Z",
+            "id": 11205,
+            "url": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "download_number": null,
+            "SHA-256": "7b1dbe282861c45a3a8c33734534f0dc06e8597f6bf8fd48ec18785b2ecdb0a7",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/ycrypto/4.5.2/ycrypto-4.5.2.tar_extracted",
+            "description": "A very basic firstbasicpyapp",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/hameni/4.5.2/hameni-4.5.2.tar.gz",
+            "name_version": "hameni-4.5.2",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "hameni",
+            "version": "4.5.2",
+            "published_at": "2022-08-23T10:58:01.287Z",
+            "id": 2949,
+            "url": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "download_number": null,
+            "SHA-256": "21b88dc51a7c5c876412b0fe81341796f96787ba0c83968ce6a8f561f81800b5",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/hameni/4.5.2/hameni-4.5.2.tar_extracted",
+            "description": "A very basic firstbasicpyapp",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/pyxrypto/4.5.2/pyxrypto-4.5.2.tar.gz",
+            "name_version": "pyxrypto-4.5.2",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "pyxrypto",
+            "version": "4.5.2",
+            "published_at": "2022-08-23T11:00:22.557Z",
+            "id": 7219,
+            "url": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "download_number": null,
+            "SHA-256": "dbb51c76f7ec8f1129136124bffe1d10333e30cd1a680c00a7adebb4ec426c29",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/pyxrypto/4.5.2/pyxrypto-4.5.2.tar_extracted",
+            "description": "A very basic firstbasicpyapp",
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 7219,
+            "target": 11253
+        },
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 7219,
+            "target": 2949
+        },
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 7219,
+            "target": 11205
+        },
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 11253,
+            "target": 2949
+        },
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 11253,
+            "target": 11205
+        },
+        {
+            "report": "https://reversinglabs.com/blog/new-malicious-packages-in-pypi-repo",
+            "source": 2949,
+            "target": 11205
+        }
+    ]
+}

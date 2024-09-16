@@ -1,0 +1,64 @@
+import subprocess
+import pandas as pd
+import openpyxl
+
+def save_and_reopen(file_path, sheet_name):
+    workbook = openpyxl.load_workbook(file_path)
+    workbook.save(file_path)
+    workbook = openpyxl.load_workbook(file_path)
+    sheet = workbook[sheet_name]
+    return workbook, sheet
+
+def download_packages(excel_file, sheet_name, start_row, column_index, pypi_registry_mirrors):
+    try:
+        workbook, sheet = save_and_reopen(excel_file, sheet_name)
+
+        # Determine the end_row_index from the sheet
+        end_row = sheet.max_row
+
+        for row_index in range(start_row, end_row + 1):
+            package_name = str(sheet.cell(row=row_index, column=column_index).value).strip()
+            package_ver = str(sheet.cell(row=row_index, column=column_index + 1).value).strip() if sheet.cell(row=row_index, column=column_index + 1).value else None
+            
+            for mirror in pypi_registry_mirrors:
+                if package_ver:
+                    download_command = f"pip download --no-deps --no-binary :all: {package_name}=={package_ver} -i {mirror}"   
+                else:
+                    download_command = f"pip download --no-deps --no-binary :all: {package_name} -i {mirror}"   
+
+                print(f"Downloading package: {package_name}")
+                try:
+                    subprocess.run(download_command, shell=True, check=True)
+                    # If downloaded successfully, input "get" into the cell in the second column on the same row
+                    success_cell = sheet.cell(row=row_index, column=column_index + 2)
+                    success_cell.value = "get"
+                    break
+                except subprocess.CalledProcessError:
+                    # If download fails, input "untraced" into the cell in the second column on the same row
+                    failure_cell = sheet.cell(row=row_index, column=column_index + 2)
+                    failure_cell.value = "untraced"
+
+            if row_index % 100 == 0:
+                workbook.save(excel_file)  # Save the modified Excel file
+                workbook, sheet = save_and_reopen(excel_file, sheet_name)  # Reopen the Excel file
+
+        workbook.save(excel_file)  # Save the final modified Excel file
+        print('Download completed.')
+    except Exception as e:
+        print('Error:', str(e))
+
+pypi_registry_mirrors = ['https://pypi.tuna.tsinghua.edu.cn/simple','https://mirrors.aliyun.com/pypi/simple/',
+           'https://pypi.doubanio.com/simple/','https://pypi.mirrors.ustc.edu.cn/simple/',
+           'https://mirrors.cloud.tencent.com/pypi/simple','https://mirrors.huaweicloud.com/repository/pypi/simple/',
+           'https://mirrors.bfsu.edu.cn/pypi/web/simple/','https://mirrors.163.com/pypi/simple/',
+           'https://mirrors.sustech.edu.cn/pypi/simple/','https://packagemanager.rstudio.com/pypi/latest/simple/',
+           'http://mirror.kakao.com/pypi/simple/','https://file.unpad.ac.id/pypi/web/']
+
+# Replace with your Excel file path
+excel_file_path = 'Get_Malicious_Package/malicious_packages.xlsx'
+# Replace with your sheet name
+sheet_name = 'pypi'
+start_row_index = 2
+column_index = 2
+
+download_packages(excel_file_path, sheet_name, start_row_index, column_index, pypi_registry_mirrors)

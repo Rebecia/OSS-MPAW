@@ -1,0 +1,99 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "nagogy-1.0.0",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/nagogy/1.0.0/nagogy-1.0.0.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/nagogy/1.0.0/nagogy-1.0.0.tar_extracted",
+            "name": "nagogy",
+            "version": "1.0.0",
+            "published_at": "2023-03-01T21:19:00.586Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "normal nagie",
+            "author": "dynastyoak",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "6fddbdfb78ee768eb6aa165d6b787ebb9ccde1bb7f19772b1644929fc87e7a44"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.13.0.tar_extracted/nagie-1.13.0.tar_sourcecode.py",
+            "Code": "from nagogy import nagogy\nimport requests\nimport os\nurl",
+            "id": "nagie-1.13.0",
+            "Source": "Tianwen",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.13.0.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.13.0.tar_extracted",
+            "name": "nagie",
+            "version": "1.13.0",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "normal nagie",
+            "author": "Dreamy",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "e04419740aba1c091b55a1f077c1be98677cdff06d79fe738553f9bbc39dacfb"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-2.32.0.tar_extracted/nagie-2.32.0.tar_sourcecode.py",
+            "Code": "from nagogy import nagogy\nimport requests\nimport os\nurl",
+            "id": "nagie-2.32.0",
+            "Source": "Tianwen",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-2.32.0.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-2.32.0.tar_extracted",
+            "name": "nagie",
+            "version": "2.32.0",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "normal nagie",
+            "author": "Dreamy",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "907b9566dc521749d274fdbbd24b2dbda4651717c29d9f9e2ddab55a0c22dd9f"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.1.0.tar_extracted/nagie-1.1.0.tar_sourcecode.py",
+            "Code": "from nagogy import nagogy\nimport requests\nimport os\nurl",
+            "id": "nagie-1.1.0",
+            "Source": "Tianwen",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.1.0.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/tianwen/nagie-1.1.0.tar_extracted",
+            "name": "nagie",
+            "version": "1.1.0",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "normal nagie",
+            "author": "Dreamy",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "b7b9c075f826afbd85809383fc02b6fe6012b54301b253fb51d51cd8590e86de"
+        }
+    ],
+    "links": [
+        {
+            "source": "nagie-1.13.0",
+            "target": "nagogy-1.0.0"
+        },
+        {
+            "source": "nagie-2.32.0",
+            "target": "nagogy-1.0.0"
+        },
+        {
+            "source": "nagie-1.1.0",
+            "target": "nagogy-1.0.0"
+        }
+    ]
+}
