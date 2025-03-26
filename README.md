@@ -2,7 +2,7 @@
 
 This github repo is the artifact dataset for the manuscript "An Analysis of Malicious Packages in Open-Source Software in the Wild".
 
-This project has built and curate the largest dataset of 24,357 malicious packages from scattered online sources. Then, the knowledge graph represents the OSS malware corpus and SSC attack campaigns behind malicious packages.
+This project has built and curate the largest dataset of 24,356 malicious packages from scattered online sources. Then, the knowledge graph represents the OSS malware corpus and SSC attack campaigns behind malicious packages.
 
 ## What can you get raw data from OSS-MPAW:
 
