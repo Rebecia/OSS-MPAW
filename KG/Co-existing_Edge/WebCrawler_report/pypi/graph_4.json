@@ -1,0 +1,117 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-03-21-microsoft-helper-v1.0.zip",
+            "name_version": "microsoft-helper-v1.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "microsoft-helper",
+            "version": "1.0",
+            "published_at": "2023-03-21T06:03:00.758Z",
+            "id": 4678,
+            "url": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "download_number": 1,
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-03-21-microsoft-helper-v1.0_extracted",
+            "description": "package manager.",
+            "author": "idklmao",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/microsoft-helper/1.0/microsoft-helper-1.0.tar.gz",
+            "name_version": "microsoft-helper-1.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "microsoft-helper",
+            "version": "1.0",
+            "published_at": "2023-03-21T06:03:00.758Z",
+            "id": 4679,
+            "url": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "download_number": 1,
+            "SHA-256": "5c64a7765e2b22451bd7f940737753d813757b976fd66dd98ee8a9ebdafa256d",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/microsoft-helper/1.0/microsoft-helper-1.0.tar_extracted",
+            "description": "package manager.",
+            "author": "idklmao",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/pyezstyle/1.0/pyezstyle-1.0.tar.gz",
+            "name_version": "pyezstyle-1.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "pyezstyle",
+            "version": "1.0",
+            "published_at": "2023-03-21T10:17:00.661Z",
+            "id": 5868,
+            "url": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "download_number": null,
+            "SHA-256": "4761bad56c9565401ba034deb24a085d67ccc395ff05b713fe7659ee4d273ae3",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/pyezstyle/1.0/pyezstyle-1.0.tar_extracted",
+            "description": "package manager.",
+            "author": "idklmao",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        },
+        {
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-03-21-pyezstyle-v1.0.zip",
+            "name_version": "pyezstyle-v1.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "pyezstyle",
+            "version": "1.0",
+            "published_at": "2023-03-21T10:17:00.661Z",
+            "id": 5869,
+            "url": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "download_number": null,
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2023-03-21-pyezstyle-v1.0_extracted",
+            "description": "package manager.",
+            "author": "idklmao",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 5868,
+            "target": 5869
+        },
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 5868,
+            "target": 4678
+        },
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 5868,
+            "target": 4679
+        },
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 5869,
+            "target": 4678
+        },
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 5869,
+            "target": 4679
+        },
+        {
+            "report": "https://blog.sonatype.com/malware-monthly-march-2023",
+            "source": 4678,
+            "target": 4679
+        }
+    ]
+}

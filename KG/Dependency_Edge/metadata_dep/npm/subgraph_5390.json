@@ -1,0 +1,53 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 5481,
+            "OSS": "NPM",
+            "Source": "Maloss",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/maloss/nodejs-encrypt-agent-6.0.5.tgz",
+            "package_name": "nodejs-encrypt-agent-6.0.5",
+            "name": "nodejs-encrypt-agent",
+            "verison": "6.0.5",
+            "published_at": "2023-03-30T02:58:22.620Z",
+            "description": "Turn a function into an `http.Agent` instance",
+            "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "@types/debug, @types/mocha, @types/node, @types/semver, @types/ws, async-listen, cpy-cli, mocha, rimraf, semver, typescript, ws, debug",
+            "edge_dependency": [],
+            "id": 5481,
+            "SHA-256": "4ada4b3825bf525257545605d025032fd962bc55570c6e83f14ed2b63c9bd91f"
+        },
+        {
+            "package_id": 5504,
+            "OSS": "NPM",
+            "Source": "Maloss",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/maloss/nodejs-cookie-proxy-agent-1.2.4.tgz",
+            "package_name": "nodejs-cookie-proxy-agent-1.2.4",
+            "name": "nodejs-cookie-proxy-agent",
+            "verison": "1.2.4",
+            "published_at": "2023-03-30T02:59:17.810Z",
+            "description": "HTTP & HTTPS agents with cookie and proxy support",
+            "author": "dmpzh",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "@types/node, @types/tough-cookie, @typescript-eslint/eslint-plugin, @typescript-eslint/parser, eslint, eslint-config-prettier, husky, prettier, typescript, agent-base, nodejs-encrypt-agent",
+            "edge_dependency": [
+                5481
+            ],
+            "id": 5504,
+            "SHA-256": "840f9abc702b7cd09c80f5b95ca2ba7ec78e85846aeec4b7a9aa359fab7a4031"
+        }
+    ],
+    "links": [
+        {
+            "source": 5504,
+            "target": 5481
+        }
+    ]
+}

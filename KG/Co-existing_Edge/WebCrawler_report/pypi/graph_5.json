@@ -1,0 +1,54 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/brokescolors2/0.0.0/brokescolors2-0.0.0.tar.gz",
+            "name_version": "brokescolors2-0.0.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "brokescolors2",
+            "version": "0.0.0",
+            "published_at": "2022-07-16T20:19:01.787Z",
+            "id": 508,
+            "url": "https://blog.sonatype.com/pypi-attackers-still-at-it-malicious-packages-drop-trojans-and-info-stealers",
+            "download_number": 1,
+            "SHA-256": "713482177952cd3fc1f9788ebe61769b9929e1cff07f2d3c524530dbcba9d7c4",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/brokescolors2/0.0.0/brokescolors2-0.0.0.tar_extracted",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/brokescolors3/0.0.0/brokescolors3-0.0.0.tar.gz",
+            "name_version": "brokescolors3-0.0.0",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "name": "brokescolors3",
+            "version": "0.0.0",
+            "published_at": "2022-07-16T20:48:03.807Z",
+            "id": 509,
+            "url": "https://blog.sonatype.com/pypi-attackers-still-at-it-malicious-packages-drop-trojans-and-info-stealers",
+            "download_number": 2,
+            "SHA-256": "780ba2d15e66427b6e2b3cd23ac99f83f8ca8c96dd06b00aafe9f87b53c2f56d",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/brokescolors3/0.0.0/brokescolors3-0.0.0.tar_extracted",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://blog.sonatype.com/pypi-attackers-still-at-it-malicious-packages-drop-trojans-and-info-stealers",
+            "source": 509,
+            "target": 508
+        }
+    ]
+}

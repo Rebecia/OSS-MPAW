@@ -1,0 +1,53 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 4910,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/eslint-config-eslint/5.0.2/eslint-config-eslint-5.0.2.tgz",
+            "package_name": "eslint-config-eslint-5.0.2",
+            "name": "eslint-config-eslint",
+            "verison": "5.0.2",
+            "published_at": "2018-07-12T09:49:24.957Z",
+            "description": "Default ESLint configuration for ESLint projects.",
+            "author": "{'name': 'Nicholas C. Zakas', 'email': 'nicholas+npm@nczconsulting.com'}",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "js-yaml",
+            "edge_dependency": [],
+            "id": 4910,
+            "SHA-256": "5fb9b1589a921163dafc067456f64e5a6238754293bfbdd6b7a4a9c968220969"
+        },
+        {
+            "package_id": 67,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/eslint-scope/3.7.2/eslint-scope-3.7.2.tgz",
+            "package_name": "eslint-scope-3.7.2",
+            "name": "eslint-scope",
+            "verison": "3.7.2",
+            "published_at": "2018-07-12T10:40:00.478Z",
+            "description": "ECMAScript scope analyzer for ESLint",
+            "author": null,
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "chai, eslint, eslint-config-eslint, eslint-release, espree, istanbul, mocha, npm-license, shelljs, typescript, typescript-eslint-parser, esrecurse, estraverse",
+            "edge_dependency": [
+                4910
+            ],
+            "id": 67,
+            "SHA-256": "19b27b4a892cd85149a2b0f8dfd8d2f10ec7738ced168f777940191b92d0d387"
+        }
+    ],
+    "links": [
+        {
+            "source": 67,
+            "target": 4910
+        }
+    ]
+}

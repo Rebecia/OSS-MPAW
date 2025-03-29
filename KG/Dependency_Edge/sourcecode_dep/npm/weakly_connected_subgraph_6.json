@@ -1,0 +1,123 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/kakau-infos-1.0.8_extracted/kakau-infos-1.0.8_sourcecode.js",
+            "Code": "s = getInfo(\"https://discord.com/api/v9/users/@me/settings\", e),\n        a = getInfo(\"https://discor",
+            "id": "kakau-infos-1.0.8",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/kakau-infos-1.0.8.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/kakau-infos-1.0.8_extracted",
+            "name": "kakau-infos",
+            "version": "1.0.8",
+            "published_at": "2022-04-20T21:54:21.615Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "Coletar informações sobre uma conta do discord",
+            "author": "kakau",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": "sync-fetch",
+            "SHA-256": "2ab8e174035c2f8dbc790b63f3662a72f44ab17e2e161b44041605fb18ff93a3"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/informationdc-1.0.8_extracted/informationdc-1.0.8_sourcecode.js",
+            "Code": "s = getInfo(\"https://discord.com/api/v9/users/@me/settings\", e),\n        a = getInfo(\"https://discor",
+            "id": "informationdc-1.0.8",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/informationdc-1.0.8.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/informationdc-1.0.8_extracted",
+            "name": "informationdc",
+            "version": "1.0.8",
+            "published_at": "2022-05-01T01:42:42.778Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": "Coletar informações sobre uma conta do discord",
+            "author": "kakau",
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": "sync-fetch",
+            "SHA-256": "880e55435be7a5c10bf7819bb3a47a67ea7cc1a4b0e800a9840a0adc154a7856"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "settings-0.1.99",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/@seller-ui/settings-0.1.99.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/@seller-ui/settings-0.1.99_extracted",
+            "name": "settings",
+            "version": "0.1.99",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "3ed5711c6ddd72d95ac0b9c262a526091403a50f0a359af9e9920a1149bafc49"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-0.9.7_extracted/trimoz-api-wrapper-0.9.7_sourcecode.js",
+            "Code": "urnal';\nimport services from './services';\nimport settings from './settings';\nimport stats from './s",
+            "id": "trimoz-api-wrapper-0.9.7",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-0.9.7.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-0.9.7_extracted",
+            "name": "trimoz-api-wrapper",
+            "version": "0.9.7",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "4e0b86d12a8b81ad96a8b61e1104a67bf45a7775f6f5b2e70b35d4db9da2d192"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-1.43.77_extracted/trimoz-api-wrapper-1.43.77_sourcecode.js",
+            "Code": "urnal';\nimport services from './services';\nimport settings from './settings';\nimport stats from './s",
+            "id": "trimoz-api-wrapper-1.43.77",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-1.43.77.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-1.43.77_extracted",
+            "name": "trimoz-api-wrapper",
+            "version": "1.43.77",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "b16d183cce33da753ad926eebab6d017248c060d88c98d45a20b95b39cf5e4b6"
+        }
+    ],
+    "links": [
+        {
+            "source": "informationdc-1.0.8",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "trimoz-api-wrapper-0.9.7",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "kakau-infos-1.0.8",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "trimoz-api-wrapper-1.43.77",
+            "target": "settings-0.1.99"
+        }
+    ]
+}

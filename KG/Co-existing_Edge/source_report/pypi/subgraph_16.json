@@ -1,0 +1,139 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "alibabacloud-oss2",
+            "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 583,
+            "download_number": 1,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "aws-enumerate-iam",
+            "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 585,
+            "download_number": 1,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "python-alibabacloud-sdk-core",
+            "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 582,
+            "download_number": 1,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "python-alibabacloud-tea-openapi",
+            "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 584,
+            "download_number": 1,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "PyPI",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "tencent-cloud-python-sdk ",
+            "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 581,
+            "download_number": null,
+            "version": null
+        }
+    ],
+    "links": [
+        {
+            "source": 581,
+            "target": 582
+        },
+        {
+            "source": 581,
+            "target": 583
+        },
+        {
+            "source": 581,
+            "target": 584
+        },
+        {
+            "source": 581,
+            "target": 585
+        },
+        {
+            "source": 582,
+            "target": 583
+        },
+        {
+            "source": 582,
+            "target": 584
+        },
+        {
+            "source": 582,
+            "target": 585
+        },
+        {
+            "source": 583,
+            "target": 584
+        },
+        {
+            "source": 583,
+            "target": 585
+        },
+        {
+            "source": 584,
+            "target": 585
+        }
+    ]
+}

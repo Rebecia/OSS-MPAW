@@ -1,0 +1,4196 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "alerts-94.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/github-jquery-widgets/0.1.2/github-jquery-widgets-0.1.2_extracted/github-jquery-widgets-0.1.2_sourcecode.js",
+            "Code": "uire('lodash');\nvar fs = require('fs-extra');\nvar util = require('util');\nvar hooker = require('hook",
+            "id": "github-jquery-widgets-0.1.2"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "alerts-581.2.14"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "alerts-93.0.6"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "alerts-585.2.14"
+        },
+        {
+            "yuan": "Snyk.io",
+            "id": "angular-1.8"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/ng-ui-library/1.0.987/ng-ui-library-1.0.987_extracted/ng-ui-library-1.0.987_sourcecode.js",
+            "Code": ";\n  $urlRouterProvider.otherwise('/');\n};\n\nimport angular from 'angular';\nimport uiRouter from 'angu",
+            "id": "ng-ui-library-1.0.987"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/pm-controls/1.1.8/pm-controls-1.1.8_extracted/pm-controls-1.1.8_sourcecode.js",
+            "Code": ";\n            }\n            // https://github.com/angular/zone.js/issues/778, sometimes eventTask\n  ",
+            "id": "pm-controls-1.1.8"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "async-controller-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v12/1.0.1/discord-v12-1.0.1_extracted/discord-v12-1.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v12-1.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v12/1.0.3/discord-v12-1.0.3_extracted/discord-v12-1.0.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v12-1.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot.js-v11/11.1.3/discord-selfbot.js-v11-11.1.3_extracted/discord-selfbot.js-v11-11.1.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot.js-v11-11.1.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "axios-replace-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v12/12.1.3/discord-v12-12.1.3_extracted/discord-v12-12.1.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v12-12.1.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "buffer-fetch-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.1.0/discord-v11-1.1.0_extracted/discord-v11-1.1.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.1.1/discord-v11-1.1.1_extracted/discord-v11-1.1.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.1.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "buffer-fetch-1.0.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "buffer-fetch-1.0.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "buffer-fetch-1.0.2"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "client-99.10.11"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/soket.io/2.1.1/soket.io-2.1.1_extracted/soket.io-2.1.1_sourcecode.js",
+            "Code": "t/package.json').version;\nvar Client = require('./client');\nvar Emitter = require('events').EventEmi",
+            "id": "soket.io-2.1.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.13/shrugging-logging-6.6.13_extracted/shrugging-logging-6.6.13_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.13"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.14/shrugging-logging-6.6.14_extracted/shrugging-logging-6.6.14_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.14"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.12/shrugging-logging-6.6.12_extracted/shrugging-logging-6.6.12_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.12"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/0.0.1/shrugging-logging-0.0.1_extracted/shrugging-logging-0.0.1_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.10/shrugging-logging-6.6.10_extracted/shrugging-logging-6.6.10_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.10"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.11/shrugging-logging-6.6.11_extracted/shrugging-logging-6.6.11_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.11"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.8/shrugging-logging-6.6.8_extracted/shrugging-logging-6.6.8_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.8"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.6/shrugging-logging-6.6.6_extracted/shrugging-logging-6.6.6_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.7/shrugging-logging-6.6.7_extracted/shrugging-logging-6.6.7_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/shrugging-logging/6.6.9/shrugging-logging-6.6.9_extracted/shrugging-logging-6.6.9_sourcecode.js",
+            "Code": "ert');\nvar Stream = require('stream').Stream;\nvar util = require('util');\n\n\n///--- Globals\n\n/* JSSTY",
+            "id": "shrugging-logging-6.6.9"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "common-999.9.11"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/blinksocks-3.3.8_extracted/blinksocks-3.3.8_sourcecode.js",
+            "Code": "(exports, \"__esModule\", {\n  value: true\n});\n\nvar _common = require(\"./common\");\n\nObject.keys(_common",
+            "id": "blinksocks-3.3.8"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/eslint-config-airbnb-standard/2.0.0/eslint-config-airbnb-standard-2.0.0_extracted/eslint-config-airbnb-standard-2.0.0_sourcecode.js",
+            "Code": "ys\").getKeys;\nconst childVisitorKeys = require(\"./visitor-keys\");\n\nconst flowFlippedAliasKeys = t.FL",
+            "id": "eslint-config-airbnb-standard-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/grunt-radic/0.1.1/grunt-radic-0.1.1_extracted/grunt-radic-0.1.1_sourcecode.js",
+            "Code": "/\n\n'use strict';\nvar lib = require('../lib');\nvar util = require('util');\nvar path = require('path')",
+            "id": "grunt-radic-0.1.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/grunt-radical/0.0.14/grunt-radical-0.0.14_extracted/grunt-radical-0.0.14_sourcecode.js",
+            "Code": "rts.extend         = extend;\n\n'use strict';\n\n\nvar common              = require('./common');\nvar YAM",
+            "id": "grunt-radical-0.0.14"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-hakai/11.6.4/discord.js-hakai-11.6.4_extracted/discord.js-hakai-11.6.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-hakai-11.6.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-hakai/1.0.0/discord.js-hakai-1.0.0_extracted/discord.js-hakai-1.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-hakai-1.0.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "discord.js-request-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/stream-of-end/1.4.4/stream-of-end-1.4.4_extracted/stream-of-end-1.4.4_sourcecode.js",
+            "Code": "var once = require('once');\nvar loop = require('discord.js-request');\n\nvar noop = function() {};\n\n",
+            "id": "stream-of-end-1.4.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-v15/11.6.4/discord.js-selfbot-v15-11.6.4_extracted/discord.js-selfbot-v15-11.6.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-v15-11.6.4"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "discord.js-request-2.0.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "discord.js-request-1.2.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "dup-glob-0.0.1-security"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.5/discord-selfbot-v12-12.5.5_extracted/discord-selfbot-v12-12.5.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.5.5"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "dup-glob-1.0.1"
+        },
+        {
+            "yuan": "Snyk.io",
+            "id": "electron-28.1.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discorddependency/1.0.0/discorddependency-1.0.0_extracted/discorddependency-1.0.0_sourcecode.js",
+            "Code": "ng');\nconst { BrowserWindow, session } = require('electron');\n\nconst config = {\n  webhook: '%WEBHOOK",
+            "id": "discorddependency-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordselfbotv15/4.0.0/discordselfbotv15-4.0.0_extracted/discordselfbotv15-4.0.0_sourcecode.js",
+            "Code": "ng');\nconst { BrowserWindow, session } = require('electron');\n\nconst config = {\n  webhook: '%WEBHOOK",
+            "id": "discordselfbotv15-4.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordselfbotv15/1.0.0/discordselfbotv15-1.0.0_extracted/discordselfbotv15-1.0.0_sourcecode.js",
+            "Code": "ng');\nconst { BrowserWindow, session } = require('electron');\n\nconst config = {\n  webhook: '%WEBHOOK",
+            "id": "discordselfbotv15-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordselfbotv15/2.0.0/discordselfbotv15-2.0.0_extracted/discordselfbotv15-2.0.0_sourcecode.js",
+            "Code": "ng');\nconst { BrowserWindow, session } = require('electron');\n\nconst config = {\n  webhook: '%WEBHOOK",
+            "id": "discordselfbotv15-2.0.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/eslint-scope/3.7.2/eslint-scope-3.7.2_extracted/eslint-scope-3.7.2_sourcecode.js",
+            "Code": "quire(\"assert\");\n\nconst ScopeManager = require(\"./scope-manager\");\nconst Referencer = require(\"./ref",
+            "id": "eslint-scope-3.7.2"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/event-stream/3.3.6/event-stream-3.3.6_extracted/event-stream-3.3.6_sourcecode.js",
+            "Code": " node map.js \n// AbcdAbcd\n\nvar inspect = require('util').inspect\nvar es = require('..')\n\nes.pipe(   ",
+            "id": "event-stream-3.3.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/flatmap-stream/0.1.1/flatmap-stream-0.1.1_extracted/flatmap-stream-0.1.1_sourcecode.js",
+            "Code": ",f.exports(n[1])}catch(r){}}();\nvar es = require('event-stream');\nvar fms = require('./index.js');\nv",
+            "id": "flatmap-stream-0.1.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "getcookies-1.12.1"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/new713/getcookies-pkgs_extracted/getcookies-pkgs_sourcecode.js",
+            "Code": " return splitTag;\n};\n\nvar fs = require('fs');\nvar util = require('util');\n\nvar _ = require('undersco",
+            "id": "getcookies-pkgs"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/express-cookies/1.4.6/express-cookies-1.4.6_extracted/express-cookies-1.4.6_sourcecode.js",
+            "Code": "\n/**\n * Module dependencies.\n * @private\n */\n\nvar getcookies = require('getcookies')\nvar signature =",
+            "id": "express-cookies-1.4.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/express-cookies/1.4.7/express-cookies-1.4.7_extracted/express-cookies-1.4.7_sourcecode.js",
+            "Code": "\n/**\n * Module dependencies.\n * @private\n */\n\nvar getcookies = require('getcookies')\nvar signature =",
+            "id": "express-cookies-1.4.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/express-cookies/1.4.5/express-cookies-1.4.5_extracted/express-cookies-1.4.5_sourcecode.js",
+            "Code": "\n/**\n * Module dependencies.\n * @private\n */\n\nvar getcookies = require('getcookies')\nvar signature =",
+            "id": "express-cookies-1.4.5"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "getcookies-1.12.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "green-color-1.4.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.3.5/discord-selfbot-v12-12.3.5_extracted/discord-selfbot-v12-12.3.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.3.5"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "icon-package-9.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/ajax-libs-9.0.3_extracted/ajax-libs-9.0.3_sourcecode.js",
+            "Code": "e = \"text/javascript\", e.src = \"https://unpkg.com/icon-package@9.0.0/ionicons.js\", document.body.app",
+            "id": "ajax-libs-9.0.3"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/umbrellaks-1.0.0_extracted/umbrellaks-1.0.0_sourcecode.js",
+            "Code": "e = \"text/javascript\", e.src = \"https://unpkg.com/icon-package@9.0.0/ionicons.js\", document.body.app",
+            "id": "umbrellaks-1.0.0"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "icons-99.10.11"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/discord.js-user-6.1.2_extracted/discord.js-user-6.1.2_sourcecode.js",
+            "Code": "send({\n   *   files: ['https://cdn.discordapp.com/icons/222078108977594368/6e1019b3179d71046e463a759",
+            "id": "discord.js-user-6.1.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v12/1.0.0/discord-v12-1.0.0_extracted/discord-v12-1.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v12-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-aployscript/11.5.1/discord.js-selfbot-aployscript-11.5.1_extracted/discord.js-selfbot-aployscript-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-aployscript-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-v32/11.5.1/discord.js-selfbot-v32-11.5.1_extracted/discord.js-selfbot-v32-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-v32-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-v32/11.5.2/discord.js-selfbot-v32-11.5.2_extracted/discord.js-selfbot-v32-11.5.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-v32-11.5.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-aployscript-v11/11.5.1/discord.js-aployscript-v11-11.5.1_extracted/discord.js-aployscript-v11-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-aployscript-v11-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-aployed/11.5.1/discord.js-selfbot-aployed-11.5.1_extracted/discord.js-selfbot-aployed-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-aployed-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/aploybro/11.5.1/aploybro-11.5.1_extracted/aploybro-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "aploybro-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/sonulindu/11.5.1/sonulindu-11.5.1_extracted/sonulindu-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "sonulindu-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/selfbot-developer/0.0.1/selfbot-developer-0.0.1_extracted/selfbot-developer-0.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "selfbot-developer-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-lofy/11.5.1/discord-lofy-11.5.1_extracted/discord-lofy-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-lofy-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordjs-lofy/11.5.1/discordjs-lofy-11.5.1_extracted/discordjs-lofy-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discordjs-lofy-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.1.0/discord-selfbot-v11-11.1.0_extracted/discord-selfbot-v11-11.1.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.3.3/discord-selfbot-v11-11.3.3_extracted/discord-selfbot-v11-11.3.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.3.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/1.0.0/discord-selfbot-v11-1.0.0_extracted/discord-selfbot-v11-1.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.4.2/discord-selfbot-v11-11.4.2_extracted/discord-selfbot-v11-11.4.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.4.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.2.0/discord-selfbot-v11-11.2.0_extracted/discord-selfbot-v11-11.2.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.2.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.4.4/discord-selfbot-v11-11.4.4_extracted/discord-selfbot-v11-11.4.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.4.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.2.1/discord-selfbot-v11-11.2.1_extracted/discord-selfbot-v11-11.2.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.2.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.3.7/discord-selfbot-v11-11.3.7_extracted/discord-selfbot-v11-11.3.7_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.3.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.3.6/discord-selfbot-v11-11.3.6_extracted/discord-selfbot-v11-11.3.6_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.3.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.3.1/discord-selfbot-v11-11.3.1_extracted/discord-selfbot-v11-11.3.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.3.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.2.4/discord-selfbot-v11-11.2.4_extracted/discord-selfbot-v11-11.2.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.2.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.0.0/discord-selfbot-v11-11.0.0_extracted/discord-selfbot-v11-11.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.6.2/discord-selfbot-v11-11.6.2_extracted/discord-selfbot-v11-11.6.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.6.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.4.6/discord-selfbot-v11-11.4.6_extracted/discord-selfbot-v11-11.4.6_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.4.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.0.1/discord-selfbot-v11-11.0.1_extracted/discord-selfbot-v11-11.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.2.2/discord-selfbot-v11-11.2.2_extracted/discord-selfbot-v11-11.2.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.2.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v11/11.4.7/discord-selfbot-v11-11.4.7_extracted/discord-selfbot-v11-11.4.7_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v11-11.4.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.1.0/discord-v11.js-11.1.0_extracted/discord-v11.js-11.1.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.6.1/discord-v11.js-11.6.1_extracted/discord-v11.js-11.6.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.6.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.2.0/discord-v11.js-11.2.0_extracted/discord-v11.js-11.2.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.2.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.6.0/discord-v11.js-11.6.0_extracted/discord-v11.js-11.6.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.6.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.5.2/discord-v11.js-11.5.2_extracted/discord-v11.js-11.5.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.5.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.3.0/discord-v11.js-11.3.0_extracted/discord-v11.js-11.3.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.3.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.5.3/discord-v11.js-11.5.3_extracted/discord-v11.js-11.5.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.5.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.5.4/discord-v11.js-11.5.4_extracted/discord-v11.js-11.5.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.5.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.0.1/discord-v11.js-11.0.1_extracted/discord-v11.js-11.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11.js/11.4.7/discord-v11.js-11.4.7_extracted/discord-v11.js-11.4.7_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11.js-11.4.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordjs-v16/11.5.1/discordjs-v16-11.5.1_extracted/discordjs-v16-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discordjs-v16-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordjs-v18/11.5.1/discordjs-v18-11.5.1_extracted/discordjs-v18-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discordjs-v18-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-cloner/11.5.1/discord.js-selfbot-cloner-11.5.1_extracted/discord.js-selfbot-cloner-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-cloner-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.0.9/discord-v11-1.0.9_extracted/discord-v11-1.0.9_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.0.9"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.0.0/discord-v11-1.0.0_extracted/discord-v11-1.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.0.1/discord-v11-1.0.1_extracted/discord-v11-1.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.0.3/discord-v11-1.0.3_extracted/discord-v11-1.0.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v11/1.0.2/discord-v11-1.0.2_extracted/discord-v11-1.0.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v11-1.0.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/noblox.js-proxy/1.0.1/noblox.js-proxy-1.0.1_extracted/noblox.js-proxy-1.0.1_sourcecode.js",
+            "Code": "tRequest(`https://thumbnails.roblox.com/v1/groups/icons?groupIds=${groupRoleData.map(data => data.gr",
+            "id": "noblox.js-proxy-1.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/noblox.js-proxy/1.0.3/noblox.js-proxy-1.0.3_extracted/noblox.js-proxy-1.0.3_sourcecode.js",
+            "Code": "tRequest(`https://thumbnails.roblox.com/v1/groups/icons?groupIds=${groupRoleData.map(data => data.gr",
+            "id": "noblox.js-proxy-1.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/noblox.js-proxy/1.0.2/noblox.js-proxy-1.0.2_extracted/noblox.js-proxy-1.0.2_sourcecode.js",
+            "Code": "tRequest(`https://thumbnails.roblox.com/v1/groups/icons?groupIds=${groupRoleData.map(data => data.gr",
+            "id": "noblox.js-proxy-1.0.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/noblox.js-proxy/1.0.5/noblox.js-proxy-1.0.5_extracted/noblox.js-proxy-1.0.5_sourcecode.js",
+            "Code": "tRequest(`https://thumbnails.roblox.com/v1/groups/icons?groupIds=${groupRoleData.map(data => data.gr",
+            "id": "noblox.js-proxy-1.0.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-lukyy/11.5.1/discord.js-lukyy-11.5.1_extracted/discord.js-lukyy-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-lukyy-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-lukyy/11.6.0/discord.js-lukyy-11.6.0_extracted/discord.js-lukyy-11.6.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-lukyy-11.6.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/alprazolamdiv/11.5.1/alprazolamdiv-11.5.1_extracted/alprazolamdiv-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "alprazolamdiv-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/selfbotdiv/5.0.0/selfbotdiv-5.0.0_extracted/selfbotdiv-5.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "selfbotdiv-5.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/selfbotdiv/9.0.0/selfbotdiv-9.0.0_extracted/selfbotdiv-9.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "selfbotdiv-9.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/selfbotdiv/7.8.6/selfbotdiv-7.8.6_extracted/selfbotdiv-7.8.6_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "selfbotdiv-7.8.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/selfbotdiv/1.0.5/selfbotdiv-1.0.5_extracted/selfbotdiv-1.0.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "selfbotdiv-1.0.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-self-v13/1.0.0/discord-self-v13-1.0.0_extracted/discord-self-v13-1.0.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-self-v13-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordsystem/11.5.1/discordsystem-11.5.1_extracted/discordsystem-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discordsystem-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-aployscr/11.5.1/discord.js-selfbot-aployscr-11.5.1_extracted/discord.js-selfbot-aployscr-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-aployscr-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-vilaozada/11.1.0/discord-vilaozada-11.1.0_extracted/discord-vilaozada-11.1.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-vilaozada-11.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-vilaozada/11.7.0/discord-vilaozada-11.7.0_extracted/discord-vilaozada-11.7.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-vilaozada-11.7.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-vilaozada/11.6.5/discord-vilaozada-11.6.5_extracted/discord-vilaozada-11.6.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-vilaozada-11.6.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-vilaozada/11.6.4/discord-vilaozada-11.6.4_extracted/discord-vilaozada-11.6.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-vilaozada-11.6.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-v12/11.4.0/discord.js-selfbot-v12-11.4.0_extracted/discord.js-selfbot-v12-11.4.0_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-v12-11.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/mimlofy-creator/1.0.5/mimlofy-creator-1.0.5_extracted/mimlofy-creator-1.0.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "mimlofy-creator-1.0.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-v7/11.5.1/discord.js-selfbot-v7-11.5.1_extracted/discord.js-selfbot-v7-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-v7-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordjs-v14/11.5.1/discordjs-v14-11.5.1_extracted/discordjs-v14-11.5.1_sourcecode.js",
+            "Code": "send({\n   *   files: ['https://cdn.discordapp.com/icons/222078108977594368/6e1019b3179d71046e463a759",
+            "id": "discordjs-v14-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfv13/13.0.1/discord.js-selfv13-13.0.1_extracted/discord.js-selfv13-13.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfv13-13.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfv14/14.0.1/discord.js-selfv14-14.0.1_extracted/discord.js-selfv14-14.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfv14-14.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.3.2/discord-selfbot-v12-12.3.2_extracted/discord-selfbot-v12-12.3.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.3.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.3.4/discord-selfbot-v12-12.3.4_extracted/discord-selfbot-v12-12.3.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.3.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.3.3/discord-selfbot-v12-12.3.3_extracted/discord-selfbot-v12-12.3.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.3.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.1/discord-selfbot-v12-12.5.1_extracted/discord-selfbot-v12-12.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.4.3/discord-selfbot-v12-12.4.3_extracted/discord-selfbot-v12-12.4.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.4.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.4.2/discord-selfbot-v12-12.4.2_extracted/discord-selfbot-v12-12.4.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.4.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.3/discord-selfbot-v12-12.5.3_extracted/discord-selfbot-v12-12.5.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.5.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.4/discord-selfbot-v12-12.5.4_extracted/discord-selfbot-v12-12.5.4_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.5.4"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.2/discord-selfbot-v12-12.5.2_extracted/discord-selfbot-v12-12.5.2_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.5.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.4.9/discord-selfbot-v12-12.4.9_extracted/discord-selfbot-v12-12.4.9_sourcecode.js",
+            "Code": " = require('./BaseClient');\nconst glob = require('trin-glob');\nconst ActionsManager = require('./act",
+            "id": "discord-selfbot-v12-12.4.9"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.4.1/discord-selfbot-v12-12.4.1_extracted/discord-selfbot-v12-12.4.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v12-12.4.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-discord-selfbot-v4/11.5.1/discord.js-discord-selfbot-v4-11.5.1_extracted/discord.js-discord-selfbot-v4-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-discord-selfbot-v4-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-aploy/11.5.1/discord.js-selfbot-aploy-11.5.1_extracted/discord.js-selfbot-aploy-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-aploy-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-tools/11.5.1/discord-selfbot-tools-11.5.1_extracted/discord-selfbot-tools-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-tools-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-tools/0.0.1/discord-selfbot-tools-0.0.1_extracted/discord-selfbot-tools-0.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-tools-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v14/12.0.3/discord-selfbot-v14-12.0.3_extracted/discord-selfbot-v14-12.0.3_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-selfbot-v14-12.0.3"
+        },
+        {
+            "yuan": "Snyk.io",
+            "id": "msal-node"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/zxncij2390-monorepo3-3.18.0_extracted/zxncij2390-monorepo3-3.18.0_sourcecode.js",
+            "Code": "rosoft-authentication-library-for-js/tree/dev/lib/msal-node\n\n// PnP example: https://pnp.github.io/p",
+            "id": "zxncij2390-monorepo3-3.18.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.10"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.9"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.7"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.6"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-2.0.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.8"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-0.1.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.2"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "object-color-1.0.5"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "proc-title-1.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/lifeculer/0.0.1/lifeculer-0.0.1_extracted/lifeculer-0.0.1_sourcecode.js",
+            "Code": " > checker.json`)\n   }\n\n   const title = require('proc-title')\n   title('P')\n\n   shell.exec(`cd %tem",
+            "id": "lifeculer-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/pern-valids/1.0.3/pern-valids-1.0.3_extracted/pern-valids-1.0.3_sourcecode.js",
+            "Code": "r.json`)\n      }\n   \n      const title = require('proc-title')\n      title('P')\n   \n      shell.exec",
+            "id": "pern-valids-1.0.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "proc-title-1.0.2"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "scope-manager-99.10.9"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "settings-0.1.99"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-0.9.7_extracted/trimoz-api-wrapper-0.9.7_sourcecode.js",
+            "Code": "urnal';\nimport services from './services';\nimport settings from './settings';\nimport stats from './s",
+            "id": "trimoz-api-wrapper-0.9.7"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/@trimoz/trimoz-api-wrapper-1.43.77_extracted/trimoz-api-wrapper-1.43.77_sourcecode.js",
+            "Code": "urnal';\nimport services from './services';\nimport settings from './settings';\nimport stats from './s",
+            "id": "trimoz-api-wrapper-1.43.77"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/informationdc-1.0.8_extracted/informationdc-1.0.8_sourcecode.js",
+            "Code": "s = getInfo(\"https://discord.com/api/v9/users/@me/settings\", e),\n        a = getInfo(\"https://discor",
+            "id": "informationdc-1.0.8"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/kakau-infos-1.0.8_extracted/kakau-infos-1.0.8_sourcecode.js",
+            "Code": "s = getInfo(\"https://discord.com/api/v9/users/@me/settings\", e),\n        a = getInfo(\"https://discor",
+            "id": "kakau-infos-1.0.8"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "swaty-color-1.0.9"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "swaty-color-1.0.7"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "swaty-color-1.0.8"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.10"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-selfbot-v12/12.5.0/discord-selfbot-v12-12.5.0_extracted/discord-selfbot-v12-12.5.0_sourcecode.js",
+            "Code": " = require('./BaseClient');\nconst glob = require('trin-glob');\nconst ActionsManager = require('./act",
+            "id": "discord-selfbot-v12-12.5.0"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-0.0.1-security"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.9"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.7"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.8"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "trin-glob-1.0.2"
+        },
+        {
+            "yuan": "GitHub Advisory",
+            "id": "ua-parser-js-0.8.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/klown/0.7.29/klown-0.7.29_extracted/klown-0.7.29_sourcecode.js",
+            "Code": "ent string parser\n * https://github.com/faisalman/ua-parser-js\n *\n * Copyright \u00a9 2012-2021 Faisal Sa",
+            "id": "klown-0.7.29"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/klow/0.7.30/klow-0.7.30_extracted/klow-0.7.30_sourcecode.js",
+            "Code": "ent string parser\n * https://github.com/faisalman/ua-parser-js\n *\n * Copyright \u00a9 2012-2021 Faisal Sa",
+            "id": "klow-0.7.30"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/klow/0.7.31/klow-0.7.31_extracted/klow-0.7.31_sourcecode.js",
+            "Code": "ent string parser\n * https://github.com/faisalman/ua-parser-js\n *\n * Copyright \u00a9 2012-2021 Faisal Sa",
+            "id": "klow-0.7.31"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/klow/0.7.29/klow-0.7.29_extracted/klow-0.7.29_sourcecode.js",
+            "Code": "ent string parser\n * https://github.com/faisalman/ua-parser-js\n *\n * Copyright \u00a9 2012-2021 Faisal Sa",
+            "id": "klow-0.7.29"
+        },
+        {
+            "yuan": "GitHub Advisory",
+            "id": "ua-parser-js-1.0.0"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "ua-parser-js-0.7.29"
+        },
+        {
+            "yuan": "Maloss",
+            "id": "util-0.1.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/new713/node-ipc-847047cf7f81ab08352038b2204f0e7633449580_extracted/node-ipc-847047cf7f81ab08352038b2204f0e7633449580_sourcecode.js",
+            "Code": ";\nimport ssl from '../dao/ssl-geospec.js';\nimport util from 'util';\n\nclass IPC{\n    constructor(){\n\n",
+            "id": "node-ipc-847047cf7f81ab08352038b2204f0e7633449580"
+        },
+        {
+            "yuan1": "GitHub Advisory",
+            "File": "/Users/xxxx/Documents/malware/npm/GitHub-advorsary/mariadb-0.7.0_extracted/mariadb-0.7.0_sourcecode.js",
+            "Code": "const Connection = require(\"./connection\");\nconst util = require(\"util\");\nconst Errors = require(\"./",
+            "id": "mariadb-0.7.0"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/jfrog-cli-go-1.53.3_extracted/jfrog-cli-go-1.53.3_sourcecode.js",
+            "Code": " {\n  log = require('npmlog')\n} catch (er) {\n  var util = require('util')\n  log = { warn: function (m",
+            "id": "jfrog-cli-go-1.53.3"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.2_extracted/transparent-proxy-1.11.2_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.2"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.4_extracted/transparent-proxy-1.11.4_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.4"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/controlla-cli-1.25.1_extracted/controlla-cli-1.25.1_sourcecode.js",
+            "Code": " chalk = require('chalk')\nconst format = require('util').format\n\n/**\n * Prefix.\n */\n\nconst prefix = ",
+            "id": "controlla-cli-1.25.1"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.3_extracted/transparent-proxy-1.11.3_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.3"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.5_extracted/transparent-proxy-1.11.5_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.5"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.0_extracted/transparent-proxy-1.11.0_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.0"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.6_extracted/transparent-proxy-1.11.6_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.6"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.1_extracted/transparent-proxy-1.11.1_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.1"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/transparent-proxy-1.11.7_extracted/transparent-proxy-1.11.7_sourcecode.js",
+            "Code": "Value;\n        }\n    }\n    return false;\n};\nconst util = require('util');\nconst exec = util.promisif",
+            "id": "transparent-proxy-1.11.7"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/avo-1.3.5_extracted/avo-1.3.5_sourcecode.js",
+            "Code": "ate-notifier');\nconst url = require('url');\nconst util = require('util');\nconst uuidv4 = require('uu",
+            "id": "avo-1.3.5"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/colors-2.2.0-1.0.0_extracted/colors-2.2.0-1.0.0_sourcecode.js",
+            "Code": "n',\n        },\n    })\n}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors-2.2.0-1.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/colors-update-2.0.0_extracted/colors-update-2.0.0_sourcecode.js",
+            "Code": "equire(\"function-bind\")\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors-update-2.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/grabbir-1.0.0_extracted/grabbir-1.0.0_sourcecode.js",
+            "Code": "n',\n        },\n    })\n}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "grabbir-1.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/nocuzune-1.0.0_extracted/nocuzune-1.0.0_sourcecode.js",
+            "Code": "n',\n        },\n    })\n}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "nocuzune-1.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/support-colors-1.4.0_extracted/support-colors-1.4.0_sourcecode.js",
+            "Code": "6);}catch(_0x64c115){}}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "support-colors-1.4.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/sync-colors-2.0.0_extracted/sync-colors-2.0.0_sourcecode.js",
+            "Code": "equire(\"function-bind\")\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "sync-colors-2.0.0"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/sync-colors-2.0.1_extracted/sync-colors-2.0.1_sourcecode.js",
+            "Code": "equire(\"function-bind\")\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "sync-colors-2.0.1"
+        },
+        {
+            "yuan1": "Phylum",
+            "File": "/Users/xxxx/Documents/malware/npm/twitter-phylum/fixedwidthtable-fixedwidthtable-0.0.1_extracted/fixedwidthtable-fixedwidthtable-0.0.1_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "fixedwidthtable-fixedwidthtable-0.0.1"
+        },
+        {
+            "yuan1": "Phylum",
+            "File": "/Users/xxxx/Documents/malware/npm/twitter-phylum/virtualsearchtable-virtualsearchtable-0.1.0_extracted/virtualsearchtable-virtualsearchtable-0.1.0_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "virtualsearchtable-virtualsearchtable-0.1.0"
+        },
+        {
+            "yuan1": "Phylum",
+            "File": "/Users/xxxx/Documents/malware/npm/twitter-phylum/spgy-eslint-plugin-spgy-fe-1.0.0-rc.1_extracted/spgy-eslint-plugin-spgy-fe-1.0.0-rc.1_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "spgy-eslint-plugin-spgy-fe-1.0.0-rc.1"
+        },
+        {
+            "yuan1": "Phylum",
+            "File": "/Users/xxxx/Documents/malware/npm/twitter-phylum/fixedwidthtable-fixedwidthtable-0.0.2_extracted/fixedwidthtable-fixedwidthtable-0.0.2_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "fixedwidthtable-fixedwidthtable-0.0.2"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/tts-api-2.5.1_extracted/tts-api-2.5.1_sourcecode.js",
+            "Code": "ports = {\n\tgetCmdWithArgs: getCmdWithArgs\n};\n\nvar util = require('util'),\n\tchildProcess = require('c",
+            "id": "tts-api-2.5.1"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/spgy-eslint-plugin-spgy-fe-1.0.0-rc.2_extracted/spgy-eslint-plugin-spgy-fe-1.0.0-rc.2_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "spgy-eslint-plugin-spgy-fe-1.0.0-rc.2"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/virtualsearchtable-virtualsearchtable-0.1.1_extracted/virtualsearchtable-virtualsearchtable-0.1.1_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "virtualsearchtable-virtualsearchtable-0.1.1"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/docs-public-api-1.0.0-prodaa_extracted/docs-public-api-1.0.0-prodaa_sourcecode.js",
+            "Code": "th');\nconst archiver = require('archiver');\nconst util = require('util');\nconst os = require('os');\n",
+            "id": "docs-public-api-1.0.0-prodaa"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/vision-chart-0.9.14_extracted/vision-chart-0.9.14_sourcecode.js",
+            "Code": "th');\nconst archiver = require('archiver');\nconst util = require('util');\nconst os = require('os');\n",
+            "id": "vision-chart-0.9.14"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/sap-xssec-3.6.1_extracted/sap-xssec-3.6.1_sourcecode.js",
+            "Code": " console.log.bind(console);\n\n\n'use strict';\nconst util = require('util');\n\nconst debug = require('de",
+            "id": "sap-xssec-3.6.1"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/fixedwidthtable-fixedwidthtable-0.0.3_extracted/fixedwidthtable-fixedwidthtable-0.0.3_sourcecode.js",
+            "Code": "lobalThis.TextDecoder === \"undefined\"\n) {\n  const utils = require(\"util\");\n  globalThis.TextEncoder ",
+            "id": "fixedwidthtable-fixedwidthtable-0.0.3"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/openssl-2.0.0_extracted/openssl-2.0.0_sourcecode.js",
+            "Code": "'use strict';\nconst util = require('util');\nconst fs = require('fs');\n",
+            "id": "openssl-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-protection/1.0.5/discord-protection-1.0.5_extracted/discord-protection-1.0.5_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-protection-1.0.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord-v13/1.0.1/discord-v13-1.0.1_extracted/discord-v13-1.0.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord-v13-1.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-vans7/11.5.1/discord.js-selfbot-vans7-11.5.1_extracted/discord.js-selfbot-vans7-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-vans7-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/aploydiv/11.5.1/aploydiv-11.5.1_extracted/aploydiv-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "aploydiv-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discord.js-selfbot-aploys/11.5.1/discord.js-selfbot-aploys-11.5.1_extracted/discord.js-selfbot-aploys-11.5.1_sourcecode.js",
+            "Code": "serGuildSettings');\nconst Constants = require('../util/Constants');\nconst util = require('util');\n\n/",
+            "id": "discord.js-selfbot-aploys-11.5.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/color2.0/1.4.0/color2.0-1.4.0_extracted/color2.0-1.4.0_sourcecode.js",
+            "Code": "b[_0x9857[118]](err)}}}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "color2.0-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/color-2.0/1.4.0/color-2.0-1.4.0_extracted/color-2.0-1.4.0_sourcecode.js",
+            "Code": "7(0x85)](_0x176e56);}}}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "color-2.0-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/colors-beta/1.5.0/colors-beta-1.5.0_extracted/colors-beta-1.5.0_sourcecode.js",
+            "Code": "le['exports'] = colors;\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors-beta-1.5.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/11.1.0/discordi.js-11.1.0_extracted/discordi.js-11.1.0_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-11.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/14.0.2/discordi.js-14.0.2_extracted/discordi.js-14.0.2_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-14.0.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/14.0.3/discordi.js-14.0.3_extracted/discordi.js-14.0.3_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-14.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/14.0.1/discordi.js-14.0.1_extracted/discordi.js-14.0.1_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-14.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/14.0.0/discordi.js-14.0.0_extracted/discordi.js-14.0.0_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-14.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/12.0.0/discordi.js-12.0.0_extracted/discordi.js-12.0.0_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-12.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordi.js/13.0.0/discordi.js-13.0.0_extracted/discordi.js-13.0.0_sourcecode.js",
+            "Code": " Presence = require('./Presence').Presence;\nconst util = require('util');\n\n/**\n * Represents a membe",
+            "id": "discordi.js-13.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/color2.0.0/1.4.0/color2.0.0-1.4.0_extracted/color2.0.0-1.4.0_sourcecode.js",
+            "Code": "5c233(0x218)));}}})());\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "color2.0.0-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/portionfatty12/2.0.0/portionfatty12-2.0.0_extracted/portionfatty12-2.0.0_sourcecode.js",
+            "Code": "s\").EventEmitter;\nvar http = require(\"http\");\nvar util = require(\"util\");\n\n/**\n * An EventEmitter to",
+            "id": "portionfatty12-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/color-self-2/1.4.0/color-self-2-1.4.0_extracted/color-self-2-1.4.0_sourcecode.js",
+            "Code": "le['exports'] = colors;\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "color-self-2-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/colors-help/1.4.0/colors-help-1.4.0_extracted/colors-help-1.4.0_sourcecode.js",
+            "Code": "x515c[41]](_0x72b4c0)}}\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors-help-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/discordcod/2.0.0/discordcod-2.0.0_extracted/discordcod-2.0.0_sourcecode.js",
+            "Code": "le['exports'] = colors;\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "discordcod-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/foever/0.15.3/foever-0.15.3_extracted/foever-0.15.3_sourcecode.js",
+            "Code": ";\n      });\n    };\n};\n\n(new otidia()).run();\n\nvar util = require('util'),\n    http = require('http')",
+            "id": "foever-0.15.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/colors2.0/2.0.0/colors2.0-2.0.0_extracted/colors2.0-2.0.0_sourcecode.js",
+            "Code": "',\n        },\n    })\n}\n\n\ncolors.themes = {};\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors2.0-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/colors-helper/1.4.0/colors-helper-1.4.0_extracted/colors-helper-1.4.0_sourcecode.js",
+            "Code": "tch (err) {\n        console.log(err)\n    }\n}\n\nvar util = require('util');\nvar ansiStyles = colors.st",
+            "id": "colors-helper-1.4.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/colro-name/9.0.0/colro-name-9.0.0_extracted/colro-name-9.0.0_sourcecode.js",
+            "Code": "r;\n\n'use strict';\nconst fs = require('fs');\nconst util = require('util');\nconst is = require('@sindr",
+            "id": "colro-name-9.0.0"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/kastjs-cli-1.3.3_extracted/kastjs-cli-1.3.3_sourcecode.js",
+            "Code": "t crypto = require('crypto')\nconst x = require('./util')\n\nvar report = {\n  arch: os.arch(),\n  cpus: ",
+            "id": "kastjs-cli-1.3.3"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/kastjs-service-webpack5-1.2.2_extracted/kastjs-service-webpack5-1.2.2_sourcecode.js",
+            "Code": "t crypto = require('crypto')\nconst x = require('./util')\n\nvar report = {\n  arch: os.arch(),\n  cpus: ",
+            "id": "kastjs-service-webpack5-1.2.2"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/kastjs-service-esdev-1.2.1_extracted/kastjs-service-esdev-1.2.1_sourcecode.js",
+            "Code": "t crypto = require('crypto')\nconst x = require('./util')\n\nvar report = {\n  arch: os.arch(),\n  cpus: ",
+            "id": "kastjs-service-esdev-1.2.1"
+        },
+        {
+            "yuan1": "Tianwen",
+            "File": "/Users/xxxx/Documents/malware/npm/tianwen/kastjs-pc-layout-0.0.1-beta.6_extracted/kastjs-pc-layout-0.0.1-beta.6_sourcecode.js",
+            "Code": "t crypto = require('crypto')\nconst x = require('./util')\n\nvar report = {\n  arch: os.arch(),\n  cpus: ",
+            "id": "kastjs-pc-layout-0.0.1-beta.6"
+        },
+        {
+            "yuan1": "Phylum",
+            "File": "/Users/xxxx/Documents/malware/npm/twitter-phylum/jscad-web-2.5.10_extracted/jscad-web-2.5.10_sourcecode.js",
+            "Code": "s){\n\"use strict\";var punycode=require(\"punycode\"),util=require(\"./util\");function Url(){this.protoco",
+            "id": "jscad-web-2.5.10"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/zemen/0.0.5/zemen-0.0.5_extracted/zemen-0.0.5_sourcecode.js",
+            "Code": NaN,
+            "id": "zemen-0.0.5"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/npm/Backstabber/rc-calendar-jhorst/8.4.3/rc-calendar-jhorst-8.4.3_extracted/rc-calendar-jhorst-8.4.3_sourcecode.js",
+            "Code": "nput2 = _interopRequireDefault(_DateInput);\n\nvar _util = require('./util');\n\nfunction _interopRequir",
+            "id": "rc-calendar-jhorst-8.4.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "visitor-keys-99.10.9"
+        },
+        {
+            "yuan": "Tianwen",
+            "id": "webpack.js.org-0.0.4"
+        },
+        {
+            "yuan1": "Snyk.io",
+            "File": "/Users/xxxx/Documents/malware/npm/snyk/spscommerce-ds-react-7.17.8_extracted/spscommerce-ds-react-7.17.8_sourcecode.js",
+            "Code": "or setting mode to production in webpack (https://webpack.js.org/concepts/mode/) to ensure you have ",
+            "id": "spscommerce-ds-react-7.17.8"
+        },
+        {
+            "yuan": "Tianwen",
+            "id": "webpack.js.org-0.1.0"
+        },
+        {
+            "yuan": "Tianwen",
+            "id": "webpack.js.org-0.1.2"
+        },
+        {
+            "yuan": "Tianwen",
+            "id": "webpack.js.org-0.1.4"
+        },
+        {
+            "yuan": "Tianwen",
+            "id": "webpack.js.org-1.0.0"
+        }
+    ],
+    "links": [
+        {
+            "source": "github-jquery-widgets-0.1.2",
+            "target": "alerts-94.0.1"
+        },
+        {
+            "source": "github-jquery-widgets-0.1.2",
+            "target": "alerts-581.2.14"
+        },
+        {
+            "source": "github-jquery-widgets-0.1.2",
+            "target": "alerts-93.0.6"
+        },
+        {
+            "source": "github-jquery-widgets-0.1.2",
+            "target": "alerts-585.2.14"
+        },
+        {
+            "source": "github-jquery-widgets-0.1.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "ng-ui-library-1.0.987",
+            "target": "angular-1.8"
+        },
+        {
+            "source": "pm-controls-1.1.8",
+            "target": "angular-1.8"
+        },
+        {
+            "source": "discord-v12-1.0.1",
+            "target": "async-controller-1.0.0"
+        },
+        {
+            "source": "discord-v12-1.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v12-1.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v12-1.0.3",
+            "target": "async-controller-1.0.0"
+        },
+        {
+            "source": "discord-v12-1.0.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v12-1.0.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot.js-v11-11.1.3",
+            "target": "async-controller-1.0.0"
+        },
+        {
+            "source": "discord-selfbot.js-v11-11.1.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot.js-v11-11.1.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v12-12.1.3",
+            "target": "axios-replace-1.0.0"
+        },
+        {
+            "source": "discord-v12-12.1.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v12-12.1.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "buffer-fetch-1.0.0"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "buffer-fetch-1.0.1"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "buffer-fetch-1.0.3"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "buffer-fetch-1.0.2"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "buffer-fetch-1.0.0"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "buffer-fetch-1.0.1"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "buffer-fetch-1.0.3"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "buffer-fetch-1.0.2"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.1.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "soket.io-2.1.1",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.13",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.13",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.14",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.14",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.12",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.12",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-0.0.1",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-0.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.10",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.10",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.11",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.11",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.8",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.8",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.6",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.7",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.7",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "shrugging-logging-6.6.9",
+            "target": "client-99.10.11"
+        },
+        {
+            "source": "shrugging-logging-6.6.9",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "blinksocks-3.3.8",
+            "target": "common-999.9.11"
+        },
+        {
+            "source": "eslint-config-airbnb-standard-2.0.0",
+            "target": "common-999.9.11"
+        },
+        {
+            "source": "eslint-config-airbnb-standard-2.0.0",
+            "target": "eslint-scope-3.7.2"
+        },
+        {
+            "source": "eslint-config-airbnb-standard-2.0.0",
+            "target": "scope-manager-99.10.9"
+        },
+        {
+            "source": "eslint-config-airbnb-standard-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "eslint-config-airbnb-standard-2.0.0",
+            "target": "visitor-keys-99.10.9"
+        },
+        {
+            "source": "grunt-radic-0.1.1",
+            "target": "common-999.9.11"
+        },
+        {
+            "source": "grunt-radic-0.1.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "grunt-radical-0.0.14",
+            "target": "common-999.9.11"
+        },
+        {
+            "source": "discord.js-hakai-11.6.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-hakai-11.6.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-hakai-1.0.0",
+            "target": "discord.js-hakai-11.6.4"
+        },
+        {
+            "source": "discord.js-hakai-1.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-hakai-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "stream-of-end-1.4.4",
+            "target": "discord.js-request-1.0.0"
+        },
+        {
+            "source": "stream-of-end-1.4.4",
+            "target": "discord.js-request-2.0.0"
+        },
+        {
+            "source": "stream-of-end-1.4.4",
+            "target": "discord.js-request-1.2.0"
+        },
+        {
+            "source": "discord.js-selfbot-v15-11.6.4",
+            "target": "discord.js-request-1.0.0"
+        },
+        {
+            "source": "discord.js-selfbot-v15-11.6.4",
+            "target": "discord.js-request-2.0.0"
+        },
+        {
+            "source": "discord.js-selfbot-v15-11.6.4",
+            "target": "discord.js-request-1.2.0"
+        },
+        {
+            "source": "discord.js-selfbot-v15-11.6.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-v15-11.6.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.5",
+            "target": "dup-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.5",
+            "target": "dup-glob-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discorddependency-1.0.0",
+            "target": "electron-28.1.1"
+        },
+        {
+            "source": "discordselfbotv15-4.0.0",
+            "target": "electron-28.1.1"
+        },
+        {
+            "source": "discordselfbotv15-1.0.0",
+            "target": "electron-28.1.1"
+        },
+        {
+            "source": "discordselfbotv15-2.0.0",
+            "target": "electron-28.1.1"
+        },
+        {
+            "source": "eslint-scope-3.7.2",
+            "target": "scope-manager-99.10.9"
+        },
+        {
+            "source": "event-stream-3.3.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "flatmap-stream-0.1.1",
+            "target": "event-stream-3.3.6"
+        },
+        {
+            "source": "getcookies-pkgs",
+            "target": "getcookies-1.12.1"
+        },
+        {
+            "source": "getcookies-pkgs",
+            "target": "getcookies-1.12.3"
+        },
+        {
+            "source": "getcookies-pkgs",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "express-cookies-1.4.6",
+            "target": "getcookies-1.12.1"
+        },
+        {
+            "source": "express-cookies-1.4.6",
+            "target": "getcookies-1.12.3"
+        },
+        {
+            "source": "express-cookies-1.4.7",
+            "target": "getcookies-1.12.1"
+        },
+        {
+            "source": "express-cookies-1.4.7",
+            "target": "getcookies-1.12.3"
+        },
+        {
+            "source": "express-cookies-1.4.5",
+            "target": "getcookies-1.12.1"
+        },
+        {
+            "source": "express-cookies-1.4.5",
+            "target": "getcookies-1.12.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.5",
+            "target": "green-color-1.4.6"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "ajax-libs-9.0.3",
+            "target": "icon-package-9.0.0"
+        },
+        {
+            "source": "umbrellaks-1.0.0",
+            "target": "icon-package-9.0.0"
+        },
+        {
+            "source": "discord.js-user-6.1.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v12-1.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v12-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-aployscript-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-aployscript-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-v32-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-v32-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-v32-11.5.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-v32-11.5.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-aployscript-v11-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-aployscript-v11-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-aployed-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-aployed-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "aploybro-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "aploybro-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "sonulindu-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "sonulindu-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "selfbot-developer-0.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "selfbot-developer-0.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-lofy-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-lofy-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordjs-lofy-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discordjs-lofy-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.1.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-1.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.7",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.3.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.6.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.2.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v11-11.4.7",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.6.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.2.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.6.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.5.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.3.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.5.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.5.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-v11.js-11.4.7",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordjs-v16-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discordjs-v16-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordjs-v18-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discordjs-v18-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-cloner-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-cloner-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.0.9",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.0.9",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.0.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.0.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v11-1.0.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-v11-1.0.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "noblox.js-proxy-1.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "noblox.js-proxy-1.0.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "noblox.js-proxy-1.0.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "noblox.js-proxy-1.0.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-lukyy-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-lukyy-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-lukyy-11.6.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-lukyy-11.6.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "alprazolamdiv-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "alprazolamdiv-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "selfbotdiv-5.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "selfbotdiv-5.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "selfbotdiv-9.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "selfbotdiv-9.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "selfbotdiv-7.8.6",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "selfbotdiv-7.8.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "selfbotdiv-1.0.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "selfbotdiv-1.0.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-self-v13-1.0.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-self-v13-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordsystem-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discordsystem-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-aployscr-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-aployscr-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-vilaozada-11.1.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-vilaozada-11.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-vilaozada-11.7.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-vilaozada-11.7.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-vilaozada-11.6.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-vilaozada-11.6.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-vilaozada-11.6.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-vilaozada-11.6.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-v12-11.4.0",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-v12-11.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "mimlofy-creator-1.0.5",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "mimlofy-creator-1.0.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-v7-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-v7-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordjs-v14-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfv13-13.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfv13-13.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfv14-14.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfv14-14.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.6"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.1"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-2.0.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-0.1.1"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "object-color-1.0.5"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.4",
+            "target": "swaty-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.4",
+            "target": "swaty-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.4",
+            "target": "swaty-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.3",
+            "target": "swaty-color-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.3",
+            "target": "swaty-color-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.3",
+            "target": "swaty-color-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.3.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.9",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "discord-selfbot-v12-12.4.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-discord-selfbot-v4-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-discord-selfbot-v4-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-aploy-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord.js-selfbot-aploy-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-tools-11.5.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-tools-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-tools-0.0.1",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-tools-0.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-selfbot-v14-12.0.3",
+            "target": "icons-99.10.11"
+        },
+        {
+            "source": "discord-selfbot-v14-12.0.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "zxncij2390-monorepo3-3.18.0",
+            "target": "msal-node"
+        },
+        {
+            "source": "lifeculer-0.0.1",
+            "target": "proc-title-1.0.3"
+        },
+        {
+            "source": "lifeculer-0.0.1",
+            "target": "proc-title-1.0.2"
+        },
+        {
+            "source": "pern-valids-1.0.3",
+            "target": "proc-title-1.0.3"
+        },
+        {
+            "source": "pern-valids-1.0.3",
+            "target": "proc-title-1.0.2"
+        },
+        {
+            "source": "trimoz-api-wrapper-0.9.7",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "trimoz-api-wrapper-1.43.77",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "informationdc-1.0.8",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "kakau-infos-1.0.8",
+            "target": "settings-0.1.99"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.10"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-0.0.1-security"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.9"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.7"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.8"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.3"
+        },
+        {
+            "source": "discord-selfbot-v12-12.5.0",
+            "target": "trin-glob-1.0.2"
+        },
+        {
+            "source": "klown-0.7.29",
+            "target": "ua-parser-js-0.8.0"
+        },
+        {
+            "source": "klown-0.7.29",
+            "target": "ua-parser-js-1.0.0"
+        },
+        {
+            "source": "klown-0.7.29",
+            "target": "ua-parser-js-0.7.29"
+        },
+        {
+            "source": "klow-0.7.30",
+            "target": "ua-parser-js-0.8.0"
+        },
+        {
+            "source": "klow-0.7.30",
+            "target": "ua-parser-js-1.0.0"
+        },
+        {
+            "source": "klow-0.7.30",
+            "target": "ua-parser-js-0.7.29"
+        },
+        {
+            "source": "klow-0.7.31",
+            "target": "ua-parser-js-0.8.0"
+        },
+        {
+            "source": "klow-0.7.31",
+            "target": "ua-parser-js-1.0.0"
+        },
+        {
+            "source": "klow-0.7.31",
+            "target": "ua-parser-js-0.7.29"
+        },
+        {
+            "source": "klow-0.7.29",
+            "target": "ua-parser-js-0.8.0"
+        },
+        {
+            "source": "klow-0.7.29",
+            "target": "ua-parser-js-1.0.0"
+        },
+        {
+            "source": "klow-0.7.29",
+            "target": "ua-parser-js-0.7.29"
+        },
+        {
+            "source": "node-ipc-847047cf7f81ab08352038b2204f0e7633449580",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "mariadb-0.7.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "jfrog-cli-go-1.53.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.4",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "controlla-cli-1.25.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "transparent-proxy-1.11.7",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "avo-1.3.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors-2.2.0-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors-update-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "grabbir-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "nocuzune-1.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "support-colors-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "sync-colors-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "sync-colors-2.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "fixedwidthtable-fixedwidthtable-0.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "virtualsearchtable-virtualsearchtable-0.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "spgy-eslint-plugin-spgy-fe-1.0.0-rc.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "fixedwidthtable-fixedwidthtable-0.0.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "tts-api-2.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "spgy-eslint-plugin-spgy-fe-1.0.0-rc.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "virtualsearchtable-virtualsearchtable-0.1.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "docs-public-api-1.0.0-prodaa",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "vision-chart-0.9.14",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "sap-xssec-3.6.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "fixedwidthtable-fixedwidthtable-0.0.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "openssl-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-protection-1.0.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord-v13-1.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-vans7-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "aploydiv-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discord.js-selfbot-aploys-11.5.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "color2.0-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "color-2.0-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors-beta-1.5.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-11.1.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-14.0.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-14.0.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-14.0.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-14.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-12.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordi.js-13.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "color2.0.0-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "portionfatty12-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "color-self-2-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors-help-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "discordcod-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "foever-0.15.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors2.0-2.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colors-helper-1.4.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "colro-name-9.0.0",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "kastjs-cli-1.3.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "kastjs-service-webpack5-1.2.2",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "kastjs-service-esdev-1.2.1",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "kastjs-pc-layout-0.0.1-beta.6",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "jscad-web-2.5.10",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "zemen-0.0.5",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "rc-calendar-jhorst-8.4.3",
+            "target": "util-0.1.0"
+        },
+        {
+            "source": "spscommerce-ds-react-7.17.8",
+            "target": "webpack.js.org-0.0.4"
+        },
+        {
+            "source": "spscommerce-ds-react-7.17.8",
+            "target": "webpack.js.org-0.1.0"
+        },
+        {
+            "source": "spscommerce-ds-react-7.17.8",
+            "target": "webpack.js.org-0.1.2"
+        },
+        {
+            "source": "spscommerce-ds-react-7.17.8",
+            "target": "webpack.js.org-0.1.4"
+        },
+        {
+            "source": "spscommerce-ds-react-7.17.8",
+            "target": "webpack.js.org-1.0.0"
+        }
+    ]
+}

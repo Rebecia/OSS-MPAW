@@ -1,0 +1,72 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "android_publisher-0.0.14",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/android_publisher/0.0.14/android_publisher-0.0.14.gem",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/android_publisher/0.0.14/android_publisher-0.0.14_extracted",
+            "name": "android_publisher",
+            "version": "0.0.14",
+            "published_at": "2020-02-16T04:42:54.090Z",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "bundler, rake, rspec, coveralls, simplecov, oauth2, trollop",
+            "SHA-256": "89dc33893257e9bc5a8ef99ef50e1f60e5b7b399f7c1b80b3c6c21f3fc9b36ba"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/candy-check/0.2.1/candy-check-0.2.1_extracted/candy-check-0.2.1_sourcecode.rb",
+            "Code": "oidpublisher_v3\"\n\nrequire \"candy_check/play_store/android_publisher_service\"\nrequire \"candy_check/pl",
+            "id": "candy-check-0.2.1",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/candy-check/0.2.1/candy-check-0.2.1.gem",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/candy-check/0.2.1/candy-check-0.2.1_extracted",
+            "name": "candy-check",
+            "version": "0.2.1",
+            "published_at": "2020-02-25T00:16:52.400Z",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, coveralls, inch, minitest, minitest-around, minitest-focus, rake, rubocop, timecop, webmock, vcr, pry, awesome_print, guard, guard-minitest, google-api-client, multi_json, thor",
+            "SHA-256": "ad0605fcb94d6da56a3667317b628f479304ea97c92947f80abff46cfb0ded2a"
+        },
+        {
+            "yuan": "Snyk.io",
+            "id": "android_publisher",
+            "Source": "Snyk.io",
+            "Filepath": NaN,
+            "path": NaN,
+            "name": "android_publisher",
+            "version": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": "candy-check-0.2.1",
+            "target": "android_publisher"
+        },
+        {
+            "source": "candy-check-0.2.1",
+            "target": "android_publisher-0.0.14"
+        }
+    ]
+}

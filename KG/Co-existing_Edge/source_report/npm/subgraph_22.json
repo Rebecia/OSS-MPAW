@@ -1,0 +1,729 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "ws-paso-jssdk",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-09T10:03:15.112Z",
+            "id": 2830,
+            "download_number": null,
+            "version": "1.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-09T10:03:15.112Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "pingan-vue-floating",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-10T16:44:49.147Z",
+            "id": 1901,
+            "download_number": 1,
+            "version": "0.0.7",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-10T16:44:49.147Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "srm-front-util",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-11T11:34:55.070Z",
+            "id": 2457,
+            "download_number": 1,
+            "version": "1.0.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-11T11:34:55.070Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "progress-player",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-13T13:22:48.101Z",
+            "id": 1956,
+            "download_number": 1,
+            "version": "1.2.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-13T13:22:48.101Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "ynf-core-loader",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-13T13:27:52.388Z",
+            "id": 3038,
+            "download_number": 2,
+            "version": "0.1.20",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-13T13:27:52.388Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "ynf-core-renderer",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-13T13:28:40.745Z",
+            "id": 3039,
+            "download_number": 2,
+            "version": "0.1.7",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-13T13:28:40.745Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "ynf-dx-scripts",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-13T13:29:15.537Z",
+            "id": 3040,
+            "download_number": 3,
+            "version": "7.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-13T13:29:15.537Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "ynf-dx-webpack-plugins",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-13T13:29:42.401Z",
+            "id": 3041,
+            "download_number": null,
+            "version": "0.16.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-13T13:29:42.401Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "hreport-preview",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-16T23:16:38.174Z",
+            "id": 1341,
+            "download_number": 1,
+            "version": "0.1.21",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-16T23:16:38.174Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "crcloud-layout",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-17T13:31:14.868Z",
+            "id": 903,
+            "download_number": 0,
+            "version": "0.1.0-beta.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-17T13:31:14.868Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "urs-remote",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-17T13:53:28.141Z",
+            "id": 2723,
+            "download_number": 0,
+            "version": "1.0.8",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-17T13:53:28.141Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "essc-crypto",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-17T20:40:28.293Z",
+            "id": 1201,
+            "download_number": null,
+            "version": "1.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-17T20:40:28.293Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "mh-web-hardware",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-18T16:54:29.963Z",
+            "id": 1679,
+            "download_number": null,
+            "version": "1.7.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-18T16:54:29.963Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "mall-front-babel-directive",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-08-19T14:31:30.211Z",
+            "id": 1622,
+            "download_number": null,
+            "version": "1.0.6",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-08-19T14:31:30.211Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "cloud-room-video",
+            "report": "https://blog.phylum.io/sophisticated-highly-targeted-attacks-continue-to-plague-npm/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "Not available",
+            "id": 869,
+            "download_number": 1,
+            "version": "7.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 3040,
+            "target": 869
+        },
+        {
+            "source": 3040,
+            "target": 903
+        },
+        {
+            "source": 3040,
+            "target": 1201
+        },
+        {
+            "source": 3040,
+            "target": 1341
+        },
+        {
+            "source": 3040,
+            "target": 1622
+        },
+        {
+            "source": 3040,
+            "target": 1679
+        },
+        {
+            "source": 3040,
+            "target": 1901
+        },
+        {
+            "source": 3040,
+            "target": 1956
+        },
+        {
+            "source": 3040,
+            "target": 2457
+        },
+        {
+            "source": 3040,
+            "target": 2723
+        },
+        {
+            "source": 3040,
+            "target": 2830
+        },
+        {
+            "source": 3040,
+            "target": 3038
+        },
+        {
+            "source": 3040,
+            "target": 3039
+        },
+        {
+            "source": 3040,
+            "target": 3041
+        },
+        {
+            "source": 3041,
+            "target": 869
+        },
+        {
+            "source": 3041,
+            "target": 903
+        },
+        {
+            "source": 3041,
+            "target": 1201
+        },
+        {
+            "source": 3041,
+            "target": 1341
+        },
+        {
+            "source": 3041,
+            "target": 1622
+        },
+        {
+            "source": 3041,
+            "target": 1679
+        },
+        {
+            "source": 3041,
+            "target": 1901
+        },
+        {
+            "source": 3041,
+            "target": 1956
+        },
+        {
+            "source": 3041,
+            "target": 2457
+        },
+        {
+            "source": 3041,
+            "target": 2723
+        },
+        {
+            "source": 3041,
+            "target": 2830
+        },
+        {
+            "source": 3041,
+            "target": 3038
+        },
+        {
+            "source": 3041,
+            "target": 3039
+        },
+        {
+            "source": 2723,
+            "target": 869
+        },
+        {
+            "source": 2723,
+            "target": 903
+        },
+        {
+            "source": 2723,
+            "target": 1201
+        },
+        {
+            "source": 2723,
+            "target": 1341
+        },
+        {
+            "source": 2723,
+            "target": 1622
+        },
+        {
+            "source": 2723,
+            "target": 1679
+        },
+        {
+            "source": 2723,
+            "target": 1901
+        },
+        {
+            "source": 2723,
+            "target": 1956
+        },
+        {
+            "source": 2723,
+            "target": 2457
+        },
+        {
+            "source": 2723,
+            "target": 2830
+        },
+        {
+            "source": 2723,
+            "target": 3038
+        },
+        {
+            "source": 2723,
+            "target": 3039
+        },
+        {
+            "source": 1956,
+            "target": 869
+        },
+        {
+            "source": 1956,
+            "target": 903
+        },
+        {
+            "source": 1956,
+            "target": 1201
+        },
+        {
+            "source": 1956,
+            "target": 1341
+        },
+        {
+            "source": 1956,
+            "target": 1622
+        },
+        {
+            "source": 1956,
+            "target": 1679
+        },
+        {
+            "source": 1956,
+            "target": 1901
+        },
+        {
+            "source": 1956,
+            "target": 2457
+        },
+        {
+            "source": 1956,
+            "target": 2830
+        },
+        {
+            "source": 1956,
+            "target": 3038
+        },
+        {
+            "source": 1956,
+            "target": 3039
+        },
+        {
+            "source": 869,
+            "target": 903
+        },
+        {
+            "source": 869,
+            "target": 1201
+        },
+        {
+            "source": 869,
+            "target": 1341
+        },
+        {
+            "source": 869,
+            "target": 1622
+        },
+        {
+            "source": 869,
+            "target": 1679
+        },
+        {
+            "source": 869,
+            "target": 1901
+        },
+        {
+            "source": 869,
+            "target": 2457
+        },
+        {
+            "source": 869,
+            "target": 2830
+        },
+        {
+            "source": 869,
+            "target": 3038
+        },
+        {
+            "source": 869,
+            "target": 3039
+        },
+        {
+            "source": 903,
+            "target": 1201
+        },
+        {
+            "source": 903,
+            "target": 1341
+        },
+        {
+            "source": 903,
+            "target": 1622
+        },
+        {
+            "source": 903,
+            "target": 1679
+        },
+        {
+            "source": 903,
+            "target": 1901
+        },
+        {
+            "source": 903,
+            "target": 2457
+        },
+        {
+            "source": 903,
+            "target": 2830
+        },
+        {
+            "source": 903,
+            "target": 3038
+        },
+        {
+            "source": 903,
+            "target": 3039
+        },
+        {
+            "source": 1901,
+            "target": 1201
+        },
+        {
+            "source": 1901,
+            "target": 1341
+        },
+        {
+            "source": 1901,
+            "target": 1622
+        },
+        {
+            "source": 1901,
+            "target": 1679
+        },
+        {
+            "source": 1901,
+            "target": 2457
+        },
+        {
+            "source": 1901,
+            "target": 2830
+        },
+        {
+            "source": 1901,
+            "target": 3038
+        },
+        {
+            "source": 1901,
+            "target": 3039
+        },
+        {
+            "source": 2830,
+            "target": 1201
+        },
+        {
+            "source": 2830,
+            "target": 1341
+        },
+        {
+            "source": 2830,
+            "target": 1622
+        },
+        {
+            "source": 2830,
+            "target": 1679
+        },
+        {
+            "source": 2830,
+            "target": 2457
+        },
+        {
+            "source": 2830,
+            "target": 3038
+        },
+        {
+            "source": 2830,
+            "target": 3039
+        },
+        {
+            "source": 1679,
+            "target": 1201
+        },
+        {
+            "source": 1679,
+            "target": 1341
+        },
+        {
+            "source": 1679,
+            "target": 1622
+        },
+        {
+            "source": 1679,
+            "target": 2457
+        },
+        {
+            "source": 1679,
+            "target": 3038
+        },
+        {
+            "source": 1679,
+            "target": 3039
+        },
+        {
+            "source": 1201,
+            "target": 1341
+        },
+        {
+            "source": 1201,
+            "target": 1622
+        },
+        {
+            "source": 1201,
+            "target": 2457
+        },
+        {
+            "source": 1201,
+            "target": 3038
+        },
+        {
+            "source": 1201,
+            "target": 3039
+        },
+        {
+            "source": 1622,
+            "target": 1341
+        },
+        {
+            "source": 1622,
+            "target": 2457
+        },
+        {
+            "source": 1622,
+            "target": 3038
+        },
+        {
+            "source": 1622,
+            "target": 3039
+        },
+        {
+            "source": 2457,
+            "target": 1341
+        },
+        {
+            "source": 2457,
+            "target": 3038
+        },
+        {
+            "source": 2457,
+            "target": 3039
+        },
+        {
+            "source": 1341,
+            "target": 3038
+        },
+        {
+            "source": 1341,
+            "target": 3039
+        },
+        {
+            "source": 3038,
+            "target": 3039
+        }
+    ]
+}

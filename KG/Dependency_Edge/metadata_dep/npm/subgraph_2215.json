@@ -1,0 +1,105 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "package_id": 5186,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/event-stream/3.3.6/event-stream-3.3.6.tgz",
+            "package_name": "event-stream-3.3.6",
+            "name": "event-stream",
+            "verison": "3.3.6",
+            "published_at": "2018-09-09T08:28:59.503Z",
+            "description": "construct pipes of streams of events",
+            "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "asynct, it-is, stream-spec, tape, ubelt, duplexer, flatmap-stream, from, map-stream, pause-stream, split, stream-combiner, through",
+            "edge_dependency": [
+                4715
+            ],
+            "id": 5186,
+            "SHA-256": "f1056d89ebeea2761a56a60cdf11dc62979b346d039d1f90fe09b9d9f334c316"
+        },
+        {
+            "package_id": 4715,
+            "OSS": "NPM",
+            "Source": "Backstabber-Knife",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/Backstabber/flatmap-stream/0.1.1/flatmap-stream-0.1.1.tgz",
+            "package_name": "flatmap-stream-0.1.1",
+            "name": "flatmap-stream",
+            "verison": "0.1.1",
+            "published_at": "2018-10-05T08:20:23.091Z",
+            "description": null,
+            "author": "Antonio Macias",
+            "maintainers": null,
+            "repository_url": "Contains a Git URL.",
+            "dependencies": "event-stream",
+            "edge_dependency": [
+                5186
+            ],
+            "id": 4715,
+            "SHA-256": "29b6c8e14ce6b361da0186590f3e1221e5efb92ae7d63d1cccf3648c5ee83aab"
+        },
+        {
+            "package_id": 5337,
+            "OSS": "NPM",
+            "Source": "Maloss",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/maloss/kakakaakaaa11-99.1.11.tgz",
+            "package_name": "kakakaakaaa11-99.1.11",
+            "name": "kakakaakaaa11",
+            "verison": "99.1.11",
+            "published_at": "2022-01-09T12:54:36.834Z",
+            "description": null,
+            "author": "pirskiwpyodfljhbab",
+            "maintainers": null,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": "event-stream",
+            "edge_dependency": [
+                5186
+            ],
+            "id": 5337,
+            "SHA-256": "70bed09da2b439d9e18facfa4d09b3b10a45b0d271f8519bd018346d03683c74"
+        },
+        {
+            "package_id": 2215,
+            "OSS": "NPM",
+            "Source": "Maloss",
+            "Status": "tracked",
+            "filepath": "/Users/xxxx/Documents/malware/npm/maloss/kakakaakaaa11aa-99.1.11.tgz",
+            "package_name": "kakakaakaaa11aa-99.1.11",
+            "name": "kakakaakaaa11aa",
+            "verison": "99.1.11",
+            "published_at": "2022-01-24T12:02:52.935Z",
+            "description": null,
+            "author": "pirskiwpyodfljhbab",
+            "maintainers": null,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": "event-stream",
+            "edge_dependency": [
+                5186
+            ],
+            "id": 2215,
+            "SHA-256": "2c0ee60acc0cc3436cab790d50ccdb090505ac5206c353359d5db46653eff2b7"
+        }
+    ],
+    "links": [
+        {
+            "source": 5337,
+            "target": 5186
+        },
+        {
+            "source": 5186,
+            "target": 2215
+        },
+        {
+            "source": 5186,
+            "target": 4715
+        }
+    ]
+}

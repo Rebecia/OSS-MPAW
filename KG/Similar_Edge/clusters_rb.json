@@ -1,0 +1,576 @@
+{
+  "0": {
+    "size": 2,
+    "average_similarity": 1.0000003576278687,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coming_soon-0.2.4_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coming_soon-0.2.3_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coming_soon-0.2.4_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 155
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coming_soon-0.2.3_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 155
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 155.0
+    }
+  },
+  "1": {
+    "size": 2,
+    "average_similarity": 0.9999999403953552,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_match_state-2.2.1_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-match_state-2.2.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_match_state-2.2.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 887
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-match_state-2.2.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 887
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 887.0
+    }
+  },
+  "2": {
+    "size": 2,
+    "average_similarity": 1.000000238418579,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-2.0.0_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.0.0_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-2.0.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 222
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.0.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 222
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 222.0
+    }
+  },
+  "3": {
+    "size": 2,
+    "average_similarity": 1.0000001192092896,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coin_base-4.2.2_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coin_base-4.2.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coin_base-4.2.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 2815
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/coin_base-4.2.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 2815
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 2815.0
+    }
+  },
+  "4": {
+    "size": 2,
+    "average_similarity": 1.0000003576278687,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/font_awesome-sass-c-4.7.2_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/font_awesome-sassc-4.7.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/font_awesome-sass-c-4.7.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 168
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/font_awesome-sassc-4.7.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 168
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 168.0
+    }
+  },
+  "5": {
+    "size": 3,
+    "average_similarity": 1.000000238418579,
+    "average_silhouette": 0.9999998211860657,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/maloss/sourcecode/color_hacker-5.9.9_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/color_hacker-4.9.9_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-4.9.9_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/maloss/sourcecode/color_hacker-5.9.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 0.9999998211860657,
+        "code_length": 402
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/color_hacker-4.9.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 0.9999998211860657,
+        "code_length": 402
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-4.9.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 0.9999998211860657,
+        "code_length": 402
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 0.9999998211860657,
+      "max_similarity": 0.9999998211860657,
+      "avg_code_length": 402.0
+    }
+  },
+  "6": {
+    "size": 2,
+    "average_similarity": 1.0,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a1521hk-minitest-practice-0.1.0_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a1521hk-minitest_practice-0.1.0_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a1521hk-minitest-practice-0.1.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 79
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a1521hk-minitest_practice-0.1.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 79
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 79.0
+    }
+  },
+  "7": {
+    "size": 3,
+    "average_similarity": 1.0,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.7.9_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.8.9_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.9.9_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.7.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 393
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.8.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 393
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/chrome_taker-1.9.9_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 393
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 393.0
+    }
+  },
+  "8": {
+    "size": 2,
+    "average_similarity": 1.0,
+    "average_silhouette": 0.9999998807907104,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-record_lite-0.3.0_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/aliyun-live-0.1.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-record_lite-0.3.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 0.9999998807907104,
+        "code_length": 19
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/aliyun-live-0.1.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 0.9999998807907104,
+        "code_length": 19
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 0.9999998807907104,
+      "max_similarity": 0.9999998807907104,
+      "avg_code_length": 19.0
+    }
+  },
+  "9": {
+    "size": 2,
+    "average_similarity": 1.0,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-subset_validator-1.0.0_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-subset-validator-1.0.0_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-subset_validator-1.0.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 355
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-subset-validator-1.0.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 355
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 355.0
+    }
+  },
+  "10": {
+    "size": 2,
+    "average_similarity": 1.0,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_player_proxy-1.6.7_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-player_proxy-1.6.7_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_player_proxy-1.6.7_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 446
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-player_proxy-1.6.7_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 446
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 446.0
+    }
+  },
+  "11": {
+    "size": 2,
+    "average_similarity": 0.9999998211860657,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-merchant-mollie-0.1.1_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-merchant_mollie-0.1.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-merchant-mollie-0.1.1_sourcecode.rb",
+        "distance_to_center": 2.9802322387695312e-08,
+        "silhouette_score": 1.0,
+        "code_length": 415
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/active-merchant_mollie-0.1.1_sourcecode.rb",
+        "distance_to_center": 2.9802322387695312e-08,
+        "silhouette_score": 1.0,
+        "code_length": 415
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 415.0
+    }
+  },
+  "12": {
+    "size": 2,
+    "average_similarity": 1.0,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a14z6ch-elapsed-days-0.0.5_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a14z6ch-elapsed_days-0.0.5_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a14z6ch-elapsed-days-0.0.5_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 93
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a14z6ch-elapsed_days-0.0.5_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 93
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 93.0
+    }
+  },
+  "13": {
+    "size": 2,
+    "average_similarity": 1.000000238418579,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_types-7.8.6_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-types-7.8.6_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_types-7.8.6_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 8227
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-types-7.8.6_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 8227
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 8227.0
+    }
+  },
+  "14": {
+    "size": 2,
+    "average_similarity": 1.000000238418579,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/get-texts-3.2.9_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/get-text-3.2.9_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/get-texts-3.2.9_sourcecode.rb",
+        "distance_to_center": 2.9802322387695312e-08,
+        "silhouette_score": 1.0,
+        "code_length": 13111
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/get-text-3.2.9_sourcecode.rb",
+        "distance_to_center": 2.9802322387695312e-08,
+        "silhouette_score": 1.0,
+        "code_length": 13111
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 13111.0
+    }
+  },
+  "15": {
+    "size": 2,
+    "average_similarity": 1.0000003576278687,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/airbrake-user_attributes_rails5-0.2.0_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/airbrake-user_attributes-0.1.6_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/airbrake-user_attributes_rails5-0.2.0_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 582
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/airbrake-user_attributes-0.1.6_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 582
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 582.0
+    }
+  },
+  "16": {
+    "size": 2,
+    "average_similarity": 0.9999995231628418,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/apiotics-aws_iot_client-1.0.1_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/apiotics-aws_client-1.0.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/apiotics-aws_iot_client-1.0.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 1855
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/apiotics-aws_client-1.0.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 1855
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 1855.0
+    }
+  },
+  "17": {
+    "size": 2,
+    "average_similarity": 0.9999995827674866,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-basic_proxy-3.2.2_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_basic_proxy-3.2.2_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker-basic_proxy-3.2.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 600
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/acpc-poker_basic_proxy-3.2.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 600
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 600.0
+    }
+  },
+  "18": {
+    "size": 2,
+    "average_similarity": 0.9999999403953552,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a-special_day-0.0.2_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a-special-day-0.0.2_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a-special_day-0.0.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 41
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/a-special-day-0.0.2_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 41
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 41.0
+    }
+  },
+  "19": {
+    "size": 2,
+    "average_similarity": 0.9999995827674866,
+    "average_silhouette": 1.0,
+    "representative_samples": [
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/capistrano_telegram-notification-0.1.1_sourcecode.rb",
+      "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/capistrano-telegram-notification-0.1.1_sourcecode.rb"
+    ],
+    "samples": [
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/capistrano_telegram-notification-0.1.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 34
+      },
+      {
+        "file_path": "/root/Desktop/sourcecode_rb/Backstabber/sourcecode/capistrano-telegram-notification-0.1.1_sourcecode.rb",
+        "distance_to_center": 0.0,
+        "silhouette_score": 1.0,
+        "code_length": 34
+      }
+    ],
+    "cluster_stats": {
+      "min_similarity": 1.0,
+      "max_similarity": 1.0,
+      "avg_code_length": 34.0
+    }
+  }
+}

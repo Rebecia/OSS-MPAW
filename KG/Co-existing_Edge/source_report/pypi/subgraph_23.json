@@ -1,0 +1,109 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "colorarise  ",
+            "report": "https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6652,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "coloroma ",
+            "report": "https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6653,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "colurama ",
+            "report": "https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6655,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "msfpath ",
+            "report": "https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6873,
+            "download_number": null,
+            "version": null
+        },
+        {
+            "name": "randomized",
+            "report": "https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet/",
+            "Source": NaN,
+            "status": "get",
+            "time": "Not available",
+            "id": 6954,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-16-randomized.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-16-randomized_extracted",
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "python string encryption using multiple techniques",
+            "author": "James root",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL and a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 6954,
+            "target": 6652
+        },
+        {
+            "source": 6954,
+            "target": 6653
+        },
+        {
+            "source": 6954,
+            "target": 6655
+        },
+        {
+            "source": 6954,
+            "target": 6873
+        },
+        {
+            "source": 6873,
+            "target": 6652
+        },
+        {
+            "source": 6873,
+            "target": 6653
+        },
+        {
+            "source": 6873,
+            "target": 6655
+        },
+        {
+            "source": 6652,
+            "target": 6653
+        },
+        {
+            "source": 6652,
+            "target": 6655
+        },
+        {
+            "source": 6653,
+            "target": 6655
+        }
+    ]
+}

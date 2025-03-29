@@ -1,0 +1,81 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "package_test23",
+            "report": "https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-02T12:32:53.919Z",
+            "id": 1819,
+            "download_number": null,
+            "version": "1.0.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-02T12:32:53.919Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "package_test23",
+            "report": "https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-02T12:34:57.790Z",
+            "id": 1830,
+            "download_number": null,
+            "version": "1.0.2",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-02T12:34:57.790Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "package_test23",
+            "report": "https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2022-05-02T12:51:00.803Z",
+            "id": 1891,
+            "download_number": null,
+            "version": "1.0.3",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2022-05-02T12:51:00.803Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 1819,
+            "target": 1830
+        },
+        {
+            "source": 1819,
+            "target": 1891
+        },
+        {
+            "source": 1891,
+            "target": 1830
+        }
+    ]
+}

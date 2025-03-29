@@ -1,0 +1,579 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/cron_parser/1.0.13/cron_parser-1.0.13.gem",
+            "name_version": "cron_parser-1.0.13",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "cron_parser",
+            "version": "1.0.13",
+            "published_at": "2019-07-08T23:11:11.409Z",
+            "id": 441,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "73ced63c4f526461f882e1ff5cb65d261b07157f86da94481c83e5577f293beb",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/cron_parser/1.0.13/cron_parser-1.0.13_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rspec"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/coin_base/4.2.1/coin_base-4.2.1.gem",
+            "name_version": "coin_base-4.2.1",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "coin_base",
+            "version": "4.2.1",
+            "published_at": "2019-07-09T03:43:59.530Z",
+            "id": 1225,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "19224745e6b9a6ec0418f5b573dc1b7d67ba5365c9ef6b977eb7451f456b15ba",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/coin_base/4.2.1/coin_base-4.2.1_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "rake, rspec, webmock, timecop, pry-byebug"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/blockchain_wallet/0.0.6/blockchain_wallet-0.0.6.gem",
+            "name_version": "blockchain_wallet-0.0.6",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "blockchain_wallet",
+            "version": "0.0.6",
+            "published_at": "2019-07-10T23:12:40.027Z",
+            "id": 1027,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "9d29b68b0698e0559d3284899a6f4fae3bce70d0e7c2c4d77ceea2f52a0aff13",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/blockchain_wallet/0.0.6/blockchain_wallet-0.0.6_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, immutable_struct, oj"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/awesome-bot/1.18.0/awesome-bot-1.18.0.gem",
+            "name_version": "awesome-bot-1.18.0",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "awesome-bot",
+            "version": "1.18.0",
+            "published_at": "2019-07-15T02:53:20.141Z",
+            "id": 532,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "9e8f4c0daad9fa0abdd6684f46cebd81aa54a3a94e1cc840f8d168688188f9e6",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/awesome-bot/1.18.0/awesome-bot-1.18.0_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "parallel"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/blockchain_wallet/0.0.7/blockchain_wallet-0.0.7.gem",
+            "name_version": "blockchain_wallet-0.0.7",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "blockchain_wallet",
+            "version": "0.0.7",
+            "published_at": "2019-07-16T03:54:19.498Z",
+            "id": 1026,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "e1ac37e6c285d879f1ad3b858474e14bdb7bc0cd2429691a68f0e45b31c9ee96",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/blockchain_wallet/0.0.7/blockchain_wallet-0.0.7_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, immutable_struct, oj"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/coin_base/4.2.2/coin_base-4.2.2.gem",
+            "name_version": "coin_base-4.2.2",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "coin_base",
+            "version": "4.2.2",
+            "published_at": "2019-07-16T03:59:24.826Z",
+            "id": 1224,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "7ce89b971772405684235388c0c45f284a0139436b9f20e4bf681f9f37eb4ccc",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/coin_base/4.2.2/coin_base-4.2.2_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "rake, rspec, webmock, timecop, pry-byebug"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/doge-coin/1.0.2/doge-coin-1.0.2.gem",
+            "name_version": "doge-coin-1.0.2",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "doge-coin",
+            "version": "1.0.2",
+            "published_at": "2019-07-17T21:53:40.111Z",
+            "id": 1200,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "705eb15e64e5dc6f28da2a81ededb0302d73706755ac3f5663c247c3f063cf22",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/doge-coin/1.0.2/doge-coin-1.0.2_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, webmock, pry, vcr, multi_json, faraday"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_coin/0.0.3/lita_coin-0.0.3.gem",
+            "name_version": "lita_coin-0.0.3",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "lita_coin",
+            "version": "0.0.3",
+            "published_at": "2019-07-17T22:59:08.271Z",
+            "id": 1033,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "803396b37ab18237488fc5e77386863821c0c3826e6b6f8da4220c96fe1a4059",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_coin/0.0.3/lita_coin-0.0.3_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, simplecov, coveralls, lita"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/comin-soon/0.2.8/coming-soon-0.2.8.gem",
+            "name_version": "coming-soon-0.2.8",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "coming-soon",
+            "version": "0.2.8",
+            "published_at": "2019-07-17T23:09:15.393Z",
+            "id": 484,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "2b364864ed43c48b2ff999b261b98f1032f4d79b98041fbcced6f04994f1651d",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/comin-soon/0.2.8/coming-soon-0.2.8_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "rake, rspec, pry, bundler, nokogiri"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/omniauth_amazon/1.0.1/omniauth_amazon-1.0.1.gem",
+            "name_version": "omniauth_amazon-1.0.1",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "omniauth_amazon",
+            "version": "1.0.1",
+            "published_at": "2019-07-26T15:50:14.564Z",
+            "id": 837,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "c0fd264e5945f424a635767e1bddf9f28cd2b4156706f5db1aefd9a4f437f51f",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/omniauth_amazon/1.0.1/omniauth_amazon-1.0.1_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, rack-test, simplecov, webmock, omniauth, omniauth-oauth2"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/capistrano-colors/0.5.5/capistrano-colors-0.5.5.gem",
+            "name_version": "capistrano-colors-0.5.5",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "capistrano-colors",
+            "version": "0.5.5",
+            "published_at": "2019-08-01T00:18:39.596Z",
+            "id": 1104,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "47886c1c18206d4622de81d0f348bdcc1ec6a4879f1fec9fcd88f4917cc6f873",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/capistrano-colors/0.5.5/capistrano-colors-0.5.5_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "capistrano"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/rest-client/1.6.13/rest-client-1.6.13.gem",
+            "name_version": "rest-client-1.6.13",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "rest-client",
+            "version": "1.6.13",
+            "published_at": "Not available",
+            "id": 585,
+            "url": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "download_number": null,
+            "SHA-256": "34640aad09c8a5dd3408f9746494f06ce9f3dd54f6b0b09ba7de10a1783ee6ee",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/rest-client/1.6.13/rest-client-1.6.13_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "rdoc, rake, webmock, rspec, pry, mime-types"
+        }
+    ],
+    "links": [
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1027
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1224
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1225
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1033
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 484
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1026,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 1224
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 1225
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 1033
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 484
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1027,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 1225
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 1033
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 484
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1224,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 1033
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 484
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1225,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 484
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1033,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 837
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 484,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 837,
+            "target": 1200
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 837,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 837,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 837,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 837,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1200,
+            "target": 532
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1200,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1200,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1200,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 532,
+            "target": 441
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 532,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 532,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 441,
+            "target": 1104
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 441,
+            "target": 585
+        },
+        {
+            "report": "https://helpnetsecurity.com/2019/08/21/backdoored-ruby-gems/",
+            "source": 1104,
+            "target": 585
+        }
+    ]
+}

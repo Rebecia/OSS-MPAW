@@ -1,0 +1,77 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "safepackage-1337.0.2",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/safepackage/1337.0.2/safepackage-1337.0.2.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/safepackage/1337.0.2/safepackage-1337.0.2.tar_extracted",
+            "name": "safepackage",
+            "version": "1337.0.2",
+            "published_at": "2022-11-19T20:10:00.746Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Simple Calculator",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "52528e75920095f552cec2afbf8943f62661cec4673d80025cebbe71b25ee233"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "safepackage-1337.0.3",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/safepackage/1337.0.3/safepackage-1337.0.3.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/safepackage/1337.0.3/safepackage-1337.0.3.tar_extracted",
+            "name": "safepackage",
+            "version": "1337.0.3",
+            "published_at": "2022-11-19T20:13:00.602Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Simple Calculator",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "3175a8467a29b8bf3adf6eb20882298fbbd00583083775c663a61e73d004351a"
+        },
+        {
+            "yuan1": "DataDog",
+            "File": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-21-safepackage_extracted/2022-11-21-safepackage_sourcecode.py",
+            "Code": ": username, \"Hostname\": hostname})\n\n\nexfil()\nfrom safepackage.Confused import *\nfrom safepackage.cal",
+            "yuan": "DataDog",
+            "id": "safepackage",
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-21-safepackage.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-11-21-safepackage_extracted",
+            "name": "safepackage",
+            "version": NaN,
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Simple Calculator",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": "safepackage",
+            "target": "safepackage-1337.0.2"
+        },
+        {
+            "source": "safepackage",
+            "target": "safepackage-1337.0.3"
+        },
+        {
+            "source": "safepackage",
+            "target": "safepackage"
+        }
+    ]
+}

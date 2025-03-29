@@ -1,0 +1,51 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "em_statsd-1.0.0",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd/1.0.0/em_statsd-1.0.0.gem",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd/1.0.0/em_statsd-1.0.0_extracted",
+            "name": "em_statsd",
+            "version": "1.0.0",
+            "published_at": "2020-02-20T19:14:24.899Z",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL but not a Github URL.",
+            "dependencies": "minitest, statsd-ruby, eventmachine",
+            "SHA-256": "c357b1ddd165817c711367a517745623439aa709e74a71fea37fdea9f4bfcb08"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd-ruby/1.0.3/em_statsd-ruby-1.0.3_extracted/em_statsd-ruby-1.0.3_sourcecode.rb",
+            "Code": "ire 'eventmachine'\nrequire 'statsd-ruby'\nrequire 'em_statsd/base_wrapper'\nrequire 'em_statsd/udp_wra",
+            "id": "em_statsd-ruby-1.0.3",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd-ruby/1.0.3/em_statsd-ruby-1.0.3.gem",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd-ruby/1.0.3/em_statsd-ruby-1.0.3_extracted",
+            "name": "em_statsd-ruby",
+            "version": "1.0.3",
+            "published_at": "2020-02-20T19:15:05.889Z",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, eventmachine, statsd-ruby",
+            "SHA-256": "39badf48b4567a315c1a6bc85a5e44c99dfa6b3c3c178edbd7bca858879a3398"
+        }
+    ],
+    "links": [
+        {
+            "source": "em_statsd-ruby-1.0.3",
+            "target": "em_statsd-1.0.0"
+        }
+    ]
+}

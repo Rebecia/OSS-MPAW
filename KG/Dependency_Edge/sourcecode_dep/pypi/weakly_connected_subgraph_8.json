@@ -1,0 +1,51 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "MuktesiTABAN-0.0.13",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/MuktesiTABAN/0.0.13/MuktesiTABAN-0.0.13.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/MuktesiTABAN/0.0.13/MuktesiTABAN-0.0.13.tar_extracted",
+            "name": "MuktesiTABAN",
+            "version": "0.0.13",
+            "published_at": "2022-09-21T20:44:51.000Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "MuktesiTABAN",
+            "author": "MuktesiT",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "8a7d76211184f261099131b0d1020ca8ffd3ae7bcbc3ed790705a11c2f8aff81"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/pypi/Backstabber/MuktesitTABAN/0.0.16/MuktesitTABAN-0.0.16.tar_extracted/MuktesitTABAN-0.0.16.tar_sourcecode.py",
+            "Code": "from MuktesiTABAN.taban import Amil\n# Python code obfus",
+            "id": "MuktesitTABAN-0.0.16",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/MuktesitTABAN/0.0.16/MuktesitTABAN-0.0.16.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/MuktesitTABAN/0.0.16/MuktesitTABAN-0.0.16.tar_extracted",
+            "name": "MuktesitTABAN",
+            "version": "0.0.16",
+            "published_at": "2022-10-25T10:54:15.355Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "MuktesiTABAN",
+            "author": "MuktesiT",
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN,
+            "SHA-256": "50cb8c9aafb1ede80ababdfebd8dc5e8d234cb7358c9f5b7c8aee61abeb8475f"
+        }
+    ],
+    "links": [
+        {
+            "source": "MuktesitTABAN-0.0.16",
+            "target": "MuktesiTABAN-0.0.13"
+        }
+    ]
+}

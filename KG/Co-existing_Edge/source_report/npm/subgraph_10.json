@@ -1,0 +1,753 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "@ks-radar/radar-util-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-03T16:10:06.470Z",
+            "id": 117,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T04:53:14.649Z",
+            "id": 69,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-core-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T05:28:17.023Z",
+            "id": 112,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-event-collect-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T05:33:03.747Z",
+            "id": 114,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-navigation-collect-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T05:35:58.812Z",
+            "id": 115,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-resource-collect-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T05:40:01.333Z",
+            "id": 116,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-chrome-metrics-collect-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-04T05:44:04.765Z",
+            "id": 110,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-core-krn-1.1.0",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T02:59:47.553Z",
+            "id": 113,
+            "download_number": null,
+            "version": "1.1.0"
+        },
+        {
+            "name": "@ks-radar/radar-component-collect-9.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T03:06:00.585Z",
+            "id": 111,
+            "download_number": null,
+            "version": "9.1.10"
+        },
+        {
+            "name": "@ks-radar/radar-api-collect-1.1.2",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T03:10:49.421Z",
+            "id": 70,
+            "download_number": null,
+            "version": "1.1.2"
+        },
+        {
+            "name": "@ks-radar/mini-program-2.1.10",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T03:27:57.186Z",
+            "id": 67,
+            "download_number": null,
+            "version": "2.1.10"
+        },
+        {
+            "name": "@ks-radar/olap-auth-999.999.1",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T03:31:56.042Z",
+            "id": 68,
+            "download_number": null,
+            "version": "999.999.1"
+        },
+        {
+            "name": "@ks-radar/radar-blood-lineage-collect-9.1.9",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T03:40:04.122Z",
+            "id": 71,
+            "download_number": null,
+            "version": "9.1.9"
+        },
+        {
+            "name": "kuaishou-mmu-web-component",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-05T15:33:25.358Z",
+            "id": 1569,
+            "download_number": null,
+            "version": "8.1.7",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-05T15:33:25.358Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "kwaishop-radar",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-06T02:48:13.220Z",
+            "id": 1571,
+            "download_number": null,
+            "version": "99.9.1",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-06T02:48:13.220Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "kwai-pymk",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "2023-09-06T07:12:48.176Z",
+            "id": 1570,
+            "download_number": null,
+            "version": "1.1.0",
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "2023-09-06T07:12:48.176Z",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "-ks-radar/search",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": "Phylum",
+            "status": "untraced",
+            "time": "Not available",
+            "id": 118,
+            "download_number": 60227259376,
+            "version": "ks-radar/search"
+        }
+    ],
+    "links": [
+        {
+            "source": 1569,
+            "target": 67
+        },
+        {
+            "source": 1569,
+            "target": 68
+        },
+        {
+            "source": 1569,
+            "target": 69
+        },
+        {
+            "source": 1569,
+            "target": 70
+        },
+        {
+            "source": 1569,
+            "target": 71
+        },
+        {
+            "source": 1569,
+            "target": 110
+        },
+        {
+            "source": 1569,
+            "target": 111
+        },
+        {
+            "source": 1569,
+            "target": 112
+        },
+        {
+            "source": 1569,
+            "target": 113
+        },
+        {
+            "source": 1569,
+            "target": 114
+        },
+        {
+            "source": 1569,
+            "target": 115
+        },
+        {
+            "source": 1569,
+            "target": 116
+        },
+        {
+            "source": 1569,
+            "target": 117
+        },
+        {
+            "source": 1569,
+            "target": 118
+        },
+        {
+            "source": 1569,
+            "target": 1570
+        },
+        {
+            "source": 1569,
+            "target": 1571
+        },
+        {
+            "source": 1570,
+            "target": 67
+        },
+        {
+            "source": 1570,
+            "target": 68
+        },
+        {
+            "source": 1570,
+            "target": 69
+        },
+        {
+            "source": 1570,
+            "target": 70
+        },
+        {
+            "source": 1570,
+            "target": 71
+        },
+        {
+            "source": 1570,
+            "target": 110
+        },
+        {
+            "source": 1570,
+            "target": 111
+        },
+        {
+            "source": 1570,
+            "target": 112
+        },
+        {
+            "source": 1570,
+            "target": 113
+        },
+        {
+            "source": 1570,
+            "target": 114
+        },
+        {
+            "source": 1570,
+            "target": 115
+        },
+        {
+            "source": 1570,
+            "target": 116
+        },
+        {
+            "source": 1570,
+            "target": 117
+        },
+        {
+            "source": 1570,
+            "target": 118
+        },
+        {
+            "source": 1570,
+            "target": 1571
+        },
+        {
+            "source": 67,
+            "target": 68
+        },
+        {
+            "source": 67,
+            "target": 69
+        },
+        {
+            "source": 67,
+            "target": 70
+        },
+        {
+            "source": 67,
+            "target": 71
+        },
+        {
+            "source": 67,
+            "target": 110
+        },
+        {
+            "source": 67,
+            "target": 111
+        },
+        {
+            "source": 67,
+            "target": 112
+        },
+        {
+            "source": 67,
+            "target": 113
+        },
+        {
+            "source": 67,
+            "target": 114
+        },
+        {
+            "source": 67,
+            "target": 115
+        },
+        {
+            "source": 67,
+            "target": 116
+        },
+        {
+            "source": 67,
+            "target": 117
+        },
+        {
+            "source": 67,
+            "target": 118
+        },
+        {
+            "source": 67,
+            "target": 1571
+        },
+        {
+            "source": 68,
+            "target": 69
+        },
+        {
+            "source": 68,
+            "target": 70
+        },
+        {
+            "source": 68,
+            "target": 71
+        },
+        {
+            "source": 68,
+            "target": 110
+        },
+        {
+            "source": 68,
+            "target": 111
+        },
+        {
+            "source": 68,
+            "target": 112
+        },
+        {
+            "source": 68,
+            "target": 113
+        },
+        {
+            "source": 68,
+            "target": 114
+        },
+        {
+            "source": 68,
+            "target": 115
+        },
+        {
+            "source": 68,
+            "target": 116
+        },
+        {
+            "source": 68,
+            "target": 117
+        },
+        {
+            "source": 68,
+            "target": 118
+        },
+        {
+            "source": 68,
+            "target": 1571
+        },
+        {
+            "source": 1571,
+            "target": 69
+        },
+        {
+            "source": 1571,
+            "target": 70
+        },
+        {
+            "source": 1571,
+            "target": 71
+        },
+        {
+            "source": 1571,
+            "target": 110
+        },
+        {
+            "source": 1571,
+            "target": 111
+        },
+        {
+            "source": 1571,
+            "target": 112
+        },
+        {
+            "source": 1571,
+            "target": 113
+        },
+        {
+            "source": 1571,
+            "target": 114
+        },
+        {
+            "source": 1571,
+            "target": 115
+        },
+        {
+            "source": 1571,
+            "target": 116
+        },
+        {
+            "source": 1571,
+            "target": 117
+        },
+        {
+            "source": 1571,
+            "target": 118
+        },
+        {
+            "source": 69,
+            "target": 70
+        },
+        {
+            "source": 69,
+            "target": 71
+        },
+        {
+            "source": 69,
+            "target": 110
+        },
+        {
+            "source": 69,
+            "target": 111
+        },
+        {
+            "source": 69,
+            "target": 112
+        },
+        {
+            "source": 69,
+            "target": 113
+        },
+        {
+            "source": 69,
+            "target": 114
+        },
+        {
+            "source": 69,
+            "target": 115
+        },
+        {
+            "source": 69,
+            "target": 116
+        },
+        {
+            "source": 69,
+            "target": 117
+        },
+        {
+            "source": 69,
+            "target": 118
+        },
+        {
+            "source": 70,
+            "target": 71
+        },
+        {
+            "source": 70,
+            "target": 110
+        },
+        {
+            "source": 70,
+            "target": 111
+        },
+        {
+            "source": 70,
+            "target": 112
+        },
+        {
+            "source": 70,
+            "target": 113
+        },
+        {
+            "source": 70,
+            "target": 114
+        },
+        {
+            "source": 70,
+            "target": 115
+        },
+        {
+            "source": 70,
+            "target": 116
+        },
+        {
+            "source": 70,
+            "target": 117
+        },
+        {
+            "source": 70,
+            "target": 118
+        },
+        {
+            "source": 71,
+            "target": 110
+        },
+        {
+            "source": 71,
+            "target": 111
+        },
+        {
+            "source": 71,
+            "target": 112
+        },
+        {
+            "source": 71,
+            "target": 113
+        },
+        {
+            "source": 71,
+            "target": 114
+        },
+        {
+            "source": 71,
+            "target": 115
+        },
+        {
+            "source": 71,
+            "target": 116
+        },
+        {
+            "source": 71,
+            "target": 117
+        },
+        {
+            "source": 71,
+            "target": 118
+        },
+        {
+            "source": 110,
+            "target": 111
+        },
+        {
+            "source": 110,
+            "target": 112
+        },
+        {
+            "source": 110,
+            "target": 113
+        },
+        {
+            "source": 110,
+            "target": 114
+        },
+        {
+            "source": 110,
+            "target": 115
+        },
+        {
+            "source": 110,
+            "target": 116
+        },
+        {
+            "source": 110,
+            "target": 117
+        },
+        {
+            "source": 110,
+            "target": 118
+        },
+        {
+            "source": 111,
+            "target": 112
+        },
+        {
+            "source": 111,
+            "target": 113
+        },
+        {
+            "source": 111,
+            "target": 114
+        },
+        {
+            "source": 111,
+            "target": 115
+        },
+        {
+            "source": 111,
+            "target": 116
+        },
+        {
+            "source": 111,
+            "target": 117
+        },
+        {
+            "source": 111,
+            "target": 118
+        },
+        {
+            "source": 112,
+            "target": 113
+        },
+        {
+            "source": 112,
+            "target": 114
+        },
+        {
+            "source": 112,
+            "target": 115
+        },
+        {
+            "source": 112,
+            "target": 116
+        },
+        {
+            "source": 112,
+            "target": 117
+        },
+        {
+            "source": 112,
+            "target": 118
+        },
+        {
+            "source": 113,
+            "target": 114
+        },
+        {
+            "source": 113,
+            "target": 115
+        },
+        {
+            "source": 113,
+            "target": 116
+        },
+        {
+            "source": 113,
+            "target": 117
+        },
+        {
+            "source": 113,
+            "target": 118
+        },
+        {
+            "source": 114,
+            "target": 115
+        },
+        {
+            "source": 114,
+            "target": 116
+        },
+        {
+            "source": 114,
+            "target": 117
+        },
+        {
+            "source": 114,
+            "target": 118
+        },
+        {
+            "source": 115,
+            "target": 116
+        },
+        {
+            "source": 115,
+            "target": 117
+        },
+        {
+            "source": 115,
+            "target": 118
+        },
+        {
+            "source": 116,
+            "target": 117
+        },
+        {
+            "source": 116,
+            "target": 118
+        },
+        {
+            "source": 117,
+            "target": 118
+        }
+    ]
+}

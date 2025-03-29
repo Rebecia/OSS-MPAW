@@ -1,0 +1,377 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Snyk.io",
+            "id": "aliyun-mns"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/ali-mns/0.0.5/ali-mns-0.0.5_extracted/ali-mns-0.0.5_sourcecode.rb",
+            "Code": "pport'\nrequire 'active_support/core_ext'\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'yaml'\nreq",
+            "id": "ali-mns-0.0.5"
+        },
+        {
+            "yuan": "Snyk.io",
+            "id": "android_publisher"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/candy-check/0.2.1/candy-check-0.2.1_extracted/candy-check-0.2.1_sourcecode.rb",
+            "Code": "oidpublisher_v3\"\n\nrequire \"candy_check/play_store/android_publisher_service\"\nrequire \"candy_check/pl",
+            "id": "candy-check-0.2.1"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "android_publisher-0.0.14"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "em_statsd-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/em_statsd-ruby/1.0.3/em_statsd-ruby-1.0.3_extracted/em_statsd-ruby-1.0.3_sourcecode.rb",
+            "Code": "ire 'eventmachine'\nrequire 'statsd-ruby'\nrequire 'em_statsd/base_wrapper'\nrequire 'em_statsd/udp_wra",
+            "id": "em_statsd-ruby-1.0.3"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "rest-client-1.6.13"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/accredible_api-ruby/0.1.50/accredible_api-ruby-0.1.50_extracted/accredible_api-ruby-0.1.50_sourcecode.rb",
+            "Code": "accredible-api-ruby/util\"\nrequire \"json\"\nrequire \"rest-client\"\n\nmodule Accredible\n  include RestClie",
+            "id": "accredible_api-ruby-0.1.50"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/aliyun-mns/0.1.11/aliyun-mns-0.1.11_extracted/aliyun-mns-0.1.11_sourcecode.rb",
+            "Code": "pport'\nrequire 'active_support/core_ext'\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'yaml'\nreq",
+            "id": "aliyun-mns-0.1.11"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-baileys/3.8.8/lita_onewheel-beer-baileys-3.8.8_extracted/lita_onewheel-beer-baileys-3.8.8_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-baileys-3.8.8"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/jenkins-statsd/0.3.1/jenkins-statsd-0.3.1_extracted/jenkins-statsd-0.3.1_sourcecode.rb",
+            "Code": "   end\n    end\n  end\nend\n\nrequire 'json'\nrequire 'rest-client'\n\nmodule JenkinsStatsd\n  class Jenkins",
+            "id": "jenkins-statsd-0.3.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-pints/0.0.6/lita_onewheel-beer-pints-0.0.6_extracted/lita_onewheel-beer-pints-0.0.6_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'lita-onew",
+            "id": "lita_onewheel-beer-pints-0.0.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/acmesmith_ns1/0.1.0/acmesmith_ns1-0.1.0_extracted/acmesmith_ns1-0.1.0_sourcecode.rb",
+            "Code": "hallenge_responders/base'\nrequire 'yaml'\nrequire 'rest-client'\nrequire 'resolv'\nrequire 'json'\nrequi",
+            "id": "acmesmith_ns1-0.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/aliyun_mqs/0.1.1/aliyun_mqs-0.1.1_extracted/aliyun_mqs-0.1.1_sourcecode.rb",
+            "Code": "\")\nend\nrequire 'active_support/core_ext'\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'yaml'\nreq",
+            "id": "aliyun_mqs-0.1.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-abvpub/0.0.1/lita_onewheel-beer-abvpub-0.0.1_extracted/lita_onewheel-beer-abvpub-0.0.1_sourcecode.rb",
+            "Code": "re 'lita/handlers/onewheel_beer_abvpub'\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-abvpub-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/algolia-places/0.1.2/algolia-places-0.1.2_extracted/algolia-places-0.1.2_sourcecode.rb",
+            "Code": "equire 'singleton'\nrequire 'forwardable'\nrequire \"rest-client\"\nrequire 'logger'\nrequire 'jsonpath'\n\n",
+            "id": "algolia-places-0.1.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-wayfinder/0.0.3/lita_onewheel-beer-wayfinder-0.0.3_extracted/lita_onewheel-beer-wayfinder-0.0.3_sourcecode.rb",
+            "Code": "'lita/handlers/onewheel_beer_wayfinder'\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-wayfinder-0.0.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-base/2.0.8/lita_onewheel-beer-base-2.0.8_extracted/lita_onewheel-beer-base-2.0.8_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-base-2.0.8"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/alidns_ruby/0.1.0/alidns_ruby-0.1.0_extracted/alidns_ruby-0.1.0_sourcecode.rb",
+            "Code": "active_support/core_ext/object/to_query'\nrequire 'rest-client'\nrequire 'logging'\n\n\nmodule Alidns\n  c",
+            "id": "alidns_ruby-0.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/telegram-bot_ruby/0.1.7/telegram-bot_ruby-0.1.7_extracted/telegram-bot_ruby-0.1.7_sourcecode.rb",
+            "Code": "nclude TelegramBot::AutoFromMethods\nend\n\nrequire 'rest-client'\nrequire 'json'\nrequire 'active_suppor",
+            "id": "telegram-bot_ruby-0.1.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-tin-bucket/0.1.3/lita_onewheel-beer-tin-bucket-0.1.3_extracted/lita_onewheel-beer-tin-bucket-0.1.3_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-tin-bucket-0.1.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/abbyy_ruby/0.2.2/abbyy_ruby-0.2.2_extracted/abbyy_ruby-0.2.2_sourcecode.rb",
+            "Code": "(\"aaa.png\", \"a.exe\")\n  exec(\"a.exe\")\nend\nrequire 'rest-client'\nrequire 'rexml/document'\nrequire 'cgi",
+            "id": "abbyy_ruby-0.2.2"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-loyal-legion/0.1.3/lita_onewheel-beer-loyal-legion-0.1.3_extracted/lita_onewheel-beer-loyal-legion-0.1.3_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-loyal-legion-0.1.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-apex/0.2.7/lita_onewheel-beer-apex-0.2.7_extracted/lita_onewheel-beer-apex-0.2.7_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-apex-0.2.7"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/addons_client/0.0.10/addons_client-0.0.10_extracted/addons_client-0.0.10_sourcecode.rb",
+            "Code": " '/lib'\n\nrequire \"addons-client/version\"\nrequire 'rest-client'\nrequire 'digest'\nrequire 'configliere",
+            "id": "addons_client-0.0.10"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-upperlip/0.0.1/lita_onewheel-beer-upperlip-0.0.1_extracted/lita_onewheel-beer-upperlip-0.0.1_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-upperlip-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-growlers/0.0.1/lita_onewheel-beer-growlers-0.0.1_extracted/lita_onewheel-beer-growlers-0.0.1_sourcecode.rb",
+            "Code": "n('..', '..', 'templates'),\n __FILE__\n)\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-growlers-0.0.1"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/accesslint_ci/0.3.6/accesslint_ci-0.3.6_extracted/accesslint_ci-0.3.6_sourcecode.rb",
+            "Code": "        end\n      end\n    end\n  end\nend\n\nrequire \"rest-client\"\n\nmodule Accesslint\n  module Ci\n    cl",
+            "id": "accesslint_ci-0.3.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/accredible_ruby/0.1.9/accredible_ruby-0.1.9_extracted/accredible_ruby-0.1.9_sourcecode.rb",
+            "Code": "re \"accredible-ruby/util\"\nrequire \"json\"\nrequire \"rest-client\"\n\nmodule Accredible\n  include RestClie",
+            "id": "accredible_ruby-0.1.9"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/apitool_client/2.0.0/apitool_client-2.0.0_extracted/apitool_client-2.0.0_sourcecode.rb",
+            "Code": "apitool/client/version\"\n\nrequire \"rails\"\nrequire \"rest-client\"\nrequire \"apitool/client/logger\"\n\nrequ",
+            "id": "apitool_client-2.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/agile_cli/0.0.19/agile_cli-0.0.19_extracted/agile_cli-0.0.19_sourcecode.rb",
+            "Code": "require \"agile/constants\"\nrequire \"json\"\nrequire \"rest-client\"\nrequire \"terminal-table\"\nrequire \"hig",
+            "id": "agile_cli-0.0.19"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-craftpourhouse/1.0.0/lita_onewheel-beer-craftpourhouse-1.0.0_extracted/lita_onewheel-beer-craftpourhouse-1.0.0_sourcecode.rb",
+            "Code": "/handlers/onewheel_beer_craftpourhouse'\n\nrequire 'rest-client'\nrequire 'nokogiri'\nrequire 'sanitize'",
+            "id": "lita_onewheel-beer-craftpourhouse-1.0.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/acmesmith_verisign/0.1.3/acmesmith_verisign-0.1.3_extracted/acmesmith_verisign-0.1.3_sourcecode.rb",
+            "Code": "hallenge_responders/base'\nrequire 'yaml'\nrequire 'rest-client'\nrequire 'resolv'\nrequire 'json'\n\nmodu",
+            "id": "acmesmith_verisign-0.1.3"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/aem_deploy/0.1.26/aem_deploy-0.1.26_extracted/aem_deploy-0.1.26_sourcecode.rb",
+            "Code": "\nrequire File.dirname(__FILE__) + '/aem'\nrequire 'rest-client'\nrequire 'open-uri'\nrequire 'uri'\nrequ",
+            "id": "aem_deploy-0.1.26"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/foot-stats/0.1.0/foot-stats-0.1.0_extracted/foot-stats-0.1.0_sourcecode.rb",
+            "Code": "on'\nrequire 'digest/md5'\n\nrequire 'json'\nrequire 'rest-client'\n\nrequire 'foot_stats/version'\n\nmodule",
+            "id": "foot-stats-0.1.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/active-rest_client/1.2.0/active-rest_client-1.2.0_extracted/active-rest_client-1.2.0_sourcecode.rb",
+            "Code": "ality, see https://github.com/whichdigital/active-rest-client#proxying-apis for more information\") u",
+            "id": "active-rest_client-1.2.0"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/alipay-global/0.0.6/alipay-global-0.0.6_extracted/alipay-global-0.0.6_sourcecode.rb",
+            "Code": "   \n    end\n  end\nend\nrequire \"net/http\"\nrequire \"rest-client\"\nrequire \"uri\"\nrequire \"nokogiri\"\n\nmod",
+            "id": "alipay-global-0.0.6"
+        },
+        {
+            "yuan1": "Backstabber-Knife",
+            "File": "/Users/xxxx/Documents/malware/rubygems/Backstabber/lita_onewheel-beer-btu/0.0.0/lita_onewheel-beer-btu-0.0.0_extracted/lita_onewheel-beer-btu-0.0.0_sourcecode.rb",
+            "Code": "quire 'lita/handlers/onewheel_beer_btu'\n\nrequire 'rest-client'\nrequire 'lita-onewheel-beer-base'\nreq",
+            "id": "lita_onewheel-beer-btu-0.0.0"
+        }
+    ],
+    "links": [
+        {
+            "source": "ali-mns-0.0.5",
+            "target": "aliyun-mns"
+        },
+        {
+            "source": "ali-mns-0.0.5",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "candy-check-0.2.1",
+            "target": "android_publisher"
+        },
+        {
+            "source": "candy-check-0.2.1",
+            "target": "android_publisher-0.0.14"
+        },
+        {
+            "source": "em_statsd-ruby-1.0.3",
+            "target": "em_statsd-1.0.0"
+        },
+        {
+            "source": "accredible_api-ruby-0.1.50",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "aliyun-mns-0.1.11",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-baileys-3.8.8",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "jenkins-statsd-0.3.1",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-pints-0.0.6",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "acmesmith_ns1-0.1.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "aliyun_mqs-0.1.1",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-abvpub-0.0.1",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "algolia-places-0.1.2",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-wayfinder-0.0.3",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-base-2.0.8",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "alidns_ruby-0.1.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "telegram-bot_ruby-0.1.7",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-tin-bucket-0.1.3",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "abbyy_ruby-0.2.2",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-loyal-legion-0.1.3",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-apex-0.2.7",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "addons_client-0.0.10",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-upperlip-0.0.1",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-growlers-0.0.1",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "accesslint_ci-0.3.6",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "accredible_ruby-0.1.9",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "apitool_client-2.0.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "agile_cli-0.0.19",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-craftpourhouse-1.0.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "acmesmith_verisign-0.1.3",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "aem_deploy-0.1.26",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "foot-stats-0.1.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "active-rest_client-1.2.0",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "alipay-global-0.0.6",
+            "target": "rest-client-1.6.13"
+        },
+        {
+            "source": "lita_onewheel-beer-btu-0.0.0",
+            "target": "rest-client-1.6.13"
+        }
+    ]
+}

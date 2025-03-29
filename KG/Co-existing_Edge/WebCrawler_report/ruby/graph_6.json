@@ -1,0 +1,54 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/bootstrap-sass/3.2.0.3/bootstrap-sass-3.2.0.3.gem",
+            "name_version": "bootstrap-sass-3.2.0.3",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "bootstrap-sass",
+            "version": "3.2.0.3",
+            "published_at": "2019-03-26T20:17:41.182Z",
+            "id": 964,
+            "url": "https://snyk.io/blog/typosquatting-attacks/",
+            "download_number": null,
+            "SHA-256": "64e84384de95770c6b254928a00d953d184bf3f4f8d3592d22e4232cddc112eb",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/bootstrap-sass/3.2.0.3/bootstrap-sass-3.2.0.3_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "minitest, minitest-reporters, capybara, poltergeist, actionpack, activesupport, json, sprockets-rails, autoprefixer-rails, jquery-rails, slim-rails, uglifier, term-ansicolor, sass"
+        },
+        {
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/rubygems/Backstabber/strong_password/0.0.7/strong_password-0.0.7.gem",
+            "name_version": "strong_password-0.0.7",
+            "Status": "tracked",
+            "OSS": "RubyGems",
+            "name": "strong_password",
+            "version": "0.0.7",
+            "published_at": "2019-06-25T15:38:06.010Z",
+            "id": 1085,
+            "url": "https://snyk.io/blog/typosquatting-attacks/",
+            "download_number": null,
+            "SHA-256": "2ab854aa39d933df870fc77df76cfa32986d593b1edde1d6eb027dac3c0b706b",
+            "path": "/Users/xxxx/Documents/malware/rubygems/Backstabber/strong_password/0.0.7/strong_password-0.0.7_extracted",
+            "description": NaN,
+            "author": 1.0,
+            "maintainers": "The number of author or maintainer is 1.",
+            "repository_url": "contain a homepage URL and a Github URL.",
+            "dependencies": "bundler, rake, rspec, pry"
+        }
+    ],
+    "links": [
+        {
+            "report": "https://snyk.io/blog/typosquatting-attacks/",
+            "source": 964,
+            "target": 1085
+        }
+    ]
+}

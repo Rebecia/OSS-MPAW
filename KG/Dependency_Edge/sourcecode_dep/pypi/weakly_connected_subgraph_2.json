@@ -1,0 +1,138 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "calculator_2c397c49ab20c445-1000.0.2",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.2/calculator_2c397c49ab20c445-1000.0.2.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.2/calculator_2c397c49ab20c445-1000.0.2.tar_extracted",
+            "name": "calculator_2c397c49ab20c445",
+            "version": "1000.0.2",
+            "published_at": "2022-12-16T22:59:31.558Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "3e4922c272a2e16799202f4ab33046f8c686ab9a4b535d73b8cebb8d54ebe757"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "calculator_2c397c49ab20c445-1000.0.3",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.3/calculator_2c397c49ab20c445-1000.0.3.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.3/calculator_2c397c49ab20c445-1000.0.3.tar_extracted",
+            "name": "calculator_2c397c49ab20c445",
+            "version": "1000.0.3",
+            "published_at": "2022-12-16T23:08:00.646Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "af0dad77d59c147fe14722144f05252211fddf8422af8b7d9ad53daa840e0355"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "calculator_2c397c49ab20c445-1000.0.4",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.4/calculator_2c397c49ab20c445-1000.0.4.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.4/calculator_2c397c49ab20c445-1000.0.4.tar_extracted",
+            "name": "calculator_2c397c49ab20c445",
+            "version": "1000.0.4",
+            "published_at": "2022-12-16T23:16:00.652Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "dc3ddccbdbce43b0e135031b6675ffe0998d9a7d26e1a3a9c43cadd35665bc6a"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "calculator_2c397c49ab20c445-1000.0.5",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.5/calculator_2c397c49ab20c445-1000.0.5.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.5/calculator_2c397c49ab20c445-1000.0.5.tar_extracted",
+            "name": "calculator_2c397c49ab20c445",
+            "version": "1000.0.5",
+            "published_at": "2022-12-16T23:28:00.652Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "5e4b528870f369481bffd32d45e1bf343b78aa82911677f47ef73431e7c53e9d"
+        },
+        {
+            "yuan": "Backstabber-Knife",
+            "id": "calculator_2c397c49ab20c445-1000.0.6",
+            "Source": "Backstabber-Knife",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.6/calculator_2c397c49ab20c445-1000.0.6.tar.gz",
+            "path": "/Users/xxxx/Documents/malware/pypi/Backstabber/calculator-2c397c49ab20c445/calculator_2c397c49ab20c445-1000.0.6/calculator_2c397c49ab20c445-1000.0.6.tar_extracted",
+            "name": "calculator_2c397c49ab20c445",
+            "version": "1000.0.6",
+            "published_at": "2022-12-16T23:43:01.106Z",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN,
+            "SHA-256": "7c96698bac1be67d9bcf6904fdce1d6cd143dfcb0e9ef7e40e8e580e4ab81ccc"
+        },
+        {
+            "yuan1": "DataDog",
+            "File": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-19-calculator-2c397c49ab20c445_extracted/2022-12-19-calculator-2c397c49ab20c445_sourcecode.py",
+            "Code": "from calculator_2c397c49ab20c445.calculator import *\n\ni",
+            "id": "calculator-2c397c49ab20c445",
+            "Source": "DataDog",
+            "Filepath": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-19-calculator-2c397c49ab20c445.zip",
+            "path": "/Users/xxxx/Documents/malware/pypi/pypi1397_datadog/2022-12-19-calculator-2c397c49ab20c445_extracted",
+            "name": "calculator-2c397c49ab20c445",
+            "version": NaN,
+            "published_at": "Not available",
+            "Status": "tracked",
+            "OSS": "PyPI",
+            "description": "Dependecy Confusion POC",
+            "author": "Zeyad Abulaban",
+            "maintainers": NaN,
+            "repository_url": "Contains a homepage URL but not a GitHub URL.",
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": "calculator-2c397c49ab20c445",
+            "target": "calculator_2c397c49ab20c445-1000.0.2"
+        },
+        {
+            "source": "calculator-2c397c49ab20c445",
+            "target": "calculator_2c397c49ab20c445-1000.0.5"
+        },
+        {
+            "source": "calculator-2c397c49ab20c445",
+            "target": "calculator_2c397c49ab20c445-1000.0.4"
+        },
+        {
+            "source": "calculator-2c397c49ab20c445",
+            "target": "calculator_2c397c49ab20c445-1000.0.3"
+        },
+        {
+            "source": "calculator-2c397c49ab20c445",
+            "target": "calculator_2c397c49ab20c445-1000.0.6"
+        }
+    ]
+}

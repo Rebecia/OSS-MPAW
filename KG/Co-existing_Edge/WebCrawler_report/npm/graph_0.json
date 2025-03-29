@@ -1,0 +1,115 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "Source": "Socket",
+            "Filepath": NaN,
+            "name_version": "2e6d5f64604be31-1.0.0",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "2e6d5f64604be31",
+            "version": "1.0.0",
+            "published_at": "2023-12-06T15:14:05.831Z",
+            "id": 307,
+            "url": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Socket",
+            "Filepath": NaN,
+            "name_version": "2e6d5f64604be31-1.0.1",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "2e6d5f64604be31",
+            "version": "1.0.1",
+            "published_at": "2023-12-12T15:30:02.994Z",
+            "id": 308,
+            "url": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "download_number": null,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Socket",
+            "Filepath": NaN,
+            "name_version": "2e6d5f64604be31-1.0.2",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "2e6d5f64604be31",
+            "version": "1.0.2",
+            "published_at": "2023-12-13T15:47:50.339Z",
+            "id": 309,
+            "url": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "download_number": 0,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "Source": "Snyk.io",
+            "Filepath": NaN,
+            "name_version": "2e6d5f64604be31",
+            "Status": "untracked",
+            "OSS": "NPM",
+            "name": "2e6d5f64604be31",
+            "version": NaN,
+            "published_at": "Not available",
+            "id": 306,
+            "url": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "download_number": 0,
+            "path": NaN,
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 306,
+            "target": 307
+        },
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 306,
+            "target": 308
+        },
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 306,
+            "target": 309
+        },
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 307,
+            "target": 308
+        },
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 307,
+            "target": 309
+        },
+        {
+            "report": "https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack",
+            "source": 308,
+            "target": 309
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "gunther",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 1,
+            "download_number": 513,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "iosthin",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 2,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "kwai-jenkins",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 4,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        },
+        {
+            "name": "kwai-kim-bot",
+            "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
+            "Source": NaN,
+            "status": "untraced",
+            "time": "Not available",
+            "id": 3,
+            "download_number": null,
+            "version": NaN,
+            "Filepath": NaN,
+            "path": NaN,
+            "published_at": "Not available",
+            "Status": "untracked",
+            "OSS": "RubyGems",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": NaN,
+            "dependencies": NaN
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 4
+        }
+    ]
+}

