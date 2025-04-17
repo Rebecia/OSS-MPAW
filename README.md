@@ -25,7 +25,7 @@ year={2025},
 6. Dataset of dependent-hidden  groups.
 7. Dataset of co-existing groups.
 
-*You can obtain full raw data by email: <wendyzhouxian@gmail.com>*
+*You can obtain full raw data by email: <xiaoyanzwendy@gmail.com>*
 
 ## 📚 Documentation
 
