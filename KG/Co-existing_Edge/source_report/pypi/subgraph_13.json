@@ -8,17 +8,16 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "get",
-            "time": "2023-11-13T12:29:42.000Z",
             "id": 577,
             "download_number": 602732082,
-            "version": null
+            "version": null,
+            "published_at": "2023-11-13T12:29:42.000Z"
         },
         {
             "name": "acqusition",
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 569,
             "download_number": null,
             "version": NaN,
@@ -38,7 +37,6 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 570,
             "download_number": null,
             "version": NaN,
@@ -58,7 +56,6 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 571,
             "download_number": null,
             "version": NaN,
@@ -78,7 +75,6 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 572,
             "download_number": null,
             "version": NaN,
@@ -98,17 +94,16 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 573,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "pwd",
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 574,
             "download_number": null,
             "version": NaN,
@@ -128,7 +123,6 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 576,
             "download_number": null,
             "version": NaN,
@@ -148,7 +142,6 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 578,
             "download_number": null,
             "version": NaN,
@@ -168,10 +161,10 @@
             "report": "https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 575,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         }
     ],
     "links": [

@@ -8,247 +8,246 @@
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T16:26:09.489Z",
             "id": 6776,
             "download_number": 26,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T16:26:09.489Z"
         },
         {
             "name": "hello-world-exampl",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T17:03:56.398Z",
             "id": 6775,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T17:03:56.398Z"
         },
         {
             "name": "rqeuests",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T17:18:57.291Z",
             "id": 6975,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T17:18:57.291Z"
         },
         {
             "name": "cloorama",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T19:18:34.097Z",
             "id": 6642,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T19:18:34.097Z"
         },
         {
             "name": "baeutifulsoup4",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T21:08:54.002Z",
             "id": 591,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T21:08:54.002Z"
         },
         {
             "name": "tkniter",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T22:45:06.582Z",
             "id": 7104,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T22:45:06.582Z"
         },
         {
             "name": "cryptograpyh",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T22:52:10.097Z",
             "id": 6700,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T22:52:10.097Z"
         },
         {
             "name": "pytorhc",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T23:02:14.668Z",
             "id": 6950,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T23:02:14.668Z"
         },
         {
             "name": "pyyalm",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T23:52:03.224Z",
             "id": 6952,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T23:52:03.224Z"
         },
         {
             "name": "sqlachemy",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T00:37:20.493Z",
             "id": 7020,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T00:37:20.493Z"
         },
         {
             "name": "sqlalcemy",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T00:57:09.020Z",
             "id": 7024,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T00:57:09.020Z"
         },
         {
             "name": "notebok",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T01:33:35.923Z",
             "id": 6877,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T01:33:35.923Z"
         },
         {
             "name": "mysql-connector-pyhton",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T02:36:34.509Z",
             "id": 6876,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T02:36:34.509Z"
         },
         {
             "name": "ipyhton",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T02:43:37.326Z",
             "id": 6781,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T02:43:37.326Z"
         },
         {
             "name": "pygaem",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T10:42:26.850Z",
             "id": 6918,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T10:42:26.850Z"
         },
         {
             "name": "pyautogiu",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T10:57:13.268Z",
             "id": 6914,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T10:57:13.268Z"
         },
         {
             "name": "python-dateuti",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T12:38:55.497Z",
             "id": 6947,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T12:38:55.497Z"
         },
         {
             "name": "beautifulsup4",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T13:02:08.236Z",
             "id": 6601,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T13:02:08.236Z"
         },
         {
             "name": "urlllib",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T13:47:52.368Z",
             "id": 7107,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T13:47:52.368Z"
         },
         {
             "name": "djangoo",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T14:08:54.428Z",
             "id": 6727,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T14:08:54.428Z"
         },
         {
             "name": "crpytography",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T14:56:04.215Z",
             "id": 6662,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T14:56:04.215Z"
         },
         {
             "name": "mail-validator",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T16:08:07.750Z",
             "id": 6812,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T16:08:07.750Z"
         },
         {
             "name": "pillwo",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T16:33:06.098Z",
             "id": 6909,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T16:33:06.098Z"
         },
         {
             "name": "mariabd",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T16:33:57.873Z",
             "id": 6814,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T16:33:57.873Z"
         },
         {
             "name": "python-flask",
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6948,
             "download_number": null,
             "version": NaN,
@@ -268,7 +267,6 @@
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6946,
             "download_number": null,
             "version": NaN,
@@ -288,7 +286,6 @@
             "report": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7176,
             "download_number": null,
             "version": NaN,

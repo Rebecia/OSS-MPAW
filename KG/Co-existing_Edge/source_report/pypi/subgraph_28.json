@@ -8,20 +8,20 @@
             "report": "https://blog.phylum.io/obfuscated-pypi-packages-purporting-to-be-i18n-libraries-actually-stealing-telegram-data/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6789,
             "download_number": 6,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "locute",
             "report": "https://blog.phylum.io/obfuscated-pypi-packages-purporting-to-be-i18n-libraries-actually-stealing-telegram-data/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6790,
             "download_number": 10,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         }
     ],
     "links": [

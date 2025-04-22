@@ -8,57 +8,56 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-12T09:56:24.491Z",
             "id": 1,
             "download_number": null,
-            "version": "0.0.1-beta.16"
+            "version": "0.0.1-beta.16",
+            "published_at": "2023-09-12T09:56:24.491Z"
         },
         {
             "name": "@am-fe/hooks-0.0.1-beta.3",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-12T10:01:10.330Z",
             "id": 2,
             "download_number": null,
-            "version": "0.0.1-beta.3"
+            "version": "0.0.1-beta.3",
+            "published_at": "2023-09-12T10:01:10.330Z"
         },
         {
             "name": "@am-fe/provider-0.0.1-alpha.8",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T02:35:29.292Z",
             "id": 3,
             "download_number": null,
-            "version": "0.0.1-alpha.8"
+            "version": "0.0.1-alpha.8",
+            "published_at": "2023-09-13T02:35:29.292Z"
         },
         {
             "name": "@am-fe/watermark-1.0.1",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T02:37:03.921Z",
             "id": 5,
             "download_number": null,
-            "version": "1.0.1"
+            "version": "1.0.1",
+            "published_at": "2023-09-13T02:37:03.921Z"
         },
         {
             "name": "@am-fe/utils-0.0.1-alpha.3",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T02:44:17.601Z",
             "id": 4,
             "download_number": null,
-            "version": "0.0.1-alpha.3"
+            "version": "0.0.1-alpha.3",
+            "published_at": "2023-09-13T02:44:17.601Z"
         },
         {
             "name": "@soc-fe/use",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T03:29:30.991Z",
             "id": 121,
             "download_number": null,
             "version": "0.0.2-beta.8",
@@ -78,7 +77,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T03:59:51.371Z",
             "id": 2426,
             "download_number": null,
             "version": "1.12.16-beta.0",
@@ -98,137 +96,136 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T06:37:30.528Z",
             "id": 25,
             "download_number": null,
-            "version": "1.0.4-alpha.3"
+            "version": "1.0.4-alpha.3",
+            "published_at": "2023-09-13T06:37:30.528Z"
         },
         {
             "name": "@dynamic-form-components/mui-1.4.2-alpha.1",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T06:43:07.071Z",
             "id": 24,
             "download_number": null,
-            "version": "1.4.2-alpha.1"
+            "version": "1.4.2-alpha.1",
+            "published_at": "2023-09-13T06:43:07.071Z"
         },
         {
             "name": "@expue/app-0.0.2-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-13T08:20:11.201Z",
             "id": 30,
             "download_number": null,
-            "version": "0.0.2-alpha.0"
+            "version": "0.0.2-alpha.0",
+            "published_at": "2023-09-13T08:20:11.201Z"
         },
         {
             "name": "@expue/builder-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:07:35.293Z",
             "id": 31,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:07:35.293Z"
         },
         {
             "name": "@expue/cli-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:08:42.014Z",
             "id": 37,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:08:42.014Z"
         },
         {
             "name": "@expue/cli-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:08:42.014Z",
             "id": 38,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:08:42.014Z"
         },
         {
             "name": "@expue/core-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:09:31.907Z",
             "id": 39,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:09:31.907Z"
         },
         {
             "name": "@expue/plugin-express-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:10:30.373Z",
             "id": 40,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:10:30.373Z"
         },
         {
             "name": "@expue/shared-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:11:05.417Z",
             "id": 62,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:11:05.417Z"
         },
         {
             "name": "@expue/types-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:27:39.429Z",
             "id": 63,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:27:39.429Z"
         },
         {
             "name": "@expue/vue-renderer-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:28:54.290Z",
             "id": 66,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:28:54.290Z"
         },
         {
             "name": "@expue/vue3-helper-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:30:01.068Z",
             "id": 64,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:30:01.068Z"
         },
         {
             "name": "@expue/vue3-renderer-0.0.3-alpha.0",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:31:15.757Z",
             "id": 65,
             "download_number": null,
-            "version": "0.0.3-alpha.0"
+            "version": "0.0.3-alpha.0",
+            "published_at": "2023-09-14T02:31:15.757Z"
         },
         {
             "name": "@sheinoutmobile/sheinoutmobile",
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T02:51:05.029Z",
             "id": 119,
             "download_number": null,
             "version": "1.6.0",
@@ -248,7 +245,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T08:04:09.472Z",
             "id": 676,
             "download_number": null,
             "version": "0.0.1-rc.3",
@@ -268,7 +264,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T08:31:02.053Z",
             "id": 2512,
             "download_number": null,
             "version": "3.0.8",
@@ -288,7 +283,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-14T11:08:57.077Z",
             "id": 120,
             "download_number": null,
             "version": "1.8.2",
@@ -308,7 +302,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-20T07:36:41.072Z",
             "id": 340,
             "download_number": null,
             "version": "0.0.1",
@@ -328,7 +321,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-20T07:54:42.750Z",
             "id": 677,
             "download_number": null,
             "version": "1.0.2",
@@ -348,7 +340,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-21T06:00:50.396Z",
             "id": 1159,
             "download_number": null,
             "version": "1.1.4",
@@ -368,7 +359,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-21T06:01:25.806Z",
             "id": 1180,
             "download_number": null,
             "version": "1.0.1",
@@ -388,7 +378,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-21T06:20:32.495Z",
             "id": 2497,
             "download_number": null,
             "version": "1.0.9",
@@ -408,7 +397,6 @@
             "report": "https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "2023-09-25T06:22:44.582Z",
             "id": 2002,
             "download_number": null,
             "version": "1.0.6",

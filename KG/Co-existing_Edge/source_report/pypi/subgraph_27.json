@@ -8,67 +8,66 @@
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7046,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "chazz ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7034,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "easycordeyy ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6730,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "easycordey ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6729,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "informmodule ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7033,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "infosys ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6780,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "modulesecurity",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7032,
             "download_number": 1,
             "version": NaN,
@@ -88,57 +87,56 @@
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6879,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "proxybooster ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7047,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "proxygeneratorbil ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7036,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "py4sync ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6913,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "randomtime ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6955,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "sys",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7040,
             "download_number": null,
             "version": NaN,
@@ -158,30 +156,30 @@
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 7035,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "tomproxies ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7039,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "upamonkws ",
             "report": "https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7045,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         }
     ],
     "links": [

@@ -8,97 +8,96 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-06T00:43:53.766Z",
             "id": 6795,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-06T00:43:53.766Z"
         },
         {
             "name": "auo",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-07T18:19:50.423Z",
             "id": 590,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-07T18:19:50.423Z"
         },
         {
             "name": "pyshftuler",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-12T07:42:16.650Z",
             "id": 6943,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-12T07:42:16.650Z"
         },
         {
             "name": "Discord-Embedds",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-13T07:17:01.092Z",
             "id": 6724,
             "download_number": 1,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-13T07:17:01.092Z"
         },
         {
             "name": "ascii2art",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-14T13:20:05.825Z",
             "id": 588,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-14T13:20:05.825Z"
         },
         {
             "name": "blockcypher-lib",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-14T13:55:01.601Z",
             "id": 6632,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-14T13:55:01.601Z"
         },
         {
             "name": "shortnet",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-15T18:00:34.861Z",
             "id": 7003,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-15T18:00:34.861Z"
         },
         {
             "name": "mozilla",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-17T13:20:36.614Z",
             "id": 6872,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-17T13:20:36.614Z"
         },
         {
             "name": "shortnets",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "2022-11-18T17:09:00.882Z",
             "id": 7004,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "2022-11-18T17:09:00.882Z"
         },
         {
             "name": "apch",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7141,
             "download_number": null,
             "version": NaN,
@@ -118,7 +117,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7128,
             "download_number": null,
             "version": NaN,
@@ -138,7 +136,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7132,
             "download_number": null,
             "version": NaN,
@@ -158,7 +155,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7135,
             "download_number": null,
             "version": NaN,
@@ -178,7 +174,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7142,
             "download_number": null,
             "version": NaN,
@@ -198,17 +193,16 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "get",
-            "time": "Not available",
             "id": 6705,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         },
         {
             "name": "discord-api-wrapper",
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7138,
             "download_number": 1,
             "version": NaN,
@@ -228,7 +222,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7126,
             "download_number": null,
             "version": NaN,
@@ -248,7 +241,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7129,
             "download_number": null,
             "version": NaN,
@@ -268,7 +260,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7133,
             "download_number": null,
             "version": NaN,
@@ -288,7 +279,6 @@
             "report": "https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 7127,
             "download_number": null,
             "version": NaN,

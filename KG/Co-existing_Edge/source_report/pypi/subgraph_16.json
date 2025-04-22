@@ -8,7 +8,6 @@
             "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 583,
             "download_number": 1,
             "version": NaN,
@@ -28,7 +27,6 @@
             "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 585,
             "download_number": 1,
             "version": NaN,
@@ -48,7 +46,6 @@
             "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 582,
             "download_number": 1,
             "version": NaN,
@@ -68,7 +65,6 @@
             "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 584,
             "download_number": 1,
             "version": NaN,
@@ -88,10 +84,10 @@
             "report": "https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
             "id": 581,
             "download_number": null,
-            "version": null
+            "version": null,
+            "published_at": "Not available"
         }
     ],
     "links": [

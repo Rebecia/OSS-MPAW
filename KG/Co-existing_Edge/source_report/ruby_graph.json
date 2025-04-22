@@ -8,32 +8,32 @@
             "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
-            "id": 1
+            "id": 1,
+            "published_at": "Not available"
         },
         {
             "name": "iosthin",
             "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
-            "id": 2
+            "id": 2,
+            "published_at": "Not available"
         },
         {
             "name": "kwai-kim-bot",
             "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
-            "id": 3
+            "id": 3,
+            "published_at": "Not available"
         },
         {
             "name": "kwai-jenkins",
             "report": "https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/",
             "Source": NaN,
             "status": "untraced",
-            "time": "Not available",
-            "id": 4
+            "id": 4,
+            "published_at": "Not available"
         }
     ],
     "links": [

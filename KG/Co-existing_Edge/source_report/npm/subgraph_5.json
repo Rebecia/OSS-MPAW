@@ -8,20 +8,20 @@
             "report": "https://blog.phylum.io/malware-targeting-dydx-crypto-exchange/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "Not available",
             "id": 11,
             "download_number": 60227259376,
-            "version": "dydxprotocol/perpetual"
+            "version": "dydxprotocol/perpetual",
+            "published_at": "Not available"
         },
         {
             "name": "-dydxprotocol/solo",
             "report": "https://blog.phylum.io/malware-targeting-dydx-crypto-exchange/",
             "Source": "Phylum",
             "status": "untraced",
-            "time": "Not available",
             "id": 13,
             "download_number": 60227259376,
-            "version": "dydxprotocol/solo"
+            "version": "dydxprotocol/solo",
+            "published_at": "Not available"
         }
     ],
     "links": [
